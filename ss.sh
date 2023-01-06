@@ -13,6 +13,8 @@ function f_cor1 {
    tput setaf 4
 }
 
+alias ss="${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
+
 function 0 {
 echo "
 Devi Asks:
@@ -592,7 +594,27 @@ function 112 {
 case $1 in 
    -g | --grep)
       # Searches for text inside the 'vigyan bhairav tantra' document
-      echo uDev
+
+      # Create a place to save and manipulate our temporary file
+         mkdir -p ~/.tmp/
+
+         # Ensure no previous file exists with text, because the next method will append text instead of replacing
+            rm ~/.tmp/ss.txt 2>/dev/null
+
+      # Dump all text of shiva sutras into that file
+         for i in {1..112}; do 
+            $i >> ~/.tmp/ss.txt
+         done
+
+      # Prompt the user for the text to search for:
+         read -p "Searching for text: " v_ans
+         echo
+
+      # Grab all lines containing the pattern from user input along with one line before that line (the option -B). (The flag --color=auto will highlight our pattern when grep displays text to the screen)
+         grep -B 1 $v_ans ~/.tmp/ss.txt --color=auto
+
+      # Remove our temporary file (not needed anymore)
+         rm ~/.tmp/ss.txt 2>/dev/null
    ;;
    -r | --random)
       # Generates random numbers and asks user to remember the sutra behind that number
