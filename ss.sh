@@ -644,233 +644,462 @@ case $1 in
          echo
          $v_rand
       ;;
-      0) f_0
+      0) 
+         # This option echos out the text of function f_0 (equivalent to Shiva Sutra 0)
+         f_0
+      ;;
+      1) 
+         # This option echos out the text of function f_1(equivalent to Shiva Sutra 0)
+         f_1
+      ;;
+      2) 
+         # This option echos out the text of function f_2 (equivalent to Shiva Sutra 2)
+         f_2
+      ;;
+      3) 
+         # This option echos out the text of function f_3 (equivalent to Shiva Sutra 3)
+         f_3
+      ;;
+      4) 
+         # This option echos out the text of function f_4 (equivalent to Shiva Sutra 4)
+         f_4
+      ;;
+      5) 
+         # This option echos out the text of function f_5 (equivalent to Shiva Sutra 5)
+         f_5
+      ;;
+      6) 
+         # This option echos out the text of function f_6 (equivalent to Shiva Sutra 6)
+         f_6
+      ;;
+      7) 
+         # This option echos out the text of function f_7 (equivalent to Shiva Sutra 7)
+         f_7
+      ;;
+      8) 
+         # This option echos out the text of function f_8 (equivalent to Shiva Sutra 8)
+         f_8
+      ;;
+      9) 
+         # This option echos out the text of function 9 (equivalent to Shiva Sutra 9)
+         
+         f_9
+      ;;
+      10) 
+         # This option echos out the text of function 10 (equivalent to Shiva Sutra 10)
+         f_10
+      ;;
+      11) 
+         # This option echos out the text of function 11 (equivalent to Shiva Sutra 11)
+         f_11
+      ;;
+      12) 
+         # This option echos out the text of function 12 (equivalent to Shiva Sutra 12)
+         f_12
+      ;;
+      13) 
+         # This option echos out the text of function 13 (equivalent to Shiva Sutra 13)
+         f_13
+      ;;
+      14) 
+         # This option echos out the text of function 14 (equivalent to Shiva Sutra 14)
+         f_14
+      ;;
+      15) 
+         # This option echos out the text of function 15 (equivalent to Shiva Sutra 15)
+         f_15
+      ;;
+      16) 
+         # This option echos out the text of function 16 (equivalent to Shiva Sutra 16)
+         f_16
+      ;;
+      17) 
+         # This option echos out the text of function 17 (equivalent to Shiva Sutra 17)
+         f_17
+      ;;
+      18) 
+         # This option echos out the text of function 18 (equivalent to Shiva Sutra 18)
+         f_18
+      ;;
+      19) 
+         # This option echos out the text of function 19 (equivalent to Shiva Sutra 19)
+         f_19
+      ;;
+      20) 
+         # This option echos out the text of function 20 (equivalent to Shiva Sutra 20)
+         f_20
+      ;;
+      21) 
+         # This option echos out the text of function 21 (equivalent to Shiva Sutra 21)
+         f_21
+      ;;
+      22) 
+         # This option echos out the text of function 22 (equivalent to Shiva Sutra 22)
+         f_22
+      ;;
+      23) 
+         # This option echos out the text of function 23 (equivalent to Shiva Sutra 23)
+         f_23
+      ;;
+      24) 
+         # This option echos out the text of function 24 (equivalent to Shiva Sutra 24)
+         f_24
+      ;;
+      25) 
+         # This option echos out the text of function 25 (equivalent to Shiva Sutra 25)
+         f_25
       ;;
-      1) f_1
+      26) 
+         # This option echos out the text of function 26 (equivalent to Shiva Sutra 26)
+         f_26
       ;;
-      2) f_2
+      27) 
+         # This option echos out the text of function 27 (equivalent to Shiva Sutra 27)
+         f_27
       ;;
-      3) f_3
+      28) 
+         # This option echos out the text of function 28 (equivalent to Shiva Sutra 28)
+         f_28
       ;;
-      4) f_4
+      29) 
+         # This option echos out the text of function 29 (equivalent to Shiva Sutra 29)
+         f_29
       ;;
-      5) f_5
+      30) 
+         # This option echos out the text of function 30 (equivalent to Shiva Sutra 30)
+         f_30
       ;;
-      6) f_6
+      31) 
+         # This option echos out the text of function 31 (equivalent to Shiva Sutra 31)
+         f_31
       ;;
-      7) f_7
+      32) 
+         # This option echos out the text of function 32 (equivalent to Shiva Sutra 32)
+         f_32
       ;;
-      8) f_8
+      33) 
+         # This option echos out the text of function 33 (equivalent to Shiva Sutra 33)
+         f_33
       ;;
-      9) f_9
+      34) 
+         # This option echos out the text of function 34 (equivalent to Shiva Sutra 34)
+         f_34
       ;;
-      10) f_10
+      35) 
+         # This option echos out the text of function 35 (equivalent to Shiva Sutra 35)
+         f_35
       ;;
-      11) f_11
+      36) 
+         # This option echos out the text of function 36 (equivalent to Shiva Sutra 36)
+         f_36
       ;;
-      12) f_12
+      37) 
+         # This option echos out the text of function 37 (equivalent to Shiva Sutra 37)
+         f_37
       ;;
-      13) f_13
+      38) 
+         # This option echos out the text of function 38 (equivalent to Shiva Sutra 38)
+         f_38
       ;;
-      14) f_14
+      39) 
+         # This option echos out the text of function 39 (equivalent to Shiva Sutra 39)
+         f_39
       ;;
-      15) f_15
+      40) 
+         # This option echos out the text of function 40 (equivalent to Shiva Sutra 40)
+         f_40
       ;;
-      16) f_16
+      41) 
+         # This option echos out the text of function 41 (equivalent to Shiva Sutra 41)
+         f_41
       ;;
-      17) f_17
+      42) 
+         # This option echos out the text of function 42 (equivalent to Shiva Sutra 42)
+         f_42
       ;;
-      18) f_18
+      43) 
+         # This option echos out the text of function 43 (equivalent to Shiva Sutra 43)
+         f_43
       ;;
-      19) f_19
+      44) 
+         # This option echos out the text of function 44 (equivalent to Shiva Sutra 44)
+         f_44
       ;;
-      20) f_20
+      45) 
+         # This option echos out the text of function 45 (equivalent to Shiva Sutra 45)
+         f_45
       ;;
-      21) f_21
+      46) 
+         # This option echos out the text of function 46 (equivalent to Shiva Sutra 46)
+         f_46
       ;;
-      22) f_22
+      47) 
+         # This option echos out the text of function 47 (equivalent to Shiva Sutra 47)
+         f_47
       ;;
-      23) f_23
+      48) 
+         # This option echos out the text of function 48 (equivalent to Shiva Sutra 48)
+         f_48
       ;;
-      24) f_24
+      49) 
+         # This option echos out the text of function 49 (equivalent to Shiva Sutra 49)
+         f_49
       ;;
-      25) f_25
+      50) 
+         # This option echos out the text of function 50 (equivalent to Shiva Sutra 50)
+         f_50
       ;;
-      26) f_26
+      51) 
+         # This option echos out the text of function 51 (equivalent to Shiva Sutra 51)
+         f_51
       ;;
-      27) f_27
+      52) 
+         # This option echos out the text of function 52 (equivalent to Shiva Sutra 52)
+         f_52
       ;;
-      28) f_28
+      53) 
+         # This option echos out the text of function 53 (equivalent to Shiva Sutra 53)
+         f_53
       ;;
-      29) f_29
+      54) 
+         # This option echos out the text of function 54 (equivalent to Shiva Sutra 54)
+         f_54
       ;;
-      30) f_30
+      55) 
+         # This option echos out the text of function 55 (equivalent to Shiva Sutra 55)
+         f_55
       ;;
-      31) f_31
+      56) 
+         # This option echos out the text of function 56 (equivalent to Shiva Sutra 56)
+         f_56
       ;;
-      32) f_32
+      57) 
+         # This option echos out the text of function 57 (equivalent to Shiva Sutra 57)
+         f_57
       ;;
-      33) f_33
+      58) 
+         # This option echos out the text of function 58 (equivalent to Shiva Sutra 58)
+         f_58
       ;;
-      34) f_34
+      59) 
+         # This option echos out the text of function 59 (equivalent to Shiva Sutra 59)
+         f_59
       ;;
-      35) f_35
+      60) 
+         # This option echos out the text of function 60 (equivalent to Shiva Sutra 60)
+         f_60
       ;;
-      36) f_36
+      61) 
+         # This option echos out the text of function 61 (equivalent to Shiva Sutra 61)
+         f_61
       ;;
-      37) f_37
+      62) 
+         # This option echos out the text of function 62 (equivalent to Shiva Sutra 62)
+         f_62
       ;;
-      38) f_38
+      63) 
+         # This option echos out the text of function 63 (equivalent to Shiva Sutra 63)
+         f_63
       ;;
-      39) f_39
+      64) 
+         # This option echos out the text of function 64 (equivalent to Shiva Sutra 64)
+         f_64
       ;;
-      40) f_40
+      65) 
+         # This option echos out the text of function 65 (equivalent to Shiva Sutra 65)
+         f_65
       ;;
-      41) f_41
+      66) 
+         # This option echos out the text of function 66 (equivalent to Shiva Sutra 66)
+         f_66
       ;;
-      42) f_42
+      67) 
+         # This option echos out the text of function 67 (equivalent to Shiva Sutra 67)
+         f_67
       ;;
-      43) f_43
+      68) 
+         # This option echos out the text of function 68 (equivalent to Shiva Sutra 68)
+         f_68
       ;;
-      44) f_44
+      69) 
+         # This option echos out the text of function 69 (equivalent to Shiva Sutra 69)
+         f_69
       ;;
-      45) f_45
+      70) 
+         # This option echos out the text of function 70 (equivalent to Shiva Sutra 70)
+         f_70
       ;;
-      46) f_46
+      71) 
+         # This option echos out the text of function 71 (equivalent to Shiva Sutra 71)
+         f_71
       ;;
-      47) f_47
+      72) 
+         # This option echos out the text of function 72 (equivalent to Shiva Sutra 72)
+         f_72
       ;;
-      48) f_48
+      73) 
+         # This option echos out the text of function 73 (equivalent to Shiva Sutra 73)
+         f_73
       ;;
-      49) f_49
+      74) 
+         # This option echos out the text of function 74 (equivalent to Shiva Sutra 74)
+         f_74
       ;;
-      50) f_50
+      75) 
+         # This option echos out the text of function 75 (equivalent to Shiva Sutra 75)
+         f_75
       ;;
-      51) f_51
+      76) 
+         # This option echos out the text of function 76 (equivalent to Shiva Sutra 76)
+         f_76
       ;;
-      52) f_52
+      77) 
+         # This option echos out the text of function 77 (equivalent to Shiva Sutra 77)
+         f_77
       ;;
-      53) f_53
+      78) 
+         # This option echos out the text of function 78 (equivalent to Shiva Sutra 78)
+         f_78
       ;;
-      54) f_54
+      79) 
+         # This option echos out the text of function 79 (equivalent to Shiva Sutra 79)
+         f_79
       ;;
-      55) f_55
+      80) 
+         # This option echos out the text of function 80 (equivalent to Shiva Sutra 80)
+         f_80
       ;;
-      56) f_56
+      81) 
+         # This option echos out the text of function 81 (equivalent to Shiva Sutra 81)
+         f_81
       ;;
-      57) f_57
+      82) 
+         # This option echos out the text of function 82 (equivalent to Shiva Sutra 82)
+         f_82
       ;;
-      58) f_58
+      83) 
+         # This option echos out the text of function 83 (equivalent to Shiva Sutra 83)
+         f_83
       ;;
-      59) f_59
+      84) 
+         # This option echos out the text of function 84 (equivalent to Shiva Sutra 84)
+         f_84
       ;;
-      60) f_60
+      85) 
+         # This option echos out the text of function 85 (equivalent to Shiva Sutra 85)
+         f_85
       ;;
-      61) f_61
+      86) 
+         # This option echos out the text of function 86 (equivalent to Shiva Sutra 86)
+         f_86
       ;;
-      62) f_62
+      86) 
+         # This option echos out the text of function 86 (equivalent to Shiva Sutra 86)
+         f_86
       ;;
-      63) f_63
+      87) 
+         # This option echos out the text of function 87 (equivalent to Shiva Sutra 87)
+         f_87
       ;;
-      64) f_64
+      88) 
+         # This option echos out the text of function 88 (equivalent to Shiva Sutra 88)
+         f_88
       ;;
-      65) f_65
+      89) 
+         # This option echos out the text of function 89 (equivalent to Shiva Sutra 89)
+         f_89
       ;;
-      66) f_66
+      90) 
+         # This option echos out the text of function 90 (equivalent to Shiva Sutra 90)
+         f_90
       ;;
-      67) f_67
+      91) 
+         # This option echos out the text of function 91 (equivalent to Shiva Sutra 91)
+         f_91
       ;;
-      68) f_68
+      92) 
+         # This option echos out the text of function 92 (equivalent to Shiva Sutra 92)
+         f_92
       ;;
-      69) f_69
+      93) 
+         # This option echos out the text of function 93 (equivalent to Shiva Sutra 93)
+         f_93
       ;;
-      70) f_70
+      94) 
+         # This option echos out the text of function 94 (equivalent to Shiva Sutra 94)
+         f_94
       ;;
-      71) f_71
+      95) 
+         # This option echos out the text of function 95 (equivalent to Shiva Sutra 95)
+         f_95
       ;;
-      72) f_72
+      96) 
+         # This option echos out the text of function 96 (equivalent to Shiva Sutra 96)
+         f_96
       ;;
-      73) f_73
+      97) 
+         # This option echos out the text of function 97 (equivalent to Shiva Sutra 97)
+         f_97
       ;;
-      74) f_74
+      98) 
+         # This option echos out the text of function 98 (equivalent to Shiva Sutra 98)
+         f_98
       ;;
-      75) f_75
+      99) 
+         # This option echos out the text of function 99 (equivalent to Shiva Sutra 99)
+         f_99
       ;;
-      76) f_76
+      100) 
+         # This option echos out the text of function 100 (equivalent to Shiva Sutra 100)
+         f_100
       ;;
-      77) f_77
+      101) 
+         # This option echos out the text of function 101 (equivalent to Shiva Sutra 101)
+         f_101
       ;;
-      78) f_78
+      102) 
+         # This option echos out the text of function 102 (equivalent to Shiva Sutra 102)
+         f_102
       ;;
-      79) f_79
+      103) 
+         # This option echos out the text of function 103 (equivalent to Shiva Sutra 103)
+         f_103
       ;;
-      80) f_80
+      104) 
+         # This option echos out the text of function 104 (equivalent to Shiva Sutra 104)
+         f_104
       ;;
-      81) f_81
+      105) 
+         # This option echos out the text of function 105 (equivalent to Shiva Sutra 105)
+         f_105
       ;;
-      82) f_82
+      106) 
+         # This option echos out the text of function 106 (equivalent to Shiva Sutra 106)
+         f_106
       ;;
-      83) f_83
+      107) 
+         # This option echos out the text of function 107 (equivalent to Shiva Sutra 107)
+         f_107
       ;;
-      84) f_84
+      108) 
+         # This option echos out the text of function 108 (equivalent to Shiva Sutra 108)
+         f_108
       ;;
-      85) f_85
+      109) 
+         # This option echos out the text of function 109 (equivalent to Shiva Sutra 109)
+         f_109
       ;;
-      86) f_86
+      110) 
+         # This option echos out the text of function 110 (equivalent to Shiva Sutra 110)
+         f_110
       ;;
-      86) f_86
+      111) 
+         # This option echos out the text of function 111 (equivalent to Shiva Sutra 111)
+         f_111
       ;;
-      87) f_87
-      ;;
-      88) f_88
-      ;;
-      89) f_89
-      ;;
-      90) f_90
-      ;;
-      91) f_91
-      ;;
-      92) f_92
-      ;;
-      93) f_93
-      ;;
-      94) f_94
-      ;;
-      95) f_95
-      ;;
-      96) f_96
-      ;;
-      97) f_97
-      ;;
-      98) f_98
-      ;;
-      99) f_99
-      ;;
-      100) f_100
-      ;;
-      101) f_101
-      ;;
-      102) f_102
-      ;;
-      103) f_103
-      ;;
-      104) f_104
-      ;;
-      105) f_105
-      ;;
-      106) f_106
-      ;;
-      107) f_107
-      ;;
-      108) f_108
-      ;;
-      109) f_109
-      ;;
-      110) f_110
-      ;;
-      111) f_111
-      ;;
-      112) f_112
+      112) 
+         # This option echos out the text of function 112 (equivalent to Shiva Sutra 112)
+         f_112
       ;;
       *)
          # Display all Shiva Sutras if no arg is found
