@@ -106,7 +106,7 @@ function f_14 {
 
 function f_15 {
    echo "Shiva Sutra #15:"
-   echo " > Closing the seven openings of the head with your hands, a space between your eyes becomes all-inclusive. "
+   echo " > Closing the seven openings of the head with your hands, a space between your eyes becomes all-inclusive. (by Nithyananda: By closing the opening of the senses by hands, and by piercing the center between eyebrows, when the bindu is perceived, and there is a gradual merging, then the supreme state is found in the center)"
 }
 
 function f_16 {
@@ -206,7 +206,7 @@ function f_34 {
 
 function f_35 {
    echo "Shiva Sutra #35:"
-   echo " > At the edge of a deep well look steadily into its depths until – the wondrousness. (... until the wonderessness happens. by nithyananda) "
+   echo " > At the edge of a deep well look steadily into its depths until – the wondrousness. (... until the wonderessness happens to you. by nithyananda) "
 }
 
 function f_36 {
@@ -606,7 +606,7 @@ case $1 in
 
       # Dump all text of shiva sutras into that file
          for i in {1..112}; do 
-            $i >> ~/.tmp/ss.txt
+            f_$i >> ~/.tmp/ss.txt
          done
 
       # Prompt the user for the text to search for:
@@ -1105,6 +1105,6 @@ case $1 in
          # Display all Shiva Sutras if no arg is found
             clear
             figlet "Shiva Sutras"
-            for i in {0..112}; do $i; echo; done
+            for i in {0..112}; do f_$i; echo; done
       ;;
 esac
