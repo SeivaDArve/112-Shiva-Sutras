@@ -1141,7 +1141,7 @@ function f_intro_30_31_32 {
       So there are two possibilities of movement. One is from object A to object But — this is an outward movement. This is how it is happening naturally. But there is another possibility which is of tantra and yoga — not allowing movement from one outside object to another and stopping this movement. Then the eyes jump from an outside object to the inner consciousness, they begin to move inwards. Remember these four points; then it will be easy to understand the techniques.  '
 }
 
-function f_intros_1_2_3_4_5_6_7_8_9 {
+function f_intro_1_2_3_4_5_6_7_8_9 {
    echo '
    Devi Asks:
       O Shiva, what is your reality?
@@ -1221,7 +1221,7 @@ function f_intros_1_2_3_4_5_6_7_8_9 {
              To observe a moon is not very difficult. Even to reach the moon is not very difficult; it is a gross journey. You need mechanization, you need technology, you need accumulated information, and then you can reach it. Breathing is the nearest thing to you, and the nearer a thing is, the more difficult it is to perceive it. The nearer it is, the more difficult; the more obvious it is, the more difficult. It is so near to you that again there is no space between you and your breathing. Or, there is such a small space that you will need a very minute observation, only then will you become aware of certain points. These points are the basis of these techniques. So now I will take each technique.  '
 }
 
-function f_intros_100_101 {
+function f_intro_100_101 {
    echo '
    Many people seem to be interested in meditation, but that interest cannot be very deep because so very few are transformed through it. If the interest is really deep, it becomes a fire by itself. It transforms you. Just through intense interest you start becoming different. A new center of being arises. So many people seem to be interested but nothing new arises in them, no new center is born, no new crystallization is achieved. They remain the same.
 
@@ -1266,7 +1266,7 @@ function f_intros_100_101 {
       Now, we should enter the methods.  '
 }
 
-function f_intros_33_34_35_36 {
+function f_intro_33_34_35_36 {
    echo '
    We live on the surface of ourselves — just at the fringe, the boundary. The senses are just on the boundary and your consciousness is way deep down at the center. We live in the senses; that is natural. But that is not the ultimate flowering, it is just the beginning. And when we are living in the senses, we are basically concerned with objects, because senses are irrelevant unless there is concern with some object of enjoyment. For example, eyes are useless unless there is something to be seen, ears are useless unless there is something to be heard, and hands are useless unless there is something to be touched.
 
@@ -1363,7 +1363,7 @@ function f_intros_33_34_35_36 {
       If your own life cannot give you something, nothing can give it to you. Learn through your own life, conclude through it. What have you been doing with yourself? If you are in a wheel, jump out of it. But to know that you are in a wheel, you will have to go deep into understanding and learning. These three things will help you to turn in.  '
 }
 
-function f_intros_37_38 {
+function f_intro_37_38 {
    echo '
    Jean Paul Sartre wrote an autobiography. He has called it WORDS. The name is very meaningful. It is the autobiography of every man — words and words and words. You are filled with words, and this process of words continues the whole day, even in the mind. When you are sleeping, you are still filled with words, thoughts.
 
@@ -1414,7 +1414,7 @@ function f_intros_37_38 {
       All the meditation techniques are an effort to give you a glimpse of that which is not mind. So how to go beyond it? How to leave it and look at it even for a single moment?  '
 }
 
-function f_intros_39_40_41 {
+function f_intro_39_40_41 {
    echo '
    Iwonder whether or not you have heard about the concept of anti-matter. A new concept has entered recently in the world of physics — the concept of anti-matter. It has been felt always that nothing can exist in the universe without its opposite. It is impossible to conceive of anything which exists alone without its opposite. The diametrically opposite must be there whether known or not.
 
@@ -1437,7 +1437,7 @@ function f_intros_39_40_41 {
       If mind can be used as a jumping board — and yoga and tantra believe that it can — then something which belongs to mind has to be trained. Sound is one of the basic things, you can use sound to go into soundlessness.  '
 }
 
-function f_intros_42_43_44 {
+function f_intro_42_43_44 {
    echo '
    Tantra divides life into two dimensions: one is the SANSAR — that which is, the world; and the other is MOKSHA — that which can be, the ultimate, the hidden which can become manifest. But there is no contradiction between these two. The hidden is just here and now, in the world — of course, unknown to you, but not non-existent. It is there. The ultimate and the immediate are not two things, but just two dimensions of one existence.
 
@@ -1488,7 +1488,7 @@ function f_intros_42_43_44 {
       These techniques can be helpful only if you take this attitude; otherwise they will not be helpful. And they look so simple. If you start them directly as you are, they will seem simple, but you will not succeed in them. The basic framework is lacking. Acceptance is the basic framework. Once the acceptance is there in the background, these very simple methods will work wonders.  '
 }
 
-function f_intros_45_46_47 {
+function f_intro_45_46_47 {
    echo '
    Tantra is not a philosophy. Rather, it is a science with one difference: science is objective, tantra is subjective. But still, it is a science and not a philosophy. Philosophy thinks about the truth, the unknown, the ultimate; science tries to discover what is. Science enters the immediate; philosophy thinks of the ultimate. Philosophy is always looking toward the sky; science is more down to earth.
 
@@ -1507,7 +1507,7 @@ function f_intros_45_46_47 {
       So every philosophy is good for philosophizing. For experiencing, every philosophy is impotent. That is why there is so much insistence on technique in tantra – SO MUCH insistence on technique, because a science can do nothing but give technology, whether of the outside world or of the inside. The very word `tantra’ means technique. The very word `tantra’ MEANS technique! That is why, in this small and yet one of the greatest and deepest books, only techniques are given, no philosophy, just one hundred and twelve techniques to reach the ultimate through the immediate.  '
 }
 
-function f_intros_48_49_50_51_52 {
+function f_intro_48_49_50_51_52 {
    echo '
    Sigmund Freud has said somewhere that man is born neurotic. This is a half-truth. Man is not born neurotic, but he is born in a neurotic humanity and the society around drives everyone neurotic sooner or later. Man is born natural, real, normal, but the moment the newborn becomes part of the society neurosis starts working.
 
@@ -1529,7 +1529,7 @@ function f_intros_48_49_50_51_52 {
       Sartre said somewhere that every promise is going to be false. You cannot promise because you are not whole. Just a part of you promises, and when the part is no more there on the throne and another part has taken over, what are you going to do? Who will fulfill the promise? Hypocrisy is born because when you go on trying to fulfill, pretending that you are fulfilling, then everything becomes false. Tantra says fall down deep within to the feeling center. What to do and how to fall back? Now I will enter the sutras. These sutras, each sutra, is an effort to make you whole.  '
 }
 
-function f_intros_53_54_55_56 {
+function f_intro_53_54_55_56 {
    echo '
    Civilization is a training in how to become unreal. Tantra is the reverse process — how to prevent yourself from becoming unreal, and if you have already become unreal, how to touch the reality which is hidden within you, how to contact it again, how to be again real. The first thing to be understood is how we go on becoming unreal, and once this process is understood many things change immediately. The very understanding becomes mutation.
 
@@ -1558,7 +1558,7 @@ function f_intros_53_54_55_56 {
       Tantra says come down. Descend from your thrones, come down from your heads. Forget the reflections and move towards the reality. All the techniques which we are discussing are concerned with this: how to be away from the mind so that you can move into reality. Now we will discuss the techniques.  '
 }
 
-function f_intros_57_58_59_60 {
+function f_intro_57_58_59_60 {
    echo '
    The original mind is like a mirror: it is pure, and it remains pure, but dust can gather upon it. The purity is not lost, the dust cannot destroy the purity — but the purity can be covered up. This is the condition of the ordinary mind — covered with dust. Hidden behind the dust, the original mind remains pure. It cannot become impure; that is impossible. And if it was possible for it to become impure, then there would be no way to regain the purity again. In itself it remains pure, just covered by dust.
 
@@ -1581,7 +1581,7 @@ function f_intros_57_58_59_60 {
       Many are the ways how to uncover yourself from your past, how to throw the dust and have a look into the mirror of your own mind. All these techniques are different ways, but with every technique a deep understanding is needed: remember that. These techniques are not mechanical because they are to uncover consciousness. They are not mechanical things. You can use these techniques mechanically, and if you use them as mechanical techniques you may gain a certain stillness of mind, but that won’t be the original purity. You may gain a certain silence, but that silence will he cultivated. That too belongs to the dust part of the mind, not to the original layer. Don’t use them mechanically. A deep understanding is needed, and with understanding they can be helpful to uncover your being.  '
 }
 
-function f_intros_61_62_63 {
+function f_intro_61_62_63 {
    echo '
    Sri Aurobindo says somewhere that the whole life is yoga — and it is so. Everything can become a meditation. And unless everything becomes a meditation, meditation has not happened to you. Meditation cannot be a part, a fragment. Either it is — and when it is you are wholly in it — or it is not. You cannot make a part of your life meditative. That is impossible, and that is what is being tried everywhere.
 
@@ -1604,7 +1604,7 @@ function f_intros_61_62_63 {
       Any act can become meditative, and once you know how an act becomes meditative you can transform all your acts into meditation. Then the whole life becomes yoga. Walking on the street or working in the office or just sitting and not doing anything — just idling, or anything — can become meditation. So remember, meditation doesn’t belong to the act; it belongs to the quality you bring to the act. Now we will enter the techniques.  '
 }
 
-function f_intros_64_65 {
+function f_intro_64_65 {
    echo '
    Life is a paradox. To reach near you have to travel far, and that which is already achieved you have to achieve again. Nothing is lost. Man remains natural, man remains pure, man remains innocent; it is only that he forgets it. The purity is not disturbed, the innocence is not destroyed. Only a deep forgetfulness is there.
 
@@ -1669,7 +1669,7 @@ function f_intros_64_65 {
       Tomorrow never comes, it is always today. And this mind which thinks in terms of tomorrow will ALWAYS think in terms of tomorrow. And it never comes, it has never been, it will never be. All that you have is this very moment, so don’t go on postponing. Now we will enter the techniques.  '
 }
 
-function f_intros_66_67 {
+function f_intro_66_67 {
    echo '
    Northrope says somewhere that the Western mind has been continuously searching for the theoretical component of existence — the causal link for how things happen, what is the cause, how the effect can be controlled, how man can manipulate nature. And the Eastern mind, says Northrope, has been on a different adventure. The search has been to find the aesthetic component of reality — not the theoretical, but the aesthetic.
 
@@ -1702,7 +1702,7 @@ function f_intros_66_67 {
       Tantra is based not on intellect, but on heart. It is not an intellectual effort, it is a feeling effort. Remember this, because that will help you to understand the techniques. Now we will enter the techniques.  '
 }
 
-function f_intros_68_69 {
+function f_intro_68_69 {
    echo '
    Hui-neng had asked a person, “What is the problem? What are the roots so that man can be solved and man can make some efforts to know who he is?”
 
@@ -1769,7 +1769,7 @@ function f_intros_68_69 {
       So don’t leave anything suspended, that is one thing. And whatsoever you are doing, remain with the act. Don’t move anywhere else. If you are taking a shower, be there. Forget the whole world. Now this shower is the whole universe. Everything has ceased; the world has disappeared. There is only you and the shower. Remain there. Move with each act so totally that you are neither lagging behind nor jumping ahead; you are with the act. Then dreams will disappear, and with less dreaming you will be more able to penetrate the reality.  '
 }
 
-function f_intros_70_71_72 {
+function f_intro_70_71_72 {
    echo '
    Man can be considered in three ways: in terms of the normal, the abnormal and the supernormal. Western psychology is basically concerned with the abnormal, the pathological, with the man who has fallen down from the normal, who has fallen down from the norm.
 
@@ -1824,7 +1824,7 @@ function f_intros_70_71_72 {
       Nowhere does there exist any technique which has not been covered in this one hundred and twelve; they are the whole spiritual search in essence. But all the techniques are not for everyone, so you will have to try them out. Only certain techniques will be helpful to you, and you will have to find them out. There are two ways: either by your own trial and error, until you stumble upon something which starts working and you start growing, and then you move in it; or you surrender to some teacher and he finds out what will suit you. These are the two ways. You can choose. Now the technique.  '
 }
 
-function f_intros_73_74_75 {
+function f_intro_73_74_75 {
    echo '
    AS I LOOK IN YOUR EYES I never see you there — as if you are absent. You exist absently, and this is the core of all suffering. You can be alive without being at all present, and if you are not present your existence will become a boredom. And this is what has happened. So when I look in your eyes I don’t find you there. You have yet to come, you have yet to be. The situation is there, and the possibility is there — you can be there any moment — but yet you are not.
 
@@ -1879,7 +1879,7 @@ function f_intros_73_74_75 {
       Now we will enter the techniques.  '
 }
 
-function f_intros_76_77_78 {
+function f_intro_76_77_78 {
    echo '
    Once a doctor, a very well known historian and an eminent scholar, was staying in a village. The postmaster, the old postmaster of the village, became curious about this old man, this doctor. He was curious to know what kind of doctor he is, so one day he asked, `What kind of doctor are you sir?’
 
@@ -1922,7 +1922,7 @@ function f_intros_76_77_78 {
       Now we will enter the techniques.  '
 }
 
-function f_intros_79_80_81 {
+function f_intro_79_80_81 {
    echo '
    All the enlightened ones, all the religions, agree on one thing only. Their disagreements are many, but there is one agreement amongst all, and that is that man, because of his ego, is closed to the reality. The ego is the only barrier; the feeling that I Am.
 
@@ -1987,7 +1987,7 @@ function f_intros_79_80_81 {
       Now we will enter the techniques — because these techniques are concerned with being egoless. Very simple techniques, but if you understand this background then you can do them, and much becomes possible through them.  '
 }
 
-function f_intros_82_83 {
+function f_intro_82_83 {
    echo '
    Once a visitor asked many people in a small town about the mayor: `What type of man is your mayor?’
 
@@ -2056,7 +2056,7 @@ function f_intros_82_83 {
       Is God going to be your possession? The Upanishads say that one who says that he has achieved God, has not achieved, because the very assertion that `I have achieved God’, is an ego-assertion. The Upanishads say that one who claims that he has known, has not known. The very claim shows that he has not known, because the claim that `I have known’, comes from the ego. And the ego cannot know. The ego is the only barrier.  '
 }
 
-function f_intros_84_85 {
+function f_intro_84_85 {
    echo '
    Ihave heard a story about an old doctor. One day his assistant phoned him because he was in very great difficulty — his patient was choking himself to death. A billiard ball was stuck in his throat, and the assistant was at a loss for what to do. So he asked the old doctor, `What am I supposed to do now?’ The old doctor said, `Tickle the patient with a feather.’
 
@@ -2079,7 +2079,7 @@ function f_intros_84_85 {
       First try to understand the technique absolutely rightly. When you have understood it, then try it. And don’t use this old doctor’s motto that when you don’t know what to do, do something. No, don’t do anything. Non-doing will be more beneficial to you than any doing. This is so because the mind is so delicate that if you do something wrongly it is very difficult to undo it — very difficult to undo it. It is very easy to do something wrong, but very difficult to undo it. Remember this.  '
 }
 
-function f_intros_86_87 {
+function f_intro_86_87 {
    echo '
    Man is Janus-Faced — animal and divine both. Animal belongs to his past, divine belongs to his future, and this creates the difficulty. The past has passed, it is no more; just a shadow of it lingers on. And the future is still the future, it has not yet come; it just a dream, just a possibility. And between these two exists man — the shadow of the past and the dream of the future. He is neither and he is both.
 
@@ -2128,7 +2128,7 @@ function f_intros_86_87 {
       Now I will discuss the techniques.  '
 }
 
-function f_intros_88_89 {
+function f_intro_88_89 {
    echo '
    Ihave heard one anecdote. In a conservative party rally, Lord Mancroft was invited to speak. He came right on time, reached the rostrum and said to the public — he was looking a little flustered — he said, `Forgive me for shortening my speech a little, but the fact is that my house is on fire.’
 
@@ -2185,7 +2185,7 @@ function f_intros_88_89 {
       Whatsoever I am saying here will make you acquainted. It is needed, but it is not enough. It starts you on a journey, but it is not the end. Do something so that knowledge doesn’t remain knowledge, doesn’t remain as memory, but becomes your experience and your life.  '
 }
 
-function f_intros_90_91 {
+function f_intro_90_91 {
    echo '
    Once it happened in a church that after a very long dry sermon, the minister announced that there would be a meeting, a brief meeting of the board, right after the benediction. After the services a stranger approached the minister; he was the first man. The minister thought, `There has been some misunderstanding,’ because the man was absolutely a stranger. He didn’t even look like a Christian; his appearance was that of a Mohammedan, so the minister said, `It seems you have misunderstood the announcement. There is going to be a meeting of the board.’
 
@@ -2280,7 +2280,7 @@ function f_intros_90_91 {
       No animal can create himself. You can create yourself, and unless you start creating, you will be destroying. Unless you create yourself, start creating…. And it is not a thing to create yourself, it is a process — you have to go on creating. Unless you reach to the ultimate, you have to go on creating. Unless the God is born within you, you have to go on creating. If you are not creating, you will be bored — uncreative life is boredom. All these techniques are to help you to create, to be reborn, to become pregnant. Now I will take the techniques.  '
 }
 
-function f_intros_92_93 {
+function f_intro_92_93 {
    echo '
    Life is not a problem but a mystery. For science life is a problem, but for religion it is a mystery. A problem can be solved, a mystery cannot be solved — it can be lived but it cannot be solved. Religion offers no solutions, no answers. Science offers answers; religion has none.
 
@@ -2315,7 +2315,7 @@ function f_intros_92_93 {
       So take these techniques not as knowledge, but as a help to make you more innocent. Ignorance is innocent, knowledge is always a sort of cunningness, cleverness. If you can use your knowledge to be ignorant again, then you have used it rightly. This is the only use of all the scriptures, of all the knowledge, of all the Vedas — to make you childlike again.  '
 }
 
-function f_intros_94_95 {
+function f_intro_94_95 {
    echo '
    Philosophers all over the world have been arguing for centuries about what basic stuff the universe is made of, what the substance is. There have been propositions, systems, that say that matter is the basic reality and mind is just an outgrowth, that matter is basic and mind is just a by-product, that mind is also material, only subtle.
 
@@ -2356,7 +2356,7 @@ function f_intros_94_95 {
       Tantra says that if you can change dreaming, imagination, if you can change your mind and the pattern of it, the reality behind will be different. Because it is deeply rooted in reality, you can move through the mind. These techniques are just to change the way and the style in which your mind has been behaving up to now.  '
 }
 
-function f_intros_96_97 {
+function f_intro_96_97 {
    echo '
    Man is born alone and dies alone, but between these two points he lives in society, he lives with others.
 
@@ -2389,7 +2389,7 @@ function f_intros_96_97 {
       This technique is concerned with loneliness.  '
 }
 
-function f_intros_98_99 {
+function f_intro_98_99 {
    echo '
    Life on the outside is a cyclone — a constant conflict, turmoil, struggle. But it is only so on the surface — just as on the surface of the ocean are waves, maddening noise, constant struggle. But this is not all of life. Deep down there is also a center — soundless, silent, no conflict, no struggle. In the center, life is a noiseless flow, relaxed, a river moving with no struggle, with no fight, no violence Towards that inner center is the search.
 
@@ -2469,592 +2469,683 @@ case $1 in
          echo " > SS $v_rand is ..."
          echo
          $v_rand
-      ;;
-      0) 
-         # This option echos out the text of function f_0 (equivalent to Shiva Sutra 0)
-         f_0
-      ;;
-      1) 
-         # This option echos out the text of function f_1(equivalent to Shiva Sutra 0)
-         f_1
-      ;;
-      2) 
-         # This option echos out the text of function f_2 (equivalent to Shiva Sutra 2)
-         f_2
-      ;;
-      3) 
-         # This option echos out the text of function f_3 (equivalent to Shiva Sutra 3)
-         f_3
-      ;;
-      4) 
-         # This option echos out the text of function f_4 (equivalent to Shiva Sutra 4)
-         f_4
-      ;;
-      5) 
-         # This option echos out the text of function f_5 (equivalent to Shiva Sutra 5)
-         f_5
-      ;;
-      6) 
-         # This option echos out the text of function f_6 (equivalent to Shiva Sutra 6)
-         f_6
-      ;;
-      7) 
-         # This option echos out the text of function f_7 (equivalent to Shiva Sutra 7)
-         f_7
-      ;;
-      8) 
-         # This option echos out the text of function f_8 (equivalent to Shiva Sutra 8)
-         f_8
-      ;;
-      9) 
-         # This option echos out the text of function 9 (equivalent to Shiva Sutra 9)
-         
-         f_9
-      ;;
-      10) 
-         # This option echos out the text of function 10 (equivalent to Shiva Sutra 10)
-         f_10
-      ;;
-      11) 
-         # This option echos out the text of function 11 (equivalent to Shiva Sutra 11)
-         f_11
-      ;;
-      12) 
-         # This option echos out the text of function 12 (equivalent to Shiva Sutra 12)
-         f_12
-      ;;
-      13) 
-         # This option echos out the text of function 13 (equivalent to Shiva Sutra 13)
-         f_13
-      ;;
-      14) 
-         # This option echos out the text of function 14 (equivalent to Shiva Sutra 14)
-         f_14
-      ;;
-      15) 
-         # This option echos out the text of function 15 (equivalent to Shiva Sutra 15)
-         f_15
-      ;;
-      16) 
-         # This option echos out the text of function 16 (equivalent to Shiva Sutra 16)
-         f_16
-      ;;
-      17) 
-         # This option echos out the text of function 17 (equivalent to Shiva Sutra 17)
-         f_17
-      ;;
-      18) 
-         # This option echos out the text of function 18 (equivalent to Shiva Sutra 18)
-         f_18
-      ;;
-      19) 
-         # This option echos out the text of function 19 (equivalent to Shiva Sutra 19)
-         f_19
-      ;;
-      20) 
-         # This option echos out the text of function 20 (equivalent to Shiva Sutra 20)
-         f_20
-      ;;
-      21) 
-         # This option echos out the text of function 21 (equivalent to Shiva Sutra 21)
-         f_21
-      ;;
-      22) 
-         # This option echos out the text of function 22 (equivalent to Shiva Sutra 22)
-         f_22
-      ;;
-      23) 
-         # This option echos out the text of function 23 (equivalent to Shiva Sutra 23)
-         f_23
-      ;;
-      24) 
-         # This option echos out the text of function 24 (equivalent to Shiva Sutra 24)
-         f_24
-      ;;
-      25) 
-         # This option echos out the text of function 25 (equivalent to Shiva Sutra 25)
-         f_25
-      ;;
-      26) 
-         # This option echos out the text of function 26 (equivalent to Shiva Sutra 26)
-         f_26
-      ;;
-      27) 
-         # This option echos out the text of function 27 (equivalent to Shiva Sutra 27)
-         f_27
-      ;;
-      28) 
-         # This option echos out the text of function 28 (equivalent to Shiva Sutra 28)
-         f_28
-      ;;
-      29) 
-         # This option echos out the text of function 29 (equivalent to Shiva Sutra 29)
-         f_29
-      ;;
-      30) 
-         # This option echos out the text of function 30 (equivalent to Shiva Sutra 30)
-         f_30
-      ;;
-      31) 
-         # This option echos out the text of function 31 (equivalent to Shiva Sutra 31)
-         f_31
-      ;;
-      32) 
-         # This option echos out the text of function 32 (equivalent to Shiva Sutra 32)
-         f_32
-      ;;
-      33) 
-         # This option echos out the text of function 33 (equivalent to Shiva Sutra 33)
-         f_33
-      ;;
-      34) 
-         # This option echos out the text of function 34 (equivalent to Shiva Sutra 34)
-         f_34
-      ;;
-      35) 
-         # This option echos out the text of function 35 (equivalent to Shiva Sutra 35)
-         f_35
-      ;;
-      36) 
-         # This option echos out the text of function 36 (equivalent to Shiva Sutra 36)
-         f_36
-      ;;
-      37) 
-         # This option echos out the text of function 37 (equivalent to Shiva Sutra 37)
-         f_37
-      ;;
-      38) 
-         # This option echos out the text of function 38 (equivalent to Shiva Sutra 38)
-         f_38
-      ;;
-      39) 
-         # This option echos out the text of function 39 (equivalent to Shiva Sutra 39)
-         f_39
-      ;;
-      40) 
-         # This option echos out the text of function 40 (equivalent to Shiva Sutra 40)
-         f_40
-      ;;
-      41) 
-         # This option echos out the text of function 41 (equivalent to Shiva Sutra 41)
-         f_41
-      ;;
-      42) 
-         # This option echos out the text of function 42 (equivalent to Shiva Sutra 42)
-         f_42
-      ;;
-      43) 
-         # This option echos out the text of function 43 (equivalent to Shiva Sutra 43)
-         f_43
-      ;;
-      44) 
-         # This option echos out the text of function 44 (equivalent to Shiva Sutra 44)
-         f_44
-      ;;
-      45) 
-         # This option echos out the text of function 45 (equivalent to Shiva Sutra 45)
-         f_45
-      ;;
-      46) 
-         # This option echos out the text of function 46 (equivalent to Shiva Sutra 46)
-         f_46
-      ;;
-      47) 
-         # This option echos out the text of function 47 (equivalent to Shiva Sutra 47)
-         f_47
-      ;;
-      48) 
-         # This option echos out the text of function 48 (equivalent to Shiva Sutra 48)
-         f_48
-      ;;
-      49) 
-         # This option echos out the text of function 49 (equivalent to Shiva Sutra 49)
-         f_49
-      ;;
-      50) 
-         # This option echos out the text of function 50 (equivalent to Shiva Sutra 50)
-         f_50
-      ;;
-      51) 
-         # This option echos out the text of function 51 (equivalent to Shiva Sutra 51)
-         f_51
-      ;;
-      52) 
-         # This option echos out the text of function 52 (equivalent to Shiva Sutra 52)
-         f_52
-      ;;
-      53) 
-         # This option echos out the text of function 53 (equivalent to Shiva Sutra 53)
-         f_53
-      ;;
-      54) 
-         # This option echos out the text of function 54 (equivalent to Shiva Sutra 54)
-         f_54
-      ;;
-      55) 
-         # This option echos out the text of function 55 (equivalent to Shiva Sutra 55)
-         f_55
-      ;;
-      56) 
-         # This option echos out the text of function 56 (equivalent to Shiva Sutra 56)
-         f_56
-      ;;
-      57) 
-         # This option echos out the text of function 57 (equivalent to Shiva Sutra 57)
-         f_57
-      ;;
-      58) 
-         # This option echos out the text of function 58 (equivalent to Shiva Sutra 58)
-         f_58
-      ;;
-      59) 
-         # This option echos out the text of function 59 (equivalent to Shiva Sutra 59)
-         f_59
-      ;;
-      60) 
-         # This option echos out the text of function 60 (equivalent to Shiva Sutra 60)
-         f_60
-      ;;
-      61) 
-         # This option echos out the text of function 61 (equivalent to Shiva Sutra 61)
-         f_61
-      ;;
-      62) 
-         # This option echos out the text of function 62 (equivalent to Shiva Sutra 62)
-         f_62
-      ;;
-      63) 
-         # This option echos out the text of function 63 (equivalent to Shiva Sutra 63)
-         f_63
-      ;;
-      64) 
-         # This option echos out the text of function 64 (equivalent to Shiva Sutra 64)
-         f_64
-      ;;
-      65) 
-         # This option echos out the text of function 65 (equivalent to Shiva Sutra 65)
-         f_65
-      ;;
-      66) 
-         # This option echos out the text of function 66 (equivalent to Shiva Sutra 66)
-         f_66
-      ;;
-      67) 
-         # This option echos out the text of function 67 (equivalent to Shiva Sutra 67)
-         f_67
-      ;;
-      68) 
-         # This option echos out the text of function 68 (equivalent to Shiva Sutra 68)
-         f_68
-      ;;
-      69) 
-         # This option echos out the text of function 69 (equivalent to Shiva Sutra 69)
-         f_69
-      ;;
-      70) 
-         # This option echos out the text of function 70 (equivalent to Shiva Sutra 70)
-         f_70
-      ;;
-      71) 
-         # This option echos out the text of function 71 (equivalent to Shiva Sutra 71)
-         f_71
-      ;;
-      72) 
-         # This option echos out the text of function 72 (equivalent to Shiva Sutra 72)
-         f_72
-      ;;
-      73) 
-         # This option echos out the text of function 73 (equivalent to Shiva Sutra 73)
-         f_73
-      ;;
-      74) 
-         # This option echos out the text of function 74 (equivalent to Shiva Sutra 74)
-         f_74
-      ;;
-      75) 
-         # This option echos out the text of function 75 (equivalent to Shiva Sutra 75)
-         f_75
-      ;;
-      76) 
-         # This option echos out the text of function 76 (equivalent to Shiva Sutra 76)
-         f_76
-      ;;
-      77) 
-         # This option echos out the text of function 77 (equivalent to Shiva Sutra 77)
-         f_77
-      ;;
-      78) 
-         # This option echos out the text of function 78 (equivalent to Shiva Sutra 78)
-         f_78
-      ;;
-      79) 
-         # This option echos out the text of function 79 (equivalent to Shiva Sutra 79)
-         f_79
-      ;;
-      80) 
-         # This option echos out the text of function 80 (equivalent to Shiva Sutra 80)
-         f_80
-      ;;
-      81) 
-         # This option echos out the text of function 81 (equivalent to Shiva Sutra 81)
-         f_81
-      ;;
-      82) 
-         # This option echos out the text of function 82 (equivalent to Shiva Sutra 82)
-         f_82
-      ;;
-      83) 
-         # This option echos out the text of function 83 (equivalent to Shiva Sutra 83)
-         f_83
-      ;;
-      84) 
-         # This option echos out the text of function 84 (equivalent to Shiva Sutra 84)
-         f_84
-      ;;
-      85) 
-         # This option echos out the text of function 85 (equivalent to Shiva Sutra 85)
-         f_85
-      ;;
-      86) 
-         # This option echos out the text of function 86 (equivalent to Shiva Sutra 86)
-         f_86
-      ;;
-      86) 
-         # This option echos out the text of function 86 (equivalent to Shiva Sutra 86)
-         f_86
-      ;;
-      87) 
-         # This option echos out the text of function 87 (equivalent to Shiva Sutra 87)
-         f_87
-      ;;
-      88) 
-         # This option echos out the text of function 88 (equivalent to Shiva Sutra 88)
-         f_88
-      ;;
-      89) 
-         # This option echos out the text of function 89 (equivalent to Shiva Sutra 89)
-         f_89
-      ;;
-      90) 
-         # This option echos out the text of function 90 (equivalent to Shiva Sutra 90)
-         f_90
-      ;;
-      91) 
-         # This option echos out the text of function 91 (equivalent to Shiva Sutra 91)
-         f_91
-      ;;
-      92) 
-         # This option echos out the text of function 92 (equivalent to Shiva Sutra 92)
-         f_92
-      ;;
-      93) 
-         # This option echos out the text of function 93 (equivalent to Shiva Sutra 93)
-         f_93
-      ;;
-      94) 
-         # This option echos out the text of function 94 (equivalent to Shiva Sutra 94)
-         f_94
-      ;;
-      95) 
-         # This option echos out the text of function 95 (equivalent to Shiva Sutra 95)
-         f_95
-      ;;
-      96) 
-         # This option echos out the text of function 96 (equivalent to Shiva Sutra 96)
-         f_96
-      ;;
-      97) 
-         # This option echos out the text of function 97 (equivalent to Shiva Sutra 97)
-         f_97
-      ;;
-      98) 
-         # This option echos out the text of function 98 (equivalent to Shiva Sutra 98)
-         f_98
-      ;;
-      99) 
-         # This option echos out the text of function 99 (equivalent to Shiva Sutra 99)
-         f_99
-      ;;
-      100) 
-         # This option echos out the text of function 100 (equivalent to Shiva Sutra 100)
-         f_100
-      ;;
-      101) 
-         # This option echos out the text of function 101 (equivalent to Shiva Sutra 101)
-         f_101
-      ;;
-      102) 
-         # This option echos out the text of function 102 (equivalent to Shiva Sutra 102)
-         f_102
-      ;;
-      103) 
-         # This option echos out the text of function 103 (equivalent to Shiva Sutra 103)
-         f_103
-      ;;
-      104) 
-         # This option echos out the text of function 104 (equivalent to Shiva Sutra 104)
-         f_104
-      ;;
-      105) 
-         # This option echos out the text of function 105 (equivalent to Shiva Sutra 105)
-         f_105
-      ;;
-      106) 
-         # This option echos out the text of function 106 (equivalent to Shiva Sutra 106)
-         f_106
-      ;;
-      107) 
-         # This option echos out the text of function 107 (equivalent to Shiva Sutra 107)
-         f_107
-      ;;
-      108) 
-         # This option echos out the text of function 108 (equivalent to Shiva Sutra 108)
-         f_108
-      ;;
-      109) 
-         # This option echos out the text of function 109 (equivalent to Shiva Sutra 109)
-         f_109
-      ;;
-      110) 
-         # This option echos out the text of function 110 (equivalent to Shiva Sutra 110)
-         f_110
-      ;;
-      111) 
-         # This option echos out the text of function 111 (equivalent to Shiva Sutra 111)
-         f_111
-      ;;
-      112) 
-         # This option echos out the text of function 112 (equivalent to Shiva Sutra 112)
-         f_112
-      ;;
-      intro)
-         case $2 in 
-            1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9)
-            ;;
+   ;;
+   0) 
+      # This option echos out the text of function f_0 (equivalent to Shiva Sutra 0)
+      f_0
+   ;;
+   1) 
+      # This option echos out the text of function f_1(equivalent to Shiva Sutra 0)
+      f_1
+   ;;
+   2) 
+      # This option echos out the text of function f_2 (equivalent to Shiva Sutra 2)
+      f_2
+   ;;
+   3) 
+      # This option echos out the text of function f_3 (equivalent to Shiva Sutra 3)
+      f_3
+   ;;
+   4) 
+      # This option echos out the text of function f_4 (equivalent to Shiva Sutra 4)
+      f_4
+   ;;
+   5) 
+      # This option echos out the text of function f_5 (equivalent to Shiva Sutra 5)
+      f_5
+   ;;
+   6) 
+      # This option echos out the text of function f_6 (equivalent to Shiva Sutra 6)
+      f_6
+   ;;
+   7) 
+      # This option echos out the text of function f_7 (equivalent to Shiva Sutra 7)
+      f_7
+   ;;
+   8) 
+      # This option echos out the text of function f_8 (equivalent to Shiva Sutra 8)
+      f_8
+   ;;
+   9) 
+      # This option echos out the text of function 9 (equivalent to Shiva Sutra 9)
+      
+      f_9
+   ;;
+   10) 
+      # This option echos out the text of function 10 (equivalent to Shiva Sutra 10)
+      f_10
+   ;;
+   11) 
+      # This option echos out the text of function 11 (equivalent to Shiva Sutra 11)
+      f_11
+   ;;
+   12) 
+      # This option echos out the text of function 12 (equivalent to Shiva Sutra 12)
+      f_12
+   ;;
+   13) 
+      # This option echos out the text of function 13 (equivalent to Shiva Sutra 13)
+      f_13
+   ;;
+   14) 
+      # This option echos out the text of function 14 (equivalent to Shiva Sutra 14)
+      f_14
+   ;;
+   15) 
+      # This option echos out the text of function 15 (equivalent to Shiva Sutra 15)
+      f_15
+   ;;
+   16) 
+      # This option echos out the text of function 16 (equivalent to Shiva Sutra 16)
+      f_16
+   ;;
+   17) 
+      # This option echos out the text of function 17 (equivalent to Shiva Sutra 17)
+      f_17
+   ;;
+   18) 
+      # This option echos out the text of function 18 (equivalent to Shiva Sutra 18)
+      f_18
+   ;;
+   19) 
+      # This option echos out the text of function 19 (equivalent to Shiva Sutra 19)
+      f_19
+   ;;
+   20) 
+      # This option echos out the text of function 20 (equivalent to Shiva Sutra 20)
+      f_20
+   ;;
+   21) 
+      # This option echos out the text of function 21 (equivalent to Shiva Sutra 21)
+      f_21
+   ;;
+   22) 
+      # This option echos out the text of function 22 (equivalent to Shiva Sutra 22)
+      f_22
+   ;;
+   23) 
+      # This option echos out the text of function 23 (equivalent to Shiva Sutra 23)
+      f_23
+   ;;
+   24) 
+      # This option echos out the text of function 24 (equivalent to Shiva Sutra 24)
+      f_24
+   ;;
+   25) 
+      # This option echos out the text of function 25 (equivalent to Shiva Sutra 25)
+      f_25
+   ;;
+   26) 
+      # This option echos out the text of function 26 (equivalent to Shiva Sutra 26)
+      f_26
+   ;;
+   27) 
+      # This option echos out the text of function 27 (equivalent to Shiva Sutra 27)
+      f_27
+   ;;
+   28) 
+      # This option echos out the text of function 28 (equivalent to Shiva Sutra 28)
+      f_28
+   ;;
+   29) 
+      # This option echos out the text of function 29 (equivalent to Shiva Sutra 29)
+      f_29
+   ;;
+   30) 
+      # This option echos out the text of function 30 (equivalent to Shiva Sutra 30)
+      f_30
+   ;;
+   31) 
+      # This option echos out the text of function 31 (equivalent to Shiva Sutra 31)
+      f_31
+   ;;
+   32) 
+      # This option echos out the text of function 32 (equivalent to Shiva Sutra 32)
+      f_32
+   ;;
+   33) 
+      # This option echos out the text of function 33 (equivalent to Shiva Sutra 33)
+      f_33
+   ;;
+   34) 
+      # This option echos out the text of function 34 (equivalent to Shiva Sutra 34)
+      f_34
+   ;;
+   35) 
+      # This option echos out the text of function 35 (equivalent to Shiva Sutra 35)
+      f_35
+   ;;
+   36) 
+      # This option echos out the text of function 36 (equivalent to Shiva Sutra 36)
+      f_36
+   ;;
+   37) 
+      # This option echos out the text of function 37 (equivalent to Shiva Sutra 37)
+      f_37
+   ;;
+   38) 
+      # This option echos out the text of function 38 (equivalent to Shiva Sutra 38)
+      f_38
+   ;;
+   39) 
+      # This option echos out the text of function 39 (equivalent to Shiva Sutra 39)
+      f_39
+   ;;
+   40) 
+      # This option echos out the text of function 40 (equivalent to Shiva Sutra 40)
+      f_40
+   ;;
+   41) 
+      # This option echos out the text of function 41 (equivalent to Shiva Sutra 41)
+      f_41
+   ;;
+   42) 
+      # This option echos out the text of function 42 (equivalent to Shiva Sutra 42)
+      f_42
+   ;;
+   43) 
+      # This option echos out the text of function 43 (equivalent to Shiva Sutra 43)
+      f_43
+   ;;
+   44) 
+      # This option echos out the text of function 44 (equivalent to Shiva Sutra 44)
+      f_44
+   ;;
+   45) 
+      # This option echos out the text of function 45 (equivalent to Shiva Sutra 45)
+      f_45
+   ;;
+   46) 
+      # This option echos out the text of function 46 (equivalent to Shiva Sutra 46)
+      f_46
+   ;;
+   47) 
+      # This option echos out the text of function 47 (equivalent to Shiva Sutra 47)
+      f_47
+   ;;
+   48) 
+      # This option echos out the text of function 48 (equivalent to Shiva Sutra 48)
+      f_48
+   ;;
+   49) 
+      # This option echos out the text of function 49 (equivalent to Shiva Sutra 49)
+      f_49
+   ;;
+   50) 
+      # This option echos out the text of function 50 (equivalent to Shiva Sutra 50)
+      f_50
+   ;;
+   51) 
+      # This option echos out the text of function 51 (equivalent to Shiva Sutra 51)
+      f_51
+   ;;
+   52) 
+      # This option echos out the text of function 52 (equivalent to Shiva Sutra 52)
+      f_52
+   ;;
+   53) 
+      # This option echos out the text of function 53 (equivalent to Shiva Sutra 53)
+      f_53
+   ;;
+   54) 
+      # This option echos out the text of function 54 (equivalent to Shiva Sutra 54)
+      f_54
+   ;;
+   55) 
+      # This option echos out the text of function 55 (equivalent to Shiva Sutra 55)
+      f_55
+   ;;
+   56) 
+      # This option echos out the text of function 56 (equivalent to Shiva Sutra 56)
+      f_56
+   ;;
+   57) 
+      # This option echos out the text of function 57 (equivalent to Shiva Sutra 57)
+      f_57
+   ;;
+   58) 
+      # This option echos out the text of function 58 (equivalent to Shiva Sutra 58)
+      f_58
+   ;;
+   59) 
+      # This option echos out the text of function 59 (equivalent to Shiva Sutra 59)
+      f_59
+   ;;
+   60) 
+      # This option echos out the text of function 60 (equivalent to Shiva Sutra 60)
+      f_60
+   ;;
+   61) 
+      # This option echos out the text of function 61 (equivalent to Shiva Sutra 61)
+      f_61
+   ;;
+   62) 
+      # This option echos out the text of function 62 (equivalent to Shiva Sutra 62)
+      f_62
+   ;;
+   63) 
+      # This option echos out the text of function 63 (equivalent to Shiva Sutra 63)
+      f_63
+   ;;
+   64) 
+      # This option echos out the text of function 64 (equivalent to Shiva Sutra 64)
+      f_64
+   ;;
+   65) 
+      # This option echos out the text of function 65 (equivalent to Shiva Sutra 65)
+      f_65
+   ;;
+   66) 
+      # This option echos out the text of function 66 (equivalent to Shiva Sutra 66)
+      f_66
+   ;;
+   67) 
+      # This option echos out the text of function 67 (equivalent to Shiva Sutra 67)
+      f_67
+   ;;
+   68) 
+      # This option echos out the text of function 68 (equivalent to Shiva Sutra 68)
+      f_68
+   ;;
+   69) 
+      # This option echos out the text of function 69 (equivalent to Shiva Sutra 69)
+      f_69
+   ;;
+   70) 
+      # This option echos out the text of function 70 (equivalent to Shiva Sutra 70)
+      f_70
+   ;;
+   71) 
+      # This option echos out the text of function 71 (equivalent to Shiva Sutra 71)
+      f_71
+   ;;
+   72) 
+      # This option echos out the text of function 72 (equivalent to Shiva Sutra 72)
+      f_72
+   ;;
+   73) 
+      # This option echos out the text of function 73 (equivalent to Shiva Sutra 73)
+      f_73
+   ;;
+   74) 
+      # This option echos out the text of function 74 (equivalent to Shiva Sutra 74)
+      f_74
+   ;;
+   75) 
+      # This option echos out the text of function 75 (equivalent to Shiva Sutra 75)
+      f_75
+   ;;
+   76) 
+      # This option echos out the text of function 76 (equivalent to Shiva Sutra 76)
+      f_76
+   ;;
+   77) 
+      # This option echos out the text of function 77 (equivalent to Shiva Sutra 77)
+      f_77
+   ;;
+   78) 
+      # This option echos out the text of function 78 (equivalent to Shiva Sutra 78)
+      f_78
+   ;;
+   79) 
+      # This option echos out the text of function 79 (equivalent to Shiva Sutra 79)
+      f_79
+   ;;
+   80) 
+      # This option echos out the text of function 80 (equivalent to Shiva Sutra 80)
+      f_80
+   ;;
+   81) 
+      # This option echos out the text of function 81 (equivalent to Shiva Sutra 81)
+      f_81
+   ;;
+   82) 
+      # This option echos out the text of function 82 (equivalent to Shiva Sutra 82)
+      f_82
+   ;;
+   83) 
+      # This option echos out the text of function 83 (equivalent to Shiva Sutra 83)
+      f_83
+   ;;
+   84) 
+      # This option echos out the text of function 84 (equivalent to Shiva Sutra 84)
+      f_84
+   ;;
+   85) 
+      # This option echos out the text of function 85 (equivalent to Shiva Sutra 85)
+      f_85
+   ;;
+   86) 
+      # This option echos out the text of function 86 (equivalent to Shiva Sutra 86)
+      f_86
+   ;;
+   86) 
+      # This option echos out the text of function 86 (equivalent to Shiva Sutra 86)
+      f_86
+   ;;
+   87) 
+      # This option echos out the text of function 87 (equivalent to Shiva Sutra 87)
+      f_87
+   ;;
+   88) 
+      # This option echos out the text of function 88 (equivalent to Shiva Sutra 88)
+      f_88
+   ;;
+   89) 
+      # This option echos out the text of function 89 (equivalent to Shiva Sutra 89)
+      f_89
+   ;;
+   90) 
+      # This option echos out the text of function 90 (equivalent to Shiva Sutra 90)
+      f_90
+   ;;
+   91) 
+      # This option echos out the text of function 91 (equivalent to Shiva Sutra 91)
+      f_91
+   ;;
+   92) 
+      # This option echos out the text of function 92 (equivalent to Shiva Sutra 92)
+      f_92
+   ;;
+   93) 
+      # This option echos out the text of function 93 (equivalent to Shiva Sutra 93)
+      f_93
+   ;;
+   94) 
+      # This option echos out the text of function 94 (equivalent to Shiva Sutra 94)
+      f_94
+   ;;
+   95) 
+      # This option echos out the text of function 95 (equivalent to Shiva Sutra 95)
+      f_95
+   ;;
+   96) 
+      # This option echos out the text of function 96 (equivalent to Shiva Sutra 96)
+      f_96
+   ;;
+   97) 
+      # This option echos out the text of function 97 (equivalent to Shiva Sutra 97)
+      f_97
+   ;;
+   98) 
+      # This option echos out the text of function 98 (equivalent to Shiva Sutra 98)
+      f_98
+   ;;
+   99) 
+      # This option echos out the text of function 99 (equivalent to Shiva Sutra 99)
+      f_99
+   ;;
+   100) 
+      # This option echos out the text of function 100 (equivalent to Shiva Sutra 100)
+      f_100
+   ;;
+   101) 
+      # This option echos out the text of function 101 (equivalent to Shiva Sutra 101)
+      f_101
+   ;;
+   102) 
+      # This option echos out the text of function 102 (equivalent to Shiva Sutra 102)
+      f_102
+   ;;
+   103) 
+      # This option echos out the text of function 103 (equivalent to Shiva Sutra 103)
+      f_103
+   ;;
+   104) 
+      # This option echos out the text of function 104 (equivalent to Shiva Sutra 104)
+      f_104
+   ;;
+   105) 
+      # This option echos out the text of function 105 (equivalent to Shiva Sutra 105)
+      f_105
+   ;;
+   106) 
+      # This option echos out the text of function 106 (equivalent to Shiva Sutra 106)
+      f_106
+   ;;
+   107) 
+      # This option echos out the text of function 107 (equivalent to Shiva Sutra 107)
+      f_107
+   ;;
+   108) 
+      # This option echos out the text of function 108 (equivalent to Shiva Sutra 108)
+      f_108
+   ;;
+   109) 
+      # This option echos out the text of function 109 (equivalent to Shiva Sutra 109)
+      f_109
+   ;;
+   110) 
+      # This option echos out the text of function 110 (equivalent to Shiva Sutra 110)
+      f_110
+   ;;
+   111) 
+      # This option echos out the text of function 111 (equivalent to Shiva Sutra 111)
+      f_111
+   ;;
+   112) 
+      # This option echos out the text of function 112 (equivalent to Shiva Sutra 112)
+      f_112
+   ;;
+   -i | --intro)
+      case $2 in 
+         1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9)
+            # If user asks for intro of the numbers: 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9, run this same function that introduces to them all
+               f_intro_1_2_3_4_5_6_7_8_9
+         ;;
 
-            10 | 11 | 12)
+         10 | 11 | 12)
+            # If user asks for intro of the numbers: 10 or 11 or 12, run this same function that introduces to them all
                f_intro_10_11_12
-            ;;
+         ;;
 
-            13 | 14)
-               f_intro_
-            ;;
+         13 | 14)
+            # If user asks for intro of the numbers: 13 or 14, run this same function that introduces to them all
+               f_intro_13_14
+         ;;
 
-            15 | 16 | 17)
-            ;;
+         15 | 16 | 17)
+            # If user asks for intro of the numbers: 15 or 16 or 17, run this same function that introduces to them all
+               f_intro_15_16_17
+         ;;
 
-            18 | 19 | 20 | 21)
-            ;;
+         18 | 19 | 20 | 21)
+            # If user asks for intro of the numbers: 18 or 19 or 20 or 21, run this same function that introduces to them all
+               f_intro_18_19_20_21
+         ;;
 
-            22 | 23 | 24)
-            ;;
+         22 | 23 | 24)
+            # If user asks for intro of the numbers: 22 or 23 or 24, run this same function that introduces to them all
+               f_intro_22_23_24
+         ;;
 
-            25 | 26 | 27)
-            ;;
+         25 | 26 | 27)
+            # If user asks for intro of the numbers: 25 or 26 or 27, run this same function that introduces to them all
+               f_intro_25_26_27
+         ;;
 
-            28 | 29)
-            ;;
+         28 | 29)
+            # If user asks for intro of the numbers: 28 or 29, run this same function that introduces to them all
+               f_intro_28_29
+         ;;
 
-            30 | 31 | 32)
-            ;;
+         30 | 31 | 32)
+            # If user asks for intro of the numbers: 30 or 31 or 32, run this same function that introduces to them all
+               f_intro_30_31_32
+         ;;
 
-            33 | 34 | 35 | 36)
-            ;;
+         33 | 34 | 35 | 36)
+            # If user asks for intro of the numbers: 33 or 34 or 35 or 36, run this same function that introduces to them all
+               f_intro_33_34_35_36
+         ;;
 
-            37 | 38)
-            ;;
+         37 | 38)
+            # If user asks for intro of the numbers: 37 or 38, run this same function that introduces to them all
+               f_intro_37_38
+         ;;
 
-            39 | 40 | 41)
-            ;;
+         39 | 40 | 41)
+            # If user asks for intro of the numbers: 39 or 40 or 41, run this same function that introduces to them all
+               f_intro_39_40_41
+         ;;
 
-            42 | 43 | 44)
-            ;;
+         42 | 43 | 44)
+            # If user asks for intro of the numbers: 42 or 43 or 44, run this same function that introduces to them all
+               f_intro_42_43_44
+         ;;
 
-            45 | 46 | 47)
-            ;;
+         45 | 46 | 47)
+            # If user asks for intro of the numbers: 45 or 46 or 47, run this same function that introduces to them all
+               f_intro_45_46_47
+         ;;
 
-            48 | 49 | 50 | 51 | 52)
-            ;;
+         48 | 49 | 50 | 51 | 52)
+            # If user asks for intro of the numbers: 48 or 49 or 50 or 51 or 52, run this same function that introduces to them all
+               f_intro_48_49_50_51_52
+         ;;
 
-            53 | 54 | 55 | 56)
-            ;;
+         53 | 54 | 55 | 56)
+            # If user asks for intro of the numbers: 53 or 54 or 55 or 56, run this same function that introduces to them all
+               f_intro_53_54_55_56
+         ;;
 
-            57 | 58 | 59 | 60)
-            ;;
+         57 | 58 | 59 | 60)
+            # If user asks for intro of the numbers: 57 or 58 or 59 or 60, run this same function that introduces to them all
+               f_intro_57_58_59_60
+         ;;
 
-            61 | 62 | 63)
-            ;;
+         61 | 62 | 63)
+            # If user asks for intro of the numbers: 61 or 62 or 63, run this same function that introduces to them all
+               f_intro_61_62_63
+         ;;
 
-            64 | 65)
-            ;;
+         64 | 65)
+            # If user asks for intro of the numbers: 64 or 65, run this same function that introduces to them all
+               f_intro_64_65
+         ;;
 
-            66 | 67)
-            ;;
+         66 | 67)
+            # If user asks for intro of the numbers: 66 or 67, run this same function that introduces to them all
+               f_intro_66_67
+         ;;
 
-            68 | 69)
-            ;;
+         68 | 69)
+            # If user asks for intro of the numbers: 68 or 69, run this same function that introduces to them all
+               f_intro_68_69
+         ;;
 
-            70 | 71 | 72)
-            ;;
+         70 | 71 | 72)
+            # If user asks for intro of the numbers: 70 or 71 or 72, run this same function that introduces to them all
+               f_intro_70_71_72
+         ;;
 
-            73 | 74 | 75)
-            ;;
+         73 | 74 | 75)
+            # If user asks for intro of the numbers: 73 or 74 or 75, run this same function that introduces to them all
+               f_intro_73_74_75
+         ;;
 
-            76 | 77 | 78)
-            ;;
+         76 | 77 | 78)
+            # If user asks for intro of the numbers: 76 or 77 or 78, run this same function that introduces to them all
+               f_intro_76_77_78
+         ;;
 
-            79 | 80 | 81)
-            ;;
+         79 | 80 | 81)
+            # If user asks for intro of the numbers: 79 or 80 or 81, run this same function that introduces to them all
+               f_intro_79_80_81
+         ;;
 
-            82 | 83)
-            ;;
+         82 | 83)
+            # If user asks for intro of the numbers: 82 or 83, run this same function that introduces to them all
+               f_intro_82_83
+         ;;
 
-            84 | 85)
-            ;;
+         84 | 85)
+            # If user asks for intro of the numbers: 84 or 85, run this same function that introduces to them all
+               f_intro_84_85
+         ;;
 
-            86 | 87)
-            ;;
+         86 | 87)
+            # If user asks for intro of the numbers: 86 or 87, run this same function that introduces to them all
+               f_intro_86_87
+         ;;
 
-            88 | 89)
-            ;;
+         88 | 89)
+            # If user asks for intro of the numbers: 88 or 89, run this same function that introduces to them all
+               f_intro_88_89
+         ;;
 
-            90 | 91)
-            ;;
+         90 | 91)
+            # If user asks for intro of the numbers: 90 or 91, run this same function that introduces to them all
+               f_intro_90_91
+         ;;
 
-            92 | 93)
-            ;;
+         92 | 93)
+            # If user asks for intro of the numbers: 92 or 93, run this same function that introduces to them all
+               f_intro_92_93
+         ;;
 
-            94 | 95)
-            ;;
+         94 | 95)
+            # If user asks for intro of the numbers: 94 or 95, run this same function that introduces to them all
+               f_intro_94_95
+         ;;
 
-            96 | 97)
-            ;;
+         96 | 97)
+            # If user asks for intro of the numbers: 96 or 97, run this same function that introduces to them all
+               f_intro_96_97
+         ;;
 
-            98 | 99)
-            ;;
+         98 | 99)
+            # If user asks for intro of the numbers: 98 or 99, run this same function that introduces to them all
+               f_intro_98_99
+         ;;
 
-            100 | 101)
-            ;;
+         100 | 101)
+            # If user asks for intro of the numbers: 100 or 101, run this same function that introduces to them all
+               f_intro_100_101
+         ;;
 
-            102 | 103 | 104 | 105)
-            ;;
+         102 | 103 | 104 | 105)
+            # If user asks for intro of the numbers: 102 or 103 or 104 or 105, run this same function that introduces to them all
+               f_intro_102_103_104_105
+         ;;
 
-            106 | 107 | 108)
-            ;;
+         106 | 107 | 108)
+            # If user asks for intro of the numbers: 106 or 107 or 108, run this same function that introduces to them all
+               f_intro_106_107_108
+         ;;
 
-            109 | 110 | 111 | 112)
-            ;;
+         109 | 110 | 111 | 112)
+            # If user asks for intro of the numbers: 109 or 110 or 111 or 112, run this same function that introduces to them all
+               f_intro_109_110_111_112
+         ;;
+         
 
-            *)
-               echo " > Please choose a number of a sutra so that it's introduction is shown"
-            ;;
-         esac
-      ;;
+         *)
+            echo " > Please choose a number of a sutra so that it's introduction is shown"
+         ;;
+      esac
+   ;;
+   -v | -vid)
+      case $2 in
+         15)
+            # Open external link to a YouTube video that explains the Shiva Sutra 15
 
-      *)
-         # Display all Shiva Sutras if no arg is found
-            clear
-            figlet "Shiva Sutras"
-            for i in {0..112}; do f_$i; echo; done
-      ;;
+            # Nithyananda video: 
+               # Title: "Just Fall In - Shiva Sutras in Nithyananda Videos"
+               # URL: "https://youtu.be/Gkp2p7JVLB"
+
+            termux-url-open https://youtu.be/Gkp2p7JVLB
+         ;;
+         *)
+            echo " > Please chose a sutra. Then I will open an external link that talks about it"
+         ;;
+      esac
+   ;;
+   *)
+      # Display all Shiva Sutras if no arg is found
+
+      clear
+      figlet "Shiva Sutras"
+      for i in {0..112}; do f_$i; echo; done
+   ;;
 esac
