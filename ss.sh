@@ -1,5 +1,6 @@
 #!/bin/bash
 # Title: script to navigate, search and play with the shiva sutras inside a linux terminal
+# Description: Script to list all the Shiva Sutras by number and their properties
 
 # Usage
    # This script is suposed to be called by DRYa repo
@@ -7,13 +8,13 @@
    # And at 'source-all-drya-files' there is a line of code like:
       # alias ss="bash ${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
 
-# Function to list all the Shiva Sutras by number
-
 function f_cor1 {
    tput setaf 4
 }
 
-alias ss="${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
+# This script was intended to be called at the terminal by the alias 'ss'. 
+   # If the package manager that installes this script does not set this alias, lets set this alias here (from within)
+   alias ss="${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
 
 function f_0 {
 echo "
@@ -3737,7 +3738,7 @@ case $1 in
                # Title: "Just Fall In - Shiva Sutras in Nithyananda Videos"
                # URL: "https://youtu.be/Gkp2p7JVLB"
 
-            termux-url-open https://youtu.be/Gkp2p7JVLB
+            termux-url-open https://youtu.be/Gkp2p7JVLB 2>/dev/null || echo "This command is ready for Termux, are you on Termux?"
          ;;
          *)
             echo " > Please chose a sutra. Then I will open an external link that talks about it"
