@@ -595,6 +595,13 @@ function f_112 {
    echo " > Enter space, support less, eternal, still."
 }
 
+
+function f_x_1 {
+   f_1
+   echo
+   echo "Explanation os Shiva Sutra #1 by Osho"
+}
+
 function f_intro_1_2_3_4_5_6_7_8_9 {
    echo '
 > From 64 Shiva Sutras, one sutra lists 112 Meditation Techniques (112 Dharanas)
@@ -2538,10 +2545,6 @@ case $1 in
    ;;
    9) 
       # This option echos out the text of function 9 (equivalent to Shiva Sutra 9)
-<<<<<<< Updated upstream
-=======
-      
->>>>>>> Stashed changes
       f_9
    ;;
    10) 
@@ -2960,7 +2963,6 @@ case $1 in
       # This option echos out the text of function 112 (equivalent to Shiva Sutra 112)
       f_112
    ;;
-<<<<<<< Updated upstream
    -i | --intro)
       case $2 in 
          1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9)
@@ -3734,6 +3736,14 @@ case $1 in
 
       esac
    ;;
+   -x | --explanation)
+      case $2 in 
+         1)
+            # Explanation of ss #1 from Osho
+            f_x_1
+         ;;
+      esac
+   ;;
    -v | -vid)
       case $2 in
          15)
@@ -3756,12 +3766,10 @@ case $1 in
             figlet "Shiva Sutras"
             for i in {0..112}; do f_$i; echo; done
       ;;
-=======
    *)
       # Display all Shiva Sutras if no arg is found
          clear
          figlet "Shiva Sutras"
          for i in {0..112}; do f_$i; echo; done
    ;;
->>>>>>> Stashed changes
 esac
