@@ -3169,6 +3169,7 @@ case $1 in
             # This option echos out the text of function f_1 (equivalent to Shiva Sutra 0) + it's introduction
                f_1
                f_intro_1_2_3_4_5_6_7_8_9
+               #f_x_1
          ;;
          2) 
             # This option echos out the text of function f_2 (equivalent to Shiva Sutra 2) + it's introduction
