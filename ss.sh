@@ -2538,6 +2538,10 @@ case $1 in
    ;;
    9) 
       # This option echos out the text of function 9 (equivalent to Shiva Sutra 9)
+<<<<<<< Updated upstream
+=======
+      
+>>>>>>> Stashed changes
       f_9
    ;;
    10) 
@@ -2956,6 +2960,7 @@ case $1 in
       # This option echos out the text of function 112 (equivalent to Shiva Sutra 112)
       f_112
    ;;
+<<<<<<< Updated upstream
    -i | --intro)
       case $2 in 
          1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9)
@@ -3751,4 +3756,12 @@ case $1 in
             figlet "Shiva Sutras"
             for i in {0..112}; do f_$i; echo; done
       ;;
+=======
+   *)
+      # Display all Shiva Sutras if no arg is found
+         clear
+         figlet "Shiva Sutras"
+         for i in {0..112}; do f_$i; echo; done
+   ;;
+>>>>>>> Stashed changes
 esac
