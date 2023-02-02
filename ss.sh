@@ -2458,6 +2458,13 @@ function f_intro_109_110_111_112 {
 }
 
 case $1 in 
+   -a)
+      # Echo out all 112 Shiva Sutras
+      f_1
+      f_2
+      #...
+      f_112
+   ;;
    -g | --grep)
       # Searches for text inside the 'vigyan bhairav tantra' document
 
