@@ -2460,9 +2460,8 @@ function f_intro_109_110_111_112 {
 case $1 in 
    -a)
       # Echo out all 112 Shiva Sutras
-      f_1
-      f_2
-      #...
+      f_1; f_2; f_3; f_4; f_5; f_6
+      #... uDev: Add the remaining sutras here
       f_112
    ;;
    -g | --grep)
@@ -3750,6 +3749,7 @@ case $1 in
             # Explanation of ss #1 from Osho
             f_x_1
          ;;
+         # uDev: Add the remaining 111 sutras here
       esac
    ;;
    -v | -vid)
