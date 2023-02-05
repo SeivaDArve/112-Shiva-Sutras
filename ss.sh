@@ -2460,7 +2460,13 @@ function f_intro_109_110_111_112 {
 case $1 in 
    -a)
       # Echo out all 112 Shiva Sutras
-      f_1; f_2; f_3; f_4; f_5; f_6; f_7
+      f_1
+      f_2
+      f_3
+      f_4
+      f_5
+      f_6
+      f_7
       f_8
       f_9
       f_10
