@@ -2969,6 +2969,55 @@ case $1 in
       # This option echos out the text of function 112 (equivalent to Shiva Sutra 112)
       f_112
    ;;
+   --osho)
+      # Description of this sutra by Osho
+      case $2 in 
+         1)
+            ;;
+         2)
+            ;;
+         3)
+            ;;
+         4)
+            ;;
+         *) 
+            echo "ss: osho <arg>"
+            echo "choose a sutra t..."
+         ;;
+
+         # ...
+      esac
+   ;;
+   --NN)
+      case $2 in 
+         1)
+            ;;
+         2)
+            ;;
+         3)
+            ;;
+         4)
+            ;;
+         7)
+            f_7
+            echo
+            echo "Shiva Sutra #7 (translations by Nithyananada):"
+            echo " > With prana (intangible breath) in center of forehead, as it reaches the heart at the moment of sleep, have direction over dreams and over death itself."
+         ;;
+         *) 
+            echo "ss: Nithyananda <arg>"
+            echo "choose a sutra to be explained by Nithyananda"
+            echo
+            echo "EXAMPLES: "
+            echo "ss --NN (to show this dialog)"
+            echo "ss --NN 1 (to show a sub-menu of sutra #1)"
+            echo "ss --NN 1 op 1 (from many aspects given by NN, give only the first"
+            echo "ss --NN 1 op 2 (from many aspects given by NN, give only the second"
+         ;;
+
+         # ...
+      esac
+   ;;
    -i | --intro)
       case $2 in 
          1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9)
