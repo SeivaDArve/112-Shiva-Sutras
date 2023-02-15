@@ -4369,6 +4369,15 @@ case $1 in
          ;;
       esac
    ;;
+   pic)
+      case $2 in 
+         17)
+            # Shows the img that ilustrates and reminds how the sutra is made
+            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
+            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
+         ;;
+      esac
+   ;;
    -F)
       # Displays FULL sutra material: The one you ask and it's introduction (same as running the 2 functions f_sutra_n + f_intro_sutra_n)
 
@@ -4378,6 +4387,7 @@ case $1 in
                f_1
                f_intro_1_2_3_4_5_6_7_8_9
                #f_x_1
+               #f_pic
          ;;
          2) 
             # This option echos out the text of function f_2 (equivalent to Shiva Sutra 2) + it's introduction
