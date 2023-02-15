@@ -17,21 +17,19 @@ function f_cor1 {
    alias ss="${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
 
 function f_0 {
-echo "
-Vigyan Bhairav Tantra 
-- (112 Shiva Sutras) -
-
-Devi Asks:
-O Shiva, what is your reality?
-What is this wonder-filled universe?
-What constitutes seed?
-Who centers the universal wheel?
-What is this life beyond form pervading forms?
-How may we enter it fully,
-above space and time,
-names and descriptions?
-Let my doubts be cleared! 
-"
+   echo "Vigyan Bhairav Tantra "
+   echo "- (112 Shiva Sutras) -"
+   echo
+   echo "Devi Asks:"
+   echo "O Shiva, what is your reality?"
+   echo "What is this wonder-filled universe?"
+   echo "What constitutes seed?"
+   echo "Who centers the universal wheel?"
+   echo "What is this life beyond form pervading forms?"
+   echo "How may we enter it fully,"
+   echo "above space and time,"
+   echo "names and descriptions?"
+   echo "Let my doubts be cleared! "
 }
 
 
@@ -595,6 +593,579 @@ function f_112 {
    echo " > Enter space, support less, eternal, still."
 }
 
+function f_0_pt {
+   echo "Vigyan Bhairav Tantra"
+   echo "- (112 Shiva Sutras) -"
+   echo
+   echo "A Deusa Pergunta:"
+   echo "Oh Shiva, qual é a tua realidade?"
+   echo "Que universo é este cheio de maravilhas?"
+   echo "De que é constituído Semente?"
+   echo "Quem é que centra a roda universal?"
+   echo "Que vida é esta para além da forma que permeia as formas?"
+   echo "Como é que podemos entrar nisso completamente, acima do espaço e tempo, nomes e descrições?"
+   echo "Deixa as minhas dúvidas serem esclarecidas!"
+}
+
+function f_1_pt {
+   echo "Shiva Sutra #1:"
+   echo " > Oh Radiante, esta experiência pode alvorecer entre dois fôlegos. Depois entrar (para baixo) e precisamente antes de voltar para cima (para fora) - a beneficência."
+}
+
+function f_2_pt {
+   echo "Shiva Sutra #2: "
+   echo " > Assim que o fôlego curva de baixo para cima, e de novo assim que curva de cima para baixo - através de ambas as curvas, percebe."
+}
+
+function f_3_pt {
+   echo "Shiva Sutra #3: "
+   echo " > Ou, sempre que Inspirar e Expirar se fundem, neste instante toca no centro de Energia da Não-Energia."
+}
+
+function f_4_pt {
+   echo "Shiva Sutra #4: "
+   echo " > Ou, Quando o Ar está todo fora (em cima) e pára por ele próprio, ou todo dentro (em baixo) e pára - em tal pausa universal, o nosso pequeno Ser desaparece. Isto é difícil apenas para os impuros. "
+}
+
+function f_5_pt {
+   echo "Shiva Sutra #5: "
+   echo " > Atenção entre as sobrancelhas, deixa a mente estar antes dos pensamentos. Deixa as formas se encherem com a essência do respirar no topo da cabeça e daí chover como luz."
+}
+
+function f_6_pt {
+   echo "Shiva Sutra #6: "
+   echo " > Durante as atividades do dia-a-dia, mantém a atenção entre os dois fôlegos, e assim praticando, em poucos dias nasce de novo."
+}
+
+function f_7_pt {
+   echo "Shiva Sutra #7: "
+   echo " > Com respiração intangível (prana) no centro da testa, assim que se aproxima do coração no momento de dormir, ganha o controlo sobre os sonhos e sobre a própria morte."
+}
+
+function f_8_pt {
+   echo "Shiva Sutra #8: "
+   echo " > Com uma devoção tremenda, centra-te na junção dos dois fôlegos e conhece o conhecedor."
+}
+
+function f_9_pt {
+   echo "Shiva Sutra #9: "
+   echo " > Deita-te como morto. Enfurecido em raiva, mantém-te assim. Ou olha fixamente sem mexer nem uma pestana. Ou chupa algo e torna-te O Chupar."
+}
+
+function f_10_pt {
+   echo "Shiva Sutra #10: "
+   echo " > Quando és acariciada, Doce Princesa, entra na carícia como sendo vida eterna."
+}
+
+function f_11_pt {
+   echo "Shiva Sutra #11: "
+   echo " > Faz Stop às portas dos sentidos quando sentes o rastejar de uma formiga. Então..."
+}
+
+function f_12_pt {
+   echo "Shiva Sutra #12: "
+   echo " > Quando numa cama ou assento, deixa-te sentir leve, para além da mente."
+}
+
+function f_13_pt {
+   echo "Shiva Sutra #13: "
+   echo " > Ou, imagina os cinco círculos coloridos da cauda de um pavão como sendo os teus cinco sentidos num espaço não limitável. Agora deixa a sua beleza derreter cá dentro. Similarmente, em qualquer ponto no espaço ou na parede - até que o ponto se dissolva. Assim o teu desejo por outro torna-se realidade."
+}
+
+function f_14_pt {
+   echo "Shiva Sutra #14: "
+   echo " > Coloca toda a tua atenção no nervo, delicado como uma Flor-de-Lotus, no centro da tua coluna vertebral. Em tal coisa sê transformado."
+}
+
+function f_15_pt {
+   echo "Shiva Sutra #15: "
+   echo " > Fecha as sete entradas da tua cabeça com as mãos, um espaço entre os teus olhos torna-se Tudo-Inclusivo."
+}
+
+function f_16_pt {
+   echo "Shiva Sutra #16: "
+   echo " > Oh Abençoada, assim que os sentido são absorvidos pelo coração, chega ao centro da Flor-de-Lotus."
+}
+
+function f_17_pt {
+   echo "Shiva Sutra #17: "
+   echo " > Mente desatenta, mantém-te no centro – até que..."
+}
+
+function f_18_pt {
+   echo "Shiva Sutra #18: "
+   echo " > Olha amorosamente para um objeto. Não vás para outro objeto. Aqui no centro do objeto - a bênção."
+}
+
+function f_19_pt {
+   echo "Shiva Sutra #19: "
+   echo " > Sem o suporte dos pés ou mãos, senta-te apenas nas nádegas. Derrepente a centralização."
+}
+
+function f_20_pt {
+   echo "Shiva Sutra #20: "
+   echo " > Num veículo em movimento, ao balançar ritmicamente, experiencía. Ou num veículo quieto, ao deixares-te balançar em círculos invisíveis a abrandar. "
+}
+
+function f_21_pt {
+   echo "Shiva Sutra #21: "
+   echo " > Perfura alguma parte das tuas formas cheias de néctar com um alfinete, gentilmente entra na perfuração e atinge a pureza interna."
+}
+
+function f_22_pt {
+   echo "Shiva Sutra #22: "
+   echo " > Deixa a atenção acontecer onde tu estás a ver algum evento passado, incluindo as tuas formas, tendo perdido as suas características presentes, sê transformada. "
+}
+
+function f_23_pt {
+   echo "Shiva Sutra #23: "
+   echo " > Sente um objeto perante ti. Sente a ausência de todos os outros menos este. Depois deixando de lado o Sentimento-Objeto e o Sentimento-Ausência, Apercebe-te."
+}
+
+function f_24_pt {
+   echo "Shiva Sutra #24: "
+   echo " > Quando um humor contra alguém surge, não o coloques na pessoa em questão, mas mantém-te centrada."
+}
+
+function f_25_pt {
+   echo "Shiva Sutra #25: "
+   echo " > Assim que tiveres o impulso para fazeres algo, Stop."
+}
+
+function f_26_pt {
+   echo "Shiva Sutra #26: "
+   echo " > Quando algum desejo surge, considera-o. Depois, subitamente, larga-o."
+}
+
+function f_27_pt {
+   echo "Shiva Sutra #27: "
+   echo " > Vagueia por aí até à exaustão e depois, ao cair no chão, nessa queda sê inteiro."
+}
+
+function f_28_pt {
+   echo "Shiva Sutra #28: "
+   echo " > Supondo que estás a ser gradualmente privada de força ou de conhecimento. No instante da privação, transcende."
+}
+
+function f_29_pt {
+   echo "Shiva Sutra #29: "
+   echo " > A devoção liberta."
+}
+
+function f_30_pt {
+   echo "Shiva Sutra #30: "
+   echo " > Olhos fechados, vê o teu Ser interior em detalhe. Assim, vê a tua verdadeira natureza."
+}
+
+function f_31_pt {
+   echo "Shiva Sutra #31: "
+   echo " > Olha para uma tigela sem veres as laterais do material. Em poucos momentos toma consciência. "
+}
+
+function f_32_pt {
+   echo "Shiva Sutra #32: "
+   echo " > Vê como se fosse pela primeira vez, uma pessoa graciosa ou um objeto comum."
+}
+
+function f_33_pt {
+   echo "Shiva Sutra #33: "
+   echo " > Simplesmente ao olhar para o céu azul para além das nuvens, a serenidade."
+}
+
+function f_34_pt {
+   echo "Shiva Sutra #34: "
+   echo " > Ouve enquanto o derradeiro ensinamento místico é transmitido. Olhos quietos, sem pestanejar, e de uma vez, fica absolutamente livre. "
+}
+
+function f_35_pt {
+   echo "Shiva Sutra #35: "
+   echo " > À beira de um poço fundo olha firmemente para dentro das suas profundezas até que - A Maravilha."
+}
+
+function f_36_pt {
+   echo "Shiva Sutra #36: "
+   echo " > Olha para algum objeto, depois lentamente desvia a tua visão dele, depois lentamente desvia o teu pensamento dele, Depois... "
+}
+
+function f_37_pt {
+   echo "Shiva Sutra #37: "
+   echo " > Deusa, Imagina as letras do Sanskrito nestes focos de consciência cheios de mel, primeiro como letras, depois mais subtilmente como sons, depois como o sentimento mais subtil. Depois, deixando-os de parte, sê livre."
+}
+
+function f_38_pt {
+   echo "Shiva Sutra #38: "
+   echo " > Banha-te no centro do som, como no contínuo som de uma cascata. Ou ao pores os dedos nos ouvidos, ouve o som dos sons."
+}
+
+function f_39_pt {
+   echo "Shiva Sutra #39: "
+   echo " > Entoa um som, tal como AUM... Lentamente, assim que o som entra na ressonancia, Tu também."
+}
+
+function f_40_pt {
+   echo "Shiva Sutra #40: "
+   echo " > No inicio e gradual refinamento do som de qualquer letra, Acorda."
+}
+
+function f_41_pt {
+   echo "Shiva Sutra #41: "
+   echo " > Enquanto ouves um instrumento de cordas, ouve o seu som composto central; Portanto, omnipresença."
+}
+
+function f_42_pt {
+   echo "Shiva Sutra #42: "
+   echo " > Entoa um som audivelmente, depois menos e menos audível, à medida que o sentimento se aprofunda dentro desta harmonia silenciosa."
+}
+
+function f_43_pt {
+   echo "Shiva Sutra #43: "
+   echo " > Com a boca ligeiramente aberta, Mantém a mente no meio da língua. Ou, quando a respiração vem silenciosamente para dentro, Sente o som 'HH’."
+}
+
+function f_44_pt {
+   echo "Shiva Sutra #44: "
+   echo " > Centra-te no som ‘AUM’ sem nenhum ‘A’ ou ‘M’."
+}
+
+function f_45_pt {
+   echo "Shiva Sutra #45: "
+   echo " > Silenciosamente entoa uma palavra acabada em 'AH’. Depois em ‘HH’, sem esforço, a espontaneidade."
+}
+
+function f_46_pt {
+   echo "Shiva Sutra #46: "
+   echo " > Parando os ouvidos pressionando e o recto ao contrair, Entra no som."
+}
+
+function f_47_pt {
+   echo "Shiva Sutra #47: "
+   echo " > Entra no som do teu nome e através deste som, todos os sons."
+}
+
+function f_48_pt {
+   echo "Shiva Sutra #48: "
+   echo " > No inicio da união sexual, mantém a atenção ao fogo do início, e assim continuando, evita as brasas do final."
+}
+
+function f_49_pt {
+   echo "Shiva Sutra #49: "
+   echo " > Quando em tal abraço os teus sentidos são abanados como folhas de árvore. Entra nesse abanão."
+}
+
+function f_50_pt {
+   echo "Shiva Sutra #50: "
+   echo " > Até mesmo ao lembrar união, sem o abraço, Transformação."
+}
+
+function f_51_pt {
+   echo "Shiva Sutra #51: "
+   echo " > Ao felizmente ver uma migo ausente à muito tempo, permeia esta felicidade."
+}
+
+function f_52_pt {
+   echo "Shiva Sutra #52: "
+   echo " > Quando ao comer ou beber, torna-te o sabor da comida ou bebida, e ficarás preenchida."
+}
+
+function f_53_pt {
+   echo "Shiva Sutra #53: "
+   echo " > Oh tu de olhos Flor-de-Lotus, Doce ao toque, Quando ao cantar, ao ver, ao saborear, Repara que existes e descobre aquilo que sempre vive."
+}
+
+function f_54_pt {
+   echo "Shiva Sutra #54: "
+   echo " > Sempre que encontras satisfação, em qualquer ato, realiza isso."
+}
+
+function f_55_pt {
+   echo "Shiva Sutra #55: "
+   echo " > No momento de adormecer, quando ainda não adormeceste e a atenção externa desaparece, neste momento o Ser é revelado."
+}
+
+function f_56_pt {
+   echo "Shiva Sutra #56: "
+   echo " > Ilusões enganam, cores circunscrevem, até mesmo divisíveis são indivisíveis."
+}
+
+function f_57_pt {
+   echo "Shiva Sutra #57: "
+   echo " > Em humores de extremo desejo, Mantém-te não perturbada."
+}
+
+function f_58_pt {
+   echo "Shiva Sutra #58: "
+   echo " > Este "tão falado" universo aparenta ser um malabarismo, Um espetáculo de imagens. Para ser feliz, olha para ele como tal."
+}
+
+function f_59_pt {
+   echo "Shiva Sutra #59: "
+   echo " > Oh amada, Coloca atenção nem em prazer nem em dor, mas a meio deles."
+}
+
+function f_60_pt {
+   echo "Shiva Sutra #60: "
+   echo " > Objetos e desejos existem em mim assim como em outros. Portanto ao aceitar, deixa-os serem transformados."
+}
+
+function f_61_pt {
+   echo "Shiva Sutra #61: "
+   echo " > Assim como as ondas vem com água e ardem com fogo, também as ondas do universo em nós."
+}
+
+function f_62_pt {
+   echo "Shiva Sutra #62: "
+   echo " > Sempre que a tua mente vagueia, internamente os externamente, neste mesmo sitio, isto."
+}
+
+function f_63_pt {
+   echo "Shiva Sutra #63: "
+   echo " > Quando vivamente atento através de algum sentido em particular. Mantém te na atenção."
+}
+
+function f_64_pt {
+   echo "Shiva Sutra #64: "
+   echo " > No início de um espirro, durante um susto, em ansiedade, acima de um abismo, voando em batalha, em extrema curiosidade, no início da fome, no final da fome, mantém-te continuamente atenta."
+}
+
+function f_65_pt {
+   echo "Shiva Sutra #65: "
+   echo " > A pureza dos outros ensinamentos é uma impureza para nós, conhece nada como puro ou impuro."
+}
+
+function f_66_pt {
+   echo "Shiva Sutra #66: "
+   echo " > Sê a mesma não sendo a mesma para um amigo ou desconhecido, em honra e desonra."
+}
+
+function f_67_pt {
+   echo "Shiva Sutra #67: "
+   echo " > Aqui na esfera da mudança, mudança mudança. Através da mudança consome a mudança."
+}
+
+function f_68_pt {
+   echo "Shiva Sutra #68: "
+   echo " > Tal como uma galinha adota os seus pintainhos, adota tu conhecimentos específicos, feitos específicos, na realidade."
+}
+
+function f_69_pt {
+   echo "Shiva Sutra #69: "
+   echo " > Desde que, na verdade, escravidão e liberdade são relativos, estas palavras são só para aqueles aterrorizados com o universo. Este universo é o reflexo das mentes. Assim como vês vários sois na água, vê também a escravidão e a liberdade."
+}
+
+function f_70_pt {
+   echo "Shiva Sutra #70: "
+   echo " > Considera a tua essência como raios de luz de centro em centro subindo as vértebras, e assim sobe "vida" em ti."
+}
+
+function f_71_pt {
+   echo "Shiva Sutra #71: "
+   echo " > Ou nos espaços a meio, sente isto como relâmpagos."
+}
+
+function f_72_pt {
+   echo "Shiva Sutra #72: "
+   echo " > Sente o cosmos como translúcida eterna presença."
+}
+
+function f_73_pt {
+   echo "Shiva Sutra #73: "
+   echo " > No verão quando vês o céu por inteiro com clareza sem fim, entra em Tal clareza."
+}
+
+function f_74_pt {
+   echo "Shiva Sutra #74: "
+   echo " > Shakti, vê todo o espaço como se já estivesse absorvido na tua própria cabeça brilhante."
+}
+
+function f_75_pt {
+   echo "Shiva Sutra #75: "
+   echo " > A andar, a dormir, a sonhar, conhece-te como luz."
+}
+
+function f_76_pt {
+   echo "Shiva Sutra #76: "
+   echo " > Na chuva durante uma noite negra, entra nessa escuridão como sendo a forma das formas."
+}
+
+function f_77_pt {
+   echo "Shiva Sutra #77: "
+   echo " > Quando uma noite de chuva sem lua não está presente, fecha os olhos, vê a escuridão. Assim as culpas desaparecem para sempre."
+}
+
+function f_78_pt {
+   echo "Shiva Sutra #78: "
+   echo " > Sempre que a tua atenção pousa. Neste mesmo ponto. Experiencía."
+}
+
+function f_79_pt {
+   echo "Shiva Sutra #79: "
+   echo " > Foca-te no fogo ascendente através da tua forma desde os dedos dos pés até que o corpo arda em cinzas, mas tu não."
+}
+
+function f_80_pt {
+   echo "Shiva Sutra #80: "
+   echo " > Medita no mundo de imaginação ardendo em cinzas, e torna-te um Ser acima de humano. "
+}
+
+function f_81_pt {
+   echo "Shiva Sutra #81: "
+   echo " > Como, subjetivamente, letras fluem para palavras e palavras para frases, e como, objetivamente, circulos fluem para mundos e mundos para princípios, encontra por fim estes que convergem no teu Ser."
+}
+
+function f_82_pt {
+   echo "Shiva Sutra #82: "
+   echo " > Sente: O meu pensamento, o Eu, órgãos internos – Eu."
+}
+
+function f_83_pt {
+   echo "Shiva Sutra #83: "
+   echo " > Antes do desejo e antes de saber, como posso dizer Eu Sou? Considera. Dissolve na beleza. "
+}
+
+function f_84_pt {
+   echo "Shiva Sutra #84: "
+   echo " > Deixa o apego pelo corpo de lado, percebe Eu estou em todo o lado. Alguém que esteja em todo o lado é alegre."
+}
+
+function f_85_pt {
+   echo "Shiva Sutra #85: "
+   echo " > Pensando em coisa nenhuma o Ser limitado vai ilimitar."
+}
+
+function f_86_pt {
+   echo "Shiva Sutra #86: "
+   echo " > Sopondo que contemplas algo para além da precepção, para além de ávido. Para além de não ser - Tu."
+}
+
+function f_87_pt {
+   echo "Shiva Sutra #87: "
+   echo " > Eu existo. Isto é meu. Isto é isto. Oh, amada, mesmo em Tal conhece ilimitabilidade."
+}
+
+function f_88_pt {
+   echo "Shiva Sutra #88: "
+   echo " > Cada coisa é apercebida através de saber. O Ser brilha no espaço através de saber. Repara no Ser como conhecedor e conhecido."
+}
+
+function f_89_pt {
+   echo "Shiva Sutra #89: "
+   echo " > Amada, neste momento, deixa a mente, saber, respiração, formas, sejam incluidas."
+}
+
+function f_90_pt {
+   echo "Shiva Sutra #90: "
+   echo " > Tocando nos olhos como uma pena, leveza entre eles abre para dentro do coração e lá permeia o cosmos."
+}
+
+function f_91_pt {
+   echo "Shiva Sutra #91: "
+   echo " > Amável Devi, entra na presença etérica Infiltrante muito acima e abaixo da tua forma."
+}
+
+function f_92_pt {
+   echo "Shiva Sutra #92: "
+   echo " > Põe as coisas da mente em Tal inexplicável delicadeza acima, abaixo e no teu coração."
+}
+
+function f_93_pt {
+   echo "Shiva Sutra #93: "
+   echo " > Considera qualquer área da tua presente forma como espaçosa sem limites."
+}
+
+function f_94_pt {
+   echo "Shiva Sutra #94: "
+   echo " > Sente a tua substancia, Ossos, Carne, Sangue, Saturado com a essência cósmica."
+}
+
+function f_95_pt {
+   echo "Shiva Sutra #95: "
+   echo " > Sente as boas qualidades da tua criatividade permeando os teus peitos e assumindo delicadas configurações."
+}
+
+function f_96_pt {
+   echo "Shiva Sutra #96: "
+   echo " > Aguarda em algum lugar ilimitadamente espaçoso, sem árvores, montanhas, habitações. Daí vem o fim das pressões da mente."
+}
+
+function f_97_pt {
+   echo "Shiva Sutra #97: "
+   echo " > Considera a plenitude como sendo o teu próprio corpo de êxtase."
+}
+
+function f_98_pt {
+   echo "Shiva Sutra #98: "
+   echo " > Em qualquer posição fácil, gradualmente  permeia uma área entre as axilas com grande paz."
+}
+
+function f_99_pt {
+   echo "Shiva Sutra #99: "
+   echo " > Sente-te a penetrar todas as direções, longe, perto."
+}
+
+function f_100_pt {
+   echo "Shiva Sutra #100: "
+   echo " > A apreciação tanto de objetos como subjetos é a mesma para um Ser iluminado tanto como para um Ser não-Iluminado. Aquele que se forma tem uma vantagem: Ele mantém-se num humor subjetivo, não perdido em coisas."
+}
+
+function f_101_pt {
+   echo "Shiva Sutra #101: "
+   echo " > Acredita na penetrante Omnisciência, Omnipotência."
+}
+
+function f_102_pt {
+   echo "Shiva Sutra #102: "
+   echo " > Imagina Espirito simultaneamente por dentro e à volta de ti até que todo o universo se espiritualize."
+}
+
+function f_103_pt {
+   echo "Shiva Sutra #103: "
+   echo " > Com toda a tua consciência, no inicio do desejo, do saber, sabe."
+}
+
+function f_104_pt {
+   echo "Shiva Sutra #104: "
+   echo " > Oh Shakti, particularmente cada preceção é limitada, desaparecendo em omnipotência."
+}
+
+function f_105_pt {
+   echo "Shiva Sutra #105: "
+   echo " > Na verdade as formas são inseparáveis. Inseparável é o Ser Omnipresente e a tua própria forma. Percebe cada Um como feito desta consciência."
+}
+
+function f_106_pt {
+   echo "Shiva Sutra #106: "
+   echo " > Sente a consciência de cada pessoa como sendo a tua própria consciência. Assim, deixando de lado a preocupação por ti próprio, sê cada Ser."
+}
+
+function f_107_pt {
+   echo "Shiva Sutra #107: "
+   echo " > Esta consciência existe como cada ser, e nada mais existe."
+}
+
+function f_108_pt {
+   echo "Shiva Sutra #108: "
+   echo " > Esta consciência é o espírito de guia de cada um, sê este Ser."
+}
+
+function f_109_pt {
+   echo "Shiva Sutra #109: "
+   echo " > Supondo a tua forma passiva como sendo uma sala vazia com paredes de pele - Vazia."
+}
+
+function f_110_pt {
+   echo "Shiva Sutra #110: "
+   echo " > Graciosa, brinca. O universo é uma casca seca onde lá dentro a tua mente se remexe infinitamente."
+}
+
+function f_111_pt {
+   echo "Shiva Sutra #111: "
+   echo " > Coração doce, medita em saber e não saber, existente e não existente. Depois deixa ambas de parte para que sejas."
+}
+
+function f_112_pt {
+   echo "Shiva Sutra #112: "
+   echo " > Entra no espaço, sem suporte, eterno, quieto."
+}
 
 function f_x_1 {
    f_1
@@ -3079,6 +3650,472 @@ case $1 in
       # This option echos out the text of function 112 (equivalent to Shiva Sutra 112)
       f_112
    ;;
+   PT)
+      case $2 in
+         0) 
+            # This option echos out the text of function f_0 in PT (equivalent to Shiva Sutra 0)
+            f_0_pt
+         ;;
+         1) 
+            # This option echos out the text of function f_1 in PT (equivalent to Shiva Sutra 0)
+            f_1_pt
+         ;;
+         2) 
+            # This option echos out the text of function f_2 in PT (equivalent to Shiva Sutra 2)
+            f_2_pt
+         ;;
+         3) 
+            # This option echos out the text of function f_3 in PT (equivalent to Shiva Sutra 3)
+            f_3_pt
+         ;;
+         4) 
+            # This option echos out the text of function f_4 in PT (equivalent to Shiva Sutra 4)
+            f_4_pt
+         ;;
+         5) 
+            # This option echos out the text of function f_5 in PT (equivalent to Shiva Sutra 5)
+            f_5_pt
+         ;;
+         6) 
+            # This option echos out the text of function f_6 in PT (equivalent to Shiva Sutra 6)
+            f_6_pt
+         ;;
+         7) 
+            # This option echos out the text of function f_7 in PT (equivalent to Shiva Sutra 7)
+            f_7_pt
+         ;;
+         8) 
+            # This option echos out the text of function f_8 in PT (equivalent to Shiva Sutra 8)
+            f_8_pt
+         ;;
+         9) 
+            # This option echos out the text of function 9 in PT (equivalent to Shiva Sutra 9)
+            f_9_pt
+         ;;
+         10) 
+            # This option echos out the text of function 10 in PT (equivalent to Shiva Sutra 10)
+            f_10_pt
+         ;;
+         11) 
+            # This option echos out the text of function 11 in PT (equivalent to Shiva Sutra 11)
+            f_11_pt
+         ;;
+         12) 
+            # This option echos out the text of function 12 in PT (equivalent to Shiva Sutra 12)
+            f_12_pt
+         ;;
+         13) 
+            # This option echos out the text of function 13 in PT (equivalent to Shiva Sutra 13)
+            f_13_pt
+         ;;
+         14) 
+            # This option echos out the text of function 14 in PT (equivalent to Shiva Sutra 14)
+            f_14_pt
+         ;;
+         15) 
+            # This option echos out the text of function 15 in PT (equivalent to Shiva Sutra 15)
+            f_15_pt
+         ;;
+         16) 
+            # This option echos out the text of function 16 in PT (equivalent to Shiva Sutra 16)
+            f_16_pt
+         ;;
+         17) 
+            # This option echos out the text of function 17 in PT (equivalent to Shiva Sutra 17)
+            f_17_pt
+         ;;
+         18) 
+            # This option echos out the text of function 18 in PT (equivalent to Shiva Sutra 18)
+            f_18_pt
+         ;;
+         19) 
+            # This option echos out the text of function 19 in PT (equivalent to Shiva Sutra 19)
+            f_19_pt
+         ;;
+         20) 
+            # This option echos out the text of function 20 in PT (equivalent to Shiva Sutra 20)
+            f_20_pt
+         ;;
+         21) 
+            # This option echos out the text of function 21 in PT (equivalent to Shiva Sutra 21)
+            f_21_pt
+         ;;
+         22) 
+            # This option echos out the text of function 22 in PT (equivalent to Shiva Sutra 22)
+            f_22_pt
+         ;;
+         23) 
+            # This option echos out the text of function 23 in PT (equivalent to Shiva Sutra 23)
+            f_23_pt
+         ;;
+         24) 
+            # This option echos out the text of function 24 in PT (equivalent to Shiva Sutra 24)
+            f_24_pt
+         ;;
+         25) 
+            # This option echos out the text of function 25 in PT (equivalent to Shiva Sutra 25)
+            f_25_pt
+         ;;
+         26) 
+            # This option echos out the text of function 26 in PT (equivalent to Shiva Sutra 26)
+            f_26_pt
+         ;;
+         27) 
+            # This option echos out the text of function 27 in PT (equivalent to Shiva Sutra 27)
+            f_27_pt
+         ;;
+         28) 
+            # This option echos out the text of function 28 in PT (equivalent to Shiva Sutra 28)
+            f_28_pt
+         ;;
+         29) 
+            # This option echos out the text of function 29 in PT (equivalent to Shiva Sutra 29)
+            f_29_pt
+         ;;
+         30) 
+            # This option echos out the text of function 30 in PT (equivalent to Shiva Sutra 30)
+            f_30_pt
+         ;;
+         31) 
+            # This option echos out the text of function 31 in PT (equivalent to Shiva Sutra 31)
+            f_31_pt
+         ;;
+         32) 
+            # This option echos out the text of function 32 in PT (equivalent to Shiva Sutra 32)
+            f_32_pt
+         ;;
+         33) 
+            # This option echos out the text of function 33 in PT (equivalent to Shiva Sutra 33)
+            f_33_pt
+         ;;
+         34) 
+            # This option echos out the text of function 34 in PT (equivalent to Shiva Sutra 34)
+            f_34_pt
+         ;;
+         35) 
+            # This option echos out the text of function 35 in PT (equivalent to Shiva Sutra 35)
+            f_35_pt
+         ;;
+         36) 
+            # This option echos out the text of function 36 in PT (equivalent to Shiva Sutra 36)
+            f_36_pt
+         ;;
+         37) 
+            # This option echos out the text of function 37 in PT (equivalent to Shiva Sutra 37)
+            f_37_pt
+         ;;
+         38) 
+            # This option echos out the text of function 38 in PT (equivalent to Shiva Sutra 38)
+            f_38_pt
+         ;;
+         39) 
+            # This option echos out the text of function 39 in PT (equivalent to Shiva Sutra 39)
+            f_39_pt
+         ;;
+         40) 
+            # This option echos out the text of function 40 in PT (equivalent to Shiva Sutra 40)
+            f_40_pt
+         ;;
+         41) 
+            # This option echos out the text of function 41 in PT (equivalent to Shiva Sutra 41)
+            f_41_pt
+         ;;
+         42) 
+            # This option echos out the text of function 42 in PT (equivalent to Shiva Sutra 42)
+            f_42_pt
+         ;;
+         43) 
+            # This option echos out the text of function 43 in PT (equivalent to Shiva Sutra 43)
+            f_43_pt
+         ;;
+         44) 
+            # This option echos out the text of function 44 in PT (equivalent to Shiva Sutra 44)
+            f_44_pt
+         ;;
+         45) 
+            # This option echos out the text of function 45 in PT (equivalent to Shiva Sutra 45)
+            f_45_pt
+         ;;
+         46) 
+            # This option echos out the text of function 46 in PT (equivalent to Shiva Sutra 46)
+            f_46_pt
+         ;;
+         47) 
+            # This option echos out the text of function 47 in PT (equivalent to Shiva Sutra 47)
+            f_47_pt
+         ;;
+         48) 
+            # This option echos out the text of function 48 in PT (equivalent to Shiva Sutra 48)
+            f_48_pt
+         ;;
+         49) 
+            # This option echos out the text of function 49 in PT (equivalent to Shiva Sutra 49)
+            f_49_pt
+         ;;
+         50) 
+            # This option echos out the text of function 50 in PT (equivalent to Shiva Sutra 50)
+            f_50_pt
+         ;;
+         51) 
+            # This option echos out the text of function 51 in PT (equivalent to Shiva Sutra 51)
+            f_51_pt
+         ;;
+         52) 
+            # This option echos out the text of function 52 in PT (equivalent to Shiva Sutra 52)
+            f_52_pt
+         ;;
+         53) 
+            # This option echos out the text of function 53 in PT (equivalent to Shiva Sutra 53)
+            f_53_pt
+         ;;
+         54) 
+            # This option echos out the text of function 54 in PT (equivalent to Shiva Sutra 54)
+            f_54_pt
+         ;;
+         55) 
+            # This option echos out the text of function 55 in PT (equivalent to Shiva Sutra 55)
+            f_55_pt
+         ;;
+         56) 
+            # This option echos out the text of function 56 in PT (equivalent to Shiva Sutra 56)
+            f_56_pt
+         ;;
+         57) 
+            # This option echos out the text of function 57 in PT (equivalent to Shiva Sutra 57)
+            f_57_pt
+         ;;
+         58) 
+            # This option echos out the text of function 58 in PT (equivalent to Shiva Sutra 58)
+            f_58_pt
+         ;;
+         59) 
+            # This option echos out the text of function 59 in PT (equivalent to Shiva Sutra 59)
+            f_59_pt
+         ;;
+         60) 
+            # This option echos out the text of function 60 in PT (equivalent to Shiva Sutra 60)
+            f_60_pt
+         ;;
+         61) 
+            # This option echos out the text of function 61 in PT (equivalent to Shiva Sutra 61)
+            f_61_pt
+         ;;
+         62) 
+            # This option echos out the text of function 62 in PT (equivalent to Shiva Sutra 62)
+            f_62_pt
+         ;;
+         63) 
+            # This option echos out the text of function 63 in PT (equivalent to Shiva Sutra 63)
+            f_63_pt
+         ;;
+         64) 
+            # This option echos out the text of function 64 in PT (equivalent to Shiva Sutra 64)
+            f_64_pt
+         ;;
+         65) 
+            # This option echos out the text of function 65 in PT (equivalent to Shiva Sutra 65)
+            f_65_pt
+         ;;
+         66) 
+            # This option echos out the text of function 66 in PT (equivalent to Shiva Sutra 66)
+            f_66_pt
+         ;;
+         67) 
+            # This option echos out the text of function 67 in PT (equivalent to Shiva Sutra 67)
+            f_67_pt
+         ;;
+         68) 
+            # This option echos out the text of function 68 in PT (equivalent to Shiva Sutra 68)
+            f_68_pt
+         ;;
+         69) 
+            # This option echos out the text of function 69 in PT (equivalent to Shiva Sutra 69)
+            f_69_pt
+         ;;
+         70) 
+            # This option echos out the text of function 70 in PT (equivalent to Shiva Sutra 70)
+            f_70_pt
+         ;;
+         71) 
+            # This option echos out the text of function 71 in PT (equivalent to Shiva Sutra 71)
+            f_71_pt
+         ;;
+         72) 
+            # This option echos out the text of function 72 in PT (equivalent to Shiva Sutra 72)
+            f_72_pt
+         ;;
+         73) 
+            # This option echos out the text of function 73 in PT (equivalent to Shiva Sutra 73)
+            f_73_pt
+         ;;
+         74) 
+            # This option echos out the text of function 74 in PT (equivalent to Shiva Sutra 74)
+            f_74_pt
+         ;;
+         75) 
+            # This option echos out the text of function 75 in PT (equivalent to Shiva Sutra 75)
+            f_75_pt
+         ;;
+         76) 
+            # This option echos out the text of function 76 in PT (equivalent to Shiva Sutra 76)
+            f_76_pt
+         ;;
+         77) 
+            # This option echos out the text of function 77 in PT (equivalent to Shiva Sutra 77)
+            f_77_pt
+         ;;
+         78) 
+            # This option echos out the text of function 78 in PT (equivalent to Shiva Sutra 78)
+            f_78_pt
+         ;;
+         79) 
+            # This option echos out the text of function 79 in PT (equivalent to Shiva Sutra 79)
+            f_79_pt
+         ;;
+         80) 
+            # This option echos out the text of function 80 in PT (equivalent to Shiva Sutra 80)
+            f_80_pt
+         ;;
+         81) 
+            # This option echos out the text of function 81 in PT (equivalent to Shiva Sutra 81)
+            f_81_pt
+         ;;
+         82) 
+            # This option echos out the text of function 82 in PT (equivalent to Shiva Sutra 82)
+            f_82_pt
+         ;;
+         83) 
+            # This option echos out the text of function 83 in PT (equivalent to Shiva Sutra 83)
+            f_83_pt
+         ;;
+         84) 
+            # This option echos out the text of function 84 in PT (equivalent to Shiva Sutra 84)
+            f_84_pt
+         ;;
+         85) 
+            # This option echos out the text of function 85 in PT (equivalent to Shiva Sutra 85)
+            f_85_pt
+         ;;
+         86) 
+            # This option echos out the text of function 86 in PT (equivalent to Shiva Sutra 86)
+            f_86_pt
+         ;;
+         86) 
+            # This option echos out the text of function 86 in PT (equivalent to Shiva Sutra 86)
+            f_86_pt
+         ;;
+         87) 
+            # This option echos out the text of function 87 in PT (equivalent to Shiva Sutra 87)
+            f_87_pt
+         ;;
+         88) 
+            # This option echos out the text of function 88 in PT (equivalent to Shiva Sutra 88)
+            f_88_pt
+         ;;
+         89) 
+            # This option echos out the text of function 89 in PT (equivalent to Shiva Sutra 89)
+            f_89_pt
+         ;;
+         90) 
+            # This option echos out the text of function 90 in PT (equivalent to Shiva Sutra 90)
+            f_90_pt
+         ;;
+         91) 
+            # This option echos out the text of function 91 in PT (equivalent to Shiva Sutra 91)
+            f_91_pt
+         ;;
+         92) 
+            # This option echos out the text of function 92 in PT (equivalent to Shiva Sutra 92)
+            f_92_pt
+         ;;
+         93) 
+            # This option echos out the text of function 93 in PT (equivalent to Shiva Sutra 93)
+            f_93_pt
+         ;;
+         94) 
+            # This option echos out the text of function 94 in PT (equivalent to Shiva Sutra 94)
+            f_94_pt
+         ;;
+         95) 
+            # This option echos out the text of function 95 in PT (equivalent to Shiva Sutra 95)
+            f_95_pt
+         ;;
+         96) 
+            # This option echos out the text of function 96 in PT (equivalent to Shiva Sutra 96)
+            f_96_pt
+         ;;
+         97) 
+            # This option echos out the text of function 97 in PT (equivalent to Shiva Sutra 97)
+            f_97_pt
+         ;;
+         98) 
+            # This option echos out the text of function 98 in PT (equivalent to Shiva Sutra 98)
+            f_98_pt
+         ;;
+         99) 
+            # This option echos out the text of function 99 in PT (equivalent to Shiva Sutra 99)
+            f_99_pt
+         ;;
+         100) 
+            # This option echos out the text of function 100 in PT (equivalent to Shiva Sutra 100)
+            f_100_pt
+         ;;
+         101) 
+            # This option echos out the text of function 101 in PT (equivalent to Shiva Sutra 101)
+            f_101_pt
+         ;;
+         102) 
+            # This option echos out the text of function 102 in PT (equivalent to Shiva Sutra 102)
+            f_102_pt
+         ;;
+         103) 
+            # This option echos out the text of function 103 in PT (equivalent to Shiva Sutra 103)
+            f_103_pt
+         ;;
+         104) 
+            # This option echos out the text of function 104 in PT (equivalent to Shiva Sutra 104)
+            f_104_pt
+         ;;
+         105) 
+            # This option echos out the text of function 105 in PT (equivalent to Shiva Sutra 105)
+            f_105_pt
+         ;;
+         106) 
+            # This option echos out the text of function 106 in PT (equivalent to Shiva Sutra 106)
+            f_106_pt
+         ;;
+         107) 
+            # This option echos out the text of function 107 in PT (equivalent to Shiva Sutra 107)
+            f_107_pt
+         ;;
+         108) 
+            # This option echos out the text of function 108 in PT (equivalent to Shiva Sutra 108)
+            f_108_pt
+         ;;
+         109) 
+            # This option echos out the text of function 109 in PT (equivalent to Shiva Sutra 109)
+            f_109_pt
+         ;;
+         110) 
+            # This option echos out the text of function 110 in PT (equivalent to Shiva Sutra 110)
+            f_110_pt
+         ;;
+         111) 
+            # This option echos out the text of function 111 in PT (equivalent to Shiva Sutra 111)
+            f_111_pt
+         ;;
+         112) 
+            # This option echos out the text of function 112 in PT (equivalent to Shiva Sutra 112)
+            f_112_pt
+         ;;
+         *)
+            # Display all Shiva Sutras in PT if no more args are found
+               clear
+               figlet "Shiva Sutras"
+               for i in {0..112}; do f_${i}_pt; echo; done
+         ;;
+      esac
+   ;;
    --osho)
       # Description of this sutra by Osho
       case $2 in 
@@ -3111,8 +4148,14 @@ case $1 in
          7)
             f_7
             echo
-            echo "Shiva Sutra #7 (translations by Nithyananada):"
+            echo "Shiva Sutra #7 (translations by Nithyananda):"
             echo " > With prana (intangible breath) in center of forehead, as it reaches the heart at the moment of sleep, have direction over dreams and over death itself."
+         ;;
+         17)
+            f_17
+            echo
+            echo "Shiva Sutra #17: (translations by Nithyananda):"
+            echo " > Unminding mind, keep in the middle – until it drops."
          ;;
          *) 
             echo "ss: Nithyananda <arg>"
