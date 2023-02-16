@@ -3166,6 +3166,8 @@ case $1 in
       # Grab all lines containing the pattern from user input along with one line before that line (the option -B). (The flag --color=auto will highlight our pattern when grep displays text to the screen)
          grep -B 1 -i $v_ans ~/.tmp/ss.txt --color=auto
 
+      # uDev: if you grep a number, it will print a bug: Prints the title of the sutra that you want and will print one line above it. In case of you grepping a number and 2 or more sutras are retrieved by grep, then the sutra's title and sutra's text may be mixed. Fix: if grepped text from user inpht is a number, print it's function instead of sutra's title plus one line before it
+
       # Remove our temporary file (not needed anymore)
          rm ~/.tmp/ss.txt 2>/dev/null
    ;;
