@@ -3652,7 +3652,7 @@ case $1 in
       # This option echos out the text of function 112 (equivalent to Shiva Sutra 112)
       f_112
    ;;
-   PT)
+   PT | Pt | pT | pt)
       case $2 in
          0) 
             # This option echos out the text of function f_0 in PT (equivalent to Shiva Sutra 0)
