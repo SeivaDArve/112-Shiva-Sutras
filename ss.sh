@@ -3164,7 +3164,7 @@ case $1 in
          echo
 
       # Grab all lines containing the pattern from user input along with one line before that line (the option -B). (The flag --color=auto will highlight our pattern when grep displays text to the screen)
-         grep -B 1 $v_ans ~/.tmp/ss.txt --color=auto
+         grep -B 1 -i $v_ans ~/.tmp/ss.txt --color=auto
 
       # Remove our temporary file (not needed anymore)
          rm ~/.tmp/ss.txt 2>/dev/null
