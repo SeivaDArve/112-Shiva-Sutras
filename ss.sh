@@ -4381,6 +4381,7 @@ case $1 in
          76)
             termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
+         ;;
          *) 
             echo "# uDev: not introduced yet"
          ;;
