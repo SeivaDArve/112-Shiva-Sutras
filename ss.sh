@@ -4378,6 +4378,9 @@ case $1 in
             termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
          ;;
+         *) 
+            echo "# uDev: not introduced yet"
+         ;;
       esac
    ;;
    -F)
@@ -4988,10 +4991,36 @@ case $1 in
          figlet "Shiva Sutras"
          for i in {0..112}; do f_$i; echo; done
    ;;
+   --sugestion)
+      echo "If you input date, work schedule, lunch time, weather (to detect rain) etc, shiva sutras app will be able to sugest a sutra for that hour"
+   ;;
    *)
       echo "Shiva Sutras: App Usage:"
       echo 
-      echo "ss"
-      echo "ss -g"
+      echo "ss       :Show this message"
+      echo "ss -g    :Grab text from SS titles and sutras"
+      echo "ss all   :Show main list of all SS"
+      echo "ss -a    :Show main list of all SS"
+      echo "ss -v {1..112}    :Re-directs for Nithyananda's YouTube videos"
+      echo "ss {0..112}       :Gives SS acording to number"
+      echo "ss -F {1..112}    :Gives sutra + It's intro by Osho"
+      echo "ss pic {0..112}            :Gives an example picture to remember how to do the sutra (by Seiva)"
+      echo "ss -i | --intro {1..112}   :Gives introduction for each sutra (by Osho)"
+      echo "ss --NN {1..112}           :Gives each SS translated by Nithyananda"
+      echo "ss --osho {1..112}         :Gives description of eaxh sutra (by Osho)"
+      echo "ss PT | Pt | pT | pt {0..112}    :Gives each sutra in Portuguese (translated by Seiva)"
+      echo "ss -r | --random     :Generates random numbers and asks user to remember the sutra behind that number"
+      echo "ss --sugestion       :Sugests a sutra based on your input"
+      echo 
+      echo "How to read this guide:"
+      echo "{1..7}      :Lists all numbers: 1 2 3 4 5 6 7"
+      echo "-i | --intro {1..112}      :to type any command, you can use '-i' or '--intro'"
+      echo
+      echo "Sugestion:"
+      echo "The script is called: .../ss.sh"
+      echo "(absolute path + name + .sh)"
+      echo "it is sugested to set an alias to make it easier to access the script"
+      echo "alias=\"bash .../ss.sh\""
+
    ;;
 esac
