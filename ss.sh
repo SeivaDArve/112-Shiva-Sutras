@@ -4982,16 +4982,16 @@ case $1 in
          ;;
       esac
    ;;
-      *)
-         # Display all Shiva Sutras if no arg is found
-            clear
-            figlet "Shiva Sutras"
-            for i in {0..112}; do f_$i; echo; done
-      ;;
-   *)
+   all)
       # Display all Shiva Sutras if no arg is found
          clear
          figlet "Shiva Sutras"
          for i in {0..112}; do f_$i; echo; done
+   ;;
+   *)
+      echo "Shiva Sutras: App Usage:"
+      echo 
+      echo "ss"
+      echo "ss -g"
    ;;
 esac
