@@ -4378,6 +4378,10 @@ case $1 in
             termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
          ;;
+         35)
+            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-35-deep-well.jpg
+            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-35-deep-well.jpg
+         ;;
          76)
             termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
