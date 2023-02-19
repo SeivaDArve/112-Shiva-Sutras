@@ -12,6 +12,10 @@ function f_cor1 {
    tput setaf 4
 }
 
+function f_resetCor {
+   tput sgr0
+}
+
 # This script was intended to be called at the terminal by the alias 'ss'. 
    # If the package manager that installes this script does not set this alias, lets set this alias here (from within)
    alias ss="${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
@@ -5013,6 +5017,31 @@ case $1 in
       echo "SS 2:  ..."
       echo "SS 3:  ..."
       echo "SS 25: https://www.youtube.com/watch?v=eq0V-seTR2I (NN)"
+   ;;
+   -p | --practice | practice)
+      case $2 in
+         25)
+            echo "Shiva Sutra #25:"
+            echo " > Just as you have the impulse To do something, Stop. "
+            echo
+            echo "Practice app:"
+            echo "- This script will play a thretening sound at a random time between 24 hours"
+            echo "- At that moment, whatever you are doing... STOP"
+            echo "- If for some reason you are falling, don't adjust to that falling"
+            echo "- After the sound is played, a new random timming will be set,"
+            echo "  This script will never be ended. It is a 'while loop'"
+            echo 
+            echo -n "- To stop the script, press "
+            f_cor1
+            echo "Ctrl+C"
+            f_resetCor
+            
+            # uDev: a random time must be set and script must work
+            # uDev: At any moment, if the user inputs a value, the secret timming mmust be revealed only at the screen
+         ;;
+         *)
+            echo "Some scripts to practice can be produced to help you... try '$ ss -p 25' for axample"
+      esac
    ;;
    *)
       echo "Shiva Sutras: App Usage:"
