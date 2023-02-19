@@ -5061,6 +5061,7 @@ case $1 in
       echo "ss -r | --random           :Generates random numbers and asks user to remember the sutra behind that number"
       echo "ss --sugestion             :Sugests a sutra based on your input"
       echo "-l | link            :Lists the youtube links for each sutra (doesn't open them)"
+      echo "ss -p | --practice | practice {1..112}  :Scripts to help you practice"
       echo 
       echo "How to read this guide:"
       echo "{1..7}                     :Lists all numbers: 1 2 3 4 5 6 7"
