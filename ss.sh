@@ -4382,6 +4382,10 @@ case $1 in
             termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
          ;;
+         sutra)
+            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-Sutra-NeedleAndThread.jpg
+            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-Sutra-NeedleAndThread.jpg
+         ;;
          *) 
             echo "# uDev: not introduced yet"
          ;;
@@ -5000,6 +5004,12 @@ case $1 in
       echo
       echo "You can even add places to the sugestions by the help of app: Qbit (QR-walking-stick) or even with GPS coordinates acess"
    ;;
+   -l | link)
+      echo "SS 1:  ..."
+      echo "SS 2:  ..."
+      echo "SS 3:  ..."
+      echo "SS 25: https://www.youtube.com/watch?v=eq0V-seTR2I (NN)"
+   ;;
    *)
       echo "Shiva Sutras: App Usage:"
       echo 
@@ -5017,6 +5027,7 @@ case $1 in
       echo "ss PT | Pt | pT | pt {0..112}    :Gives each sutra in Portuguese (translated by Seiva)"
       echo "ss -r | --random           :Generates random numbers and asks user to remember the sutra behind that number"
       echo "ss --sugestion             :Sugests a sutra based on your input"
+      echo "-l | link            :Lists the youtube links for each sutra (doesn't open them)"
       echo 
       echo "How to read this guide:"
       echo "{1..7}                     :Lists all numbers: 1 2 3 4 5 6 7"
