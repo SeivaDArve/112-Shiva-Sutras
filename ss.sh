@@ -4382,6 +4382,10 @@ case $1 in
             termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
          ;;
+         sutra)
+            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-Sutra-NeedleAndThread.jpg
+            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-Sutra-NeedleAndThread.jpg
+         ;;
          *) 
             echo "# uDev: not introduced yet"
          ;;
