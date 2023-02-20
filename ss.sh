@@ -3032,7 +3032,29 @@ function f_intro_109_110_111_112 {
    These four techniques are to attain this state of being, or you can call it this state of no-being — there is no difference. You can give it a positive term, as Hindus and Jains have called it, soul, or you can give it a more appropriate but negative term, as Buddha has called it, ANATTA, no-selfness or no-soulness. It depends on you. But whatsoever you call it, there is no one to be named and called, there is just infinite space. That’s why I say that these are the ultimate techniques, the most delicate, the most difficult — but the most wonderful. And if you can work with any of these four techniques, you will gain the unattainable.  '
 }
 
-function f_eval_sec_min_hour {
+function f_practice_25 {
+   # Run a script to generate a random number, then creates a countdown with it and then it plays a sound
+
+   echo "Shiva Sutra #25:"
+   echo " > Just as you have the impulse To do something, Stop. "
+   echo
+   echo "Practice app:"
+   echo "- This script will play a thretening sound at a random time between 24 hours"
+   echo "- At that moment, whatever you are doing... STOP"
+   echo "- If for some reason you are falling, don't adjust to that falling"
+   echo "- After the sound is played, a new random timming will be set,"
+   echo "  This script will never be ended. It is a 'while loop'"
+   echo 
+   echo -n "- To stop the script, press "
+   f_cor1
+   echo "Ctrl+C"
+   f_resetCor
+   echo
+   echo "Random number generated (in seconds. It is 24 hours converted in seconds)"
+   v_secs=$(shuf -i 1-80400 -n 1)
+   echo " > $v_secs"
+
+   # Taking variable $v_secs to ve evaluated in minuts and hours:
    # Using the function $v_secs to decifer how long we would have to wait until such countdown in secs is going to end
    
       # Just mentioning the ammount of full seconds
@@ -5058,27 +5080,8 @@ case $1 in
    -p | --practice | practice)
       case $2 in
          25)
-            echo "Shiva Sutra #25:"
-            echo " > Just as you have the impulse To do something, Stop. "
-            echo
-            echo "Practice app:"
-            echo "- This script will play a thretening sound at a random time between 24 hours"
-            echo "- At that moment, whatever you are doing... STOP"
-            echo "- If for some reason you are falling, don't adjust to that falling"
-            echo "- After the sound is played, a new random timming will be set,"
-            echo "  This script will never be ended. It is a 'while loop'"
-            echo 
-            echo -n "- To stop the script, press "
-            f_cor1
-            echo "Ctrl+C"
-            f_resetCor
-            echo
-            echo "Random number generated (in seconds. It is 24 hours converted in seconds)"
-            v_secs=$(shuf -i 1-80400 -n 1)
-            echo " > $v_secs"
-
-            # Taking variable $v_secs to ve evaluated in minuts and hours:
-               f_eval_sec_min_hour
+            # Run a script to generate a random number, then creates a countdown with it and then it plays a sound
+               f_practice_25
             
             # uDev: a random time must be set and script must work
             # uDev: At any moment, if the user inputs a value, the secret timming mmust be revealed only at the screen
