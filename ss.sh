@@ -3032,6 +3032,43 @@ function f_intro_109_110_111_112 {
    These four techniques are to attain this state of being, or you can call it this state of no-being — there is no difference. You can give it a positive term, as Hindus and Jains have called it, soul, or you can give it a more appropriate but negative term, as Buddha has called it, ANATTA, no-selfness or no-soulness. It depends on you. But whatsoever you call it, there is no one to be named and called, there is just infinite space. That’s why I say that these are the ultimate techniques, the most delicate, the most difficult — but the most wonderful. And if you can work with any of these four techniques, you will gain the unattainable.  '
 }
 
+function f_eval_sec_min_hour {
+   # Using the function $v_secs to decifer how long we would have to wait until such countdown in secs is going to end
+   
+      # Just mentioning the ammount of full seconds
+         echo "Full seconds = Random number = $v_secs"
+
+      # Counting full minuts (the remaining are true seconds not more than 60)
+         v_countFullMinuts=$(($v_secs/60))
+         echo -n "Full minuts = $v_countFullMinuts "
+
+
+         v_remainingSeconds=$(($v_secs-$v_countFullMinuts*60))
+
+         echo "+ $v_remainingSeconds seconds = Random number"
+
+      # Using variable $v_countFullMinuts to multiply by 60 to tell how many second there are in such full minuts. this way, subtracting $v_secs (the random generated number) with this calculated multiplication to get the remaining seconds
+         v_multipMinutsPerSeconds=$(($v_countFullMinuts*60))
+         echo "     (and $v_countFullMinuts minutes mean $v_multipMinutsPerSeconds seconds)"
+
+      # Using variable $v_countFullMinuts to tell how many full hours it is
+         v_fullHours=$(($v_countFullMinuts/60))
+         echo "$v_countFullMinuts minutes means $v_fullHours full hours"
+
+
+      echo
+      echo "Countdown:"
+      v_cDown=$v_secs
+      for i in $(seq 1 $v_secs)
+      do 
+         v_cDown=$(expr $v_cDown - 1)
+         echo $v_cDown
+         sleep 1
+      done
+
+}
+
+
 case $1 in 
    -a)
       # Echo out all 112 Shiva Sutras
@@ -5035,6 +5072,13 @@ case $1 in
             f_cor1
             echo "Ctrl+C"
             f_resetCor
+            echo
+            echo "Random number generated (in seconds. It is 24 hours converted in seconds)"
+            v_secs=$(shuf -i 1-80400 -n 1)
+            echo " > $v_secs"
+
+            # Taking variable $v_secs to ve evaluated in minuts and hours:
+               f_eval_sec_min_hour
             
             # uDev: a random time must be set and script must work
             # uDev: At any moment, if the user inputs a value, the secret timming mmust be revealed only at the screen
