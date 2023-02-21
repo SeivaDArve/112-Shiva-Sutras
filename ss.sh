@@ -5075,11 +5075,12 @@ case $1 in
       echo
       echo "You can even add places to the sugestions by the help of app: Qbit (QR-walking-stick) or even with GPS coordinates acess"
    ;;
-   -l | link)
+   -l | links)
       echo "SS 1:  ..."
       echo "SS 2:  ..."
       echo "SS 3:  ..."
       echo "SS 20: https://www.youtube.com/watch?v=Xq9KyHXipEU (NN)"
+      echo "       https://www.youtube.com/watch?v=wbkojrVKj-s (Jessie introduces woody at toy story)"
       echo "SS 25: https://www.youtube.com/watch?v=eq0V-seTR2I (NN)"
    ;;
    -p | --practice | practice)
