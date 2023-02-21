@@ -4461,7 +4461,7 @@ case $1 in
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-Sutra-NeedleAndThread.jpg
          ;;
          *) 
-            echo "# uDev: not introduced yet"
+            echo "Few pics available: 7, 17, 20, 35, 76, sutra"
          ;;
       esac
    ;;
