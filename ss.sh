@@ -4437,6 +4437,10 @@ case $1 in
    pic)
       case $2 in 
             # Shows the imgs that ilustrates and reminds how the sutra are made
+         7)
+            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-7-tired-child.jpg
+            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-7-tired-child.jpg
+         ;;
          17)
             termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
@@ -5075,6 +5079,7 @@ case $1 in
       echo "SS 1:  ..."
       echo "SS 2:  ..."
       echo "SS 3:  ..."
+      echo "SS 20: https://www.youtube.com/watch?v=Xq9KyHXipEU (NN)"
       echo "SS 25: https://www.youtube.com/watch?v=eq0V-seTR2I (NN)"
    ;;
    -p | --practice | practice)
