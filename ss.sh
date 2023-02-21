@@ -5116,7 +5116,7 @@ case $1 in
       echo "ss PT | Pt | pT | pt {0..112}    :Gives each sutra in Portuguese (translated by Seiva)"
       echo "ss -r | --random           :Generates random numbers and asks user to remember the sutra behind that number"
       echo "ss --sugestion             :Sugests a sutra based on your input"
-      echo "-l | link            :Lists the youtube links for each sutra (doesn't open them)"
+      echo "-l | links            :Lists the youtube links for each sutra (doesn't open them)"
       echo "ss -p | --practice | practice {1..112}  :Scripts to help you practice"
       echo 
       echo "How to read this guide:"
