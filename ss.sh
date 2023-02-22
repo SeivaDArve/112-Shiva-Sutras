@@ -4452,6 +4452,13 @@ case $1 in
             termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-35-deep-well.jpg
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-35-deep-well.jpg
          ;;
+         69)
+            # Needs photoshop to make 5 images into one: The monkey who is trapped only because he does not let go
+            echo "Shiva Sutra #69 (uDev: Few pictures not yet merged into one)"
+            cd ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/SS-69
+            ls
+            echo " > There are several pictures for this sutra, you are free to open each one"
+         ;;
          76)
             termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
             termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
@@ -5085,6 +5092,7 @@ case $1 in
       echo "SS 20: https://www.youtube.com/watch?v=Xq9KyHXipEU (NN)"
       echo "       https://www.youtube.com/watch?v=wbkojrVKj-s (Jessie introduces woody at toy story)"
       echo "SS 25: https://www.youtube.com/watch?v=eq0V-seTR2I (NN)"
+      echo "SS 69: https://youtu.be/wbVZsgLVQiM"
    ;;
    -p | --practice | practice)
       case $2 in
