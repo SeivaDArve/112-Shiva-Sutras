@@ -59,7 +59,7 @@ function f_4 {
 
 function f_5 {
    echo "Shiva Sutra #5: "
-   echo " > Attention between eyebrowki?s, let mind be before thought. Let form fill with breath essence to the top of the head and there shower as light. "
+   echo " > Attention between eyebrows, let mind be before thought. Let form fill with breath essence to the top of the head and there shower as light. "
 }
 
 function f_6 {
@@ -3257,7 +3257,7 @@ case $1 in
 
          echo " > SS $v_rand is ..."
          echo
-         $v_rand
+         f_$v_rand
    ;;
    0) 
       # This option echos out the text of function f_0 (equivalent to Shiva Sutra 0)
@@ -5077,8 +5077,9 @@ case $1 in
    all)
       # Display all Shiva Sutras if no arg is found
          clear
+         echo
          figlet "Shiva Sutras"
-         for i in {0..112}; do f_$i; echo; done
+         for i in {0..112}; do f_$i; echo; done 
    ;;
    --sugestion)
       echo "If you input date, work schedule, lunch time, weather (to detect rain) etc, shiva sutras app will be able to sugest a sutra for that hour"
@@ -5089,10 +5090,17 @@ case $1 in
       echo "SS 1:  ..."
       echo "SS 2:  ..."
       echo "SS 3:  ..."
+      echo "SS 4: https://youtu.be/hm8RcYxYQb0 (NN)"
+      echo "SS 15: https://youtu.be/wPOHk69y6FY"
       echo "SS 20: https://www.youtube.com/watch?v=Xq9KyHXipEU (NN)"
       echo "       https://www.youtube.com/watch?v=wbkojrVKj-s (Jessie introduces woody at toy story)"
       echo "SS 25: https://www.youtube.com/watch?v=eq0V-seTR2I (NN)"
+      echo "SS 26: https://youtu.be/dQGzzkNyG_E"
+      echo "SS 39: https://youtu.be/upAHU4y0Pi0"
       echo "SS 69: https://youtu.be/wbVZsgLVQiM"
+      echo "SS 70: https://youtu.be/R56i872WaPo"
+      echo "SS 76 and 77: https://youtu.be/NO0oejD4vJs (NN)"
+      echo "SS 94: https://youtu.be/V9hHgEeJh7Y"
    ;;
    -p | --practice | practice)
       case $2 in
