@@ -3032,6 +3032,86 @@ function f_intro_109_110_111_112 {
    These four techniques are to attain this state of being, or you can call it this state of no-being — there is no difference. You can give it a positive term, as Hindus and Jains have called it, soul, or you can give it a more appropriate but negative term, as Buddha has called it, ANATTA, no-selfness or no-soulness. It depends on you. But whatsoever you call it, there is no one to be named and called, there is just infinite space. That’s why I say that these are the ultimate techniques, the most delicate, the most difficult — but the most wonderful. And if you can work with any of these four techniques, you will gain the unattainable.  '
 }
 
+function f_practice_9 {
+   # Runs a script that talks every 15 min
+
+   # Variable that increments by 1 every second and resets at 15 secons (for testing)
+      declare i=0
+
+   # variable that stores each set of 15 seconds
+      declare j=0
+
+   # variable that stores How many times 15 minuts passed
+      declare k=0
+
+   # Variable that counts until 900 and then resets. (900 seconds equals 15 minuts)
+      declare v_900=0
+
+   # This app will hide the blinking cursor. (In case you want it back, enter the command '$ tput cnorm')
+      tput civis
+   function f_greet15 {
+         clear
+         figlet "Practice SS #9"
+         f_cor1
+         echo -n " > Practicing time for SS #9: "
+         f_resetCor
+         echo "This is a stop watch that induces you to stay still for sets of 15 minuts. At the end of each 15 minuts it will speak"
+         echo
+         f_9
+         echo
+   }
+
+   function f_clear4 {
+      echo
+      echo
+      echo
+      echo
+      echo
+      echo
+      echo
+   }
+
+   f_greet15
+   tput sc
+   f_clear4
+
+   while true;
+      do
+         tput rc
+         f_clear4
+         tput rc
+   f_cor1
+   echo " > Counting time"
+   f_resetCor
+         echo "Each second: $i"
+         echo "Each minute: $j"
+         echo "Each set of 15 minutes: $k"
+         #echo -n "From 0 to 900 counter: $v_900  "
+         echo
+         f_cor1
+         echo -n "Cancel the script with: "
+         f_resetCor
+         echo "Ctrl+C"
+         sleep 1
+         ((i++))
+         ((v_900++))
+
+         # Counting each minute
+         if [[ $i == 60 ]]; then
+            ((j++))
+         fi
+
+         # Counting each 15 minuts and speaking
+         if [[ $v_900 == 900 ]]; then
+            ((k++))
+            speak "$k times 15 minuts" &
+            v_900=0
+         fi
+
+      done
+
+}
+
 function f_practice_25 {
    # Run a script to generate a random number, then creates a countdown with it and then it plays a sound
 
@@ -5105,6 +5185,10 @@ case $1 in
    ;;
    -p | --practice | practice)
       case $2 in
+         9)
+            # Run a script that speaks every 15 minuts saying how much time just passed. Like a stop watch but that never stops counting. 
+               f_practice_9
+         ;;
          25)
             # Run a script to generate a random number, then creates a countdown with it and then it plays a sound
                f_practice_25
