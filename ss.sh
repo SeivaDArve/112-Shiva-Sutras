@@ -3096,6 +3096,11 @@ function f_practice_9 {
          ((i++))
          ((v_900++))
 
+         # Testing the speaker
+         if [[ $i == 5 ]]; then
+            speak "Practice 9 is running" &
+         fi
+
          # Counting each minute
          if [[ $i == 60 ]]; then
             ((j++))
@@ -5171,16 +5176,24 @@ case $1 in
       echo "SS 2:  ..."
       echo "SS 3:  ..."
       echo "SS 4: https://youtu.be/hm8RcYxYQb0 (NN)"
+      echo "SS 8: https://youtu.be/3TWmteJV5mM (NN)"
+      echo "      and: https://youtu.be/TRSTJ4pld8E"
+      echo "      and: https://youtu.be/2TryVomeUJY"
+      echo "SS 12: https://youtu.be/_9Uv4eiEWyo (NN)"
       echo "SS 15: https://youtu.be/wPOHk69y6FY (NN)"
       echo "SS 20: https://www.youtube.com/watch?v=Xq9KyHXipEU (NN)"
       echo "       https://www.youtube.com/watch?v=wbkojrVKj-s (Jessie introduces woody at toy story) (NN)"
       echo "SS 25: https://www.youtube.com/watch?v=eq0V-seTR2I (NN)"
       echo "SS 26: https://youtu.be/dQGzzkNyG_E (NN)"
+      echo "SS 33: https://youtu.be/U-VP7faHNoM (NN)"
       echo "SS 39: https://youtu.be/upAHU4y0Pi0 (NN)"
       echo "SS 55: https://youtu.be/WnFmqpEXRto (NN)"
       echo "SS 69: https://youtu.be/wbVZsgLVQiM (NN)"
       echo "SS 70: https://youtu.be/R56i872WaPo (NN)"
       echo "SS 76 and 77: https://youtu.be/NO0oejD4vJs (NN)"
+      echo "SS 89: https://youtu.be/0iRBEgdARMo (NN)"
+      echo "SS 90: https://youtu.be/0iRBEgdARMo (NN) (1:18:30)"
+      echo "SS 91 and 92: https://youtu.be/61Qx0wpsdTA (NN)"
       echo "SS 94: https://youtu.be/V9hHgEeJh7Y (NN)"
    ;;
    -p | --practice | practice)
@@ -5195,6 +5208,7 @@ case $1 in
             
             # uDev: a random time must be set and script must work
             # uDev: At any moment, if the user inputs a value, the secret timming mmust be revealed only at the screen
+            # uDev: see explaing-112: Seiva: SS #25: there is a very good idea written there about how to improve this practive
          ;;
          *)
             echo "Some scripts to practice can be produced to help you... try '$ ss -p 25' for axample"
