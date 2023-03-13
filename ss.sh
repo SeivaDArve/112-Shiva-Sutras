@@ -4404,7 +4404,7 @@ case $1 in
          # ...
       esac
    ;;
-   --NN)
+   nn | NN | --NN)
       case $2 in 
          1)
             ;;
@@ -5346,6 +5346,29 @@ case $1 in
             echo "Some scripts to practice can be produced to help you... try '$ ss -p 25' for axample"
       esac
    ;;
+   catg | --categories)
+      echo "Each sutra can call multiple scripts:"
+      echo " > Sutra itself as found online: '$ ss 12'"
+      echo " > Sutra translated by Osho"
+      echo " > Sutra translated by Nythiananda"
+      echo " > Sutra translated (to PT-PT) by Seiva D'Arve"
+      echo " > Sutra in Sanskrit"
+      echo " > Comentary by Osho for each sutra (text)"
+      echo " > Comentary by Osho for one group of sutras (text)"
+      echo " > Comentary by Osho (audio)"
+      echo " > Comentary by Nithyananda (text)"
+      echo " > Comentary by Nithyananda (audio)"
+      echo " > Comentary by Nithyananda (video)"
+      echo " > Comentary by Nithyananda (YouTube video)"
+      echo " > Youtube link for video by Nithyananda"
+      echo " > Comentary by Seiva (text)"  
+      echo " > Thumbnail image/picture of the sutra"
+      echo " > Practice script"
+      echo 
+      echo " > Can ask for random sutra's number and try to remember text"
+      echo " > Can search text within 112 list (the one found online)"
+      
+   ;;
    *)
       echo "Shiva Sutras: App Usage:"
       echo 
@@ -5358,7 +5381,7 @@ case $1 in
       echo "ss -F {1..112}             :Gives sutra + It's intro by Osho"
       echo "ss pic {0..112}            :Gives an example picture to remember how to do the sutra (by Seiva)"
       echo "ss -i | --intro {1..112}   :Gives introduction for each sutra (by Osho)"
-      echo "ss --NN {1..112}           :Gives each SS translated by Nithyananda"
+      echo "ss nn | NN | --NN {1..112}           :Gives each SS translated by Nithyananda"
       echo "ss --osho {1..112}         :Gives description of eaxh sutra (by Osho)"
       echo "ss PT | Pt | pT | pt {0..112}    :Gives each sutra in Portuguese (translated by Seiva)"
       echo "ss -r | --random           :Generates random numbers and asks user to remember the sutra behind that number"
