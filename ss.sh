@@ -5363,8 +5363,9 @@ case $1 in
       echo " > Youtube link for video by Nithyananda"
       echo " > Comentary by Seiva (text)"  
       echo " > Thumbnail image/picture of the sutra"
-      echo " > Practice script"
       echo 
+      echo " > Practice script"
+      echo " > QR code location (find best practice locations like geocaching game)"
       echo " > Can ask for random sutra's number and try to remember text"
       echo " > Can search text within 112 list (the one found online)"
       
