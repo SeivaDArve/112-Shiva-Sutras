@@ -597,6 +597,11 @@ function f_112 {
    echo " > Enter space, support less, eternal, still."
 }
 
+function f_A_pt {
+   echo
+   echo " > Tradução em Portugues (PT-PT) por: Seiva D'Arve"
+}
+
 function f_0_pt {
    echo "Vigyan Bhairav Tantra"
    echo "- (112 Shiva Sutras) -"
@@ -3032,6 +3037,91 @@ function f_intro_109_110_111_112 {
    These four techniques are to attain this state of being, or you can call it this state of no-being — there is no difference. You can give it a positive term, as Hindus and Jains have called it, soul, or you can give it a more appropriate but negative term, as Buddha has called it, ANATTA, no-selfness or no-soulness. It depends on you. But whatsoever you call it, there is no one to be named and called, there is just infinite space. That’s why I say that these are the ultimate techniques, the most delicate, the most difficult — but the most wonderful. And if you can work with any of these four techniques, you will gain the unattainable.  '
 }
 
+function f_practice_9 {
+   # Runs a script that talks every 15 min
+
+   # Variable that increments by 1 every second and resets at 15 secons (for testing)
+      declare i=0
+
+   # variable that stores each set of 15 seconds
+      declare j=0
+
+   # variable that stores How many times 15 minuts passed
+      declare k=0
+
+   # Variable that counts until 900 and then resets. (900 seconds equals 15 minuts)
+      declare v_900=0
+
+   # This app will hide the blinking cursor. (In case you want it back, enter the command '$ tput cnorm')
+      tput civis
+   function f_greet15 {
+         clear
+         figlet "Practice SS #9"
+         f_cor1
+         echo -n " > Practicing time for SS #9: "
+         f_resetCor
+         echo "This is a stop watch that induces you to stay still for sets of 15 minuts. At the end of each 15 minuts it will speak"
+         echo
+         f_9
+         echo
+   }
+
+   function f_clear4 {
+      echo
+      echo
+      echo
+      echo
+      echo
+      echo
+      echo
+   }
+
+   f_greet15
+   tput sc
+   f_clear4
+
+   while true;
+      do
+         tput rc
+         f_clear4
+         tput rc
+   f_cor1
+   echo " > Counting time"
+   f_resetCor
+         echo "Each second: $i"
+         echo "Each minute: $j"
+         echo "Each set of 15 minutes: $k"
+         #echo -n "From 0 to 900 counter: $v_900  "
+         echo
+         f_cor1
+         echo -n "Cancel the script with: "
+         f_resetCor
+         echo "Ctrl+C"
+         sleep 1
+         ((i++))
+         ((v_900++))
+
+         # Testing the speaker
+         if [[ $i == 5 ]]; then
+            speak "Practice 9 is running" &
+         fi
+
+         # Counting each minute
+         if [[ $i == 60 ]]; then
+            ((j++))
+         fi
+
+         # Counting each 15 minuts and speaking
+         if [[ $v_900 == 900 ]]; then
+            ((k++))
+            speak "$k times 15 minuts" &
+            v_900=0
+         fi
+
+      done
+
+}
+
 function f_practice_25 {
    # Run a script to generate a random number, then creates a countdown with it and then it plays a sound
 
@@ -3208,7 +3298,7 @@ case $1 in
       f_111
       f_112
    ;;
-   -g | --grep | grab)
+   t | -g | --grep | grab)
       # Searches for text inside the 'vigyan bhairav tantra' document
 
       # Create a place to save and manipulate our temporary file
@@ -3234,7 +3324,7 @@ case $1 in
       # Remove our temporary file (not needed anymore)
          rm ~/.tmp/ss.txt 2>/dev/null
    ;;
-   -r | --random)
+    -r | --random)
       # Generates random numbers and asks user to remember the sutra behind that number
          # Random number ranges between 0 to 112
          v_rand=$(shuf -i 0-112 -n 1)
@@ -3720,458 +3810,572 @@ case $1 in
          0) 
             # This option echos out the text of function f_0 in PT (equivalent to Shiva Sutra 0)
             f_0_pt
+            f_A_pt
          ;;
          1) 
             # This option echos out the text of function f_1 in PT (equivalent to Shiva Sutra 0)
             f_1_pt
+            f_A_pt
          ;;
          2) 
             # This option echos out the text of function f_2 in PT (equivalent to Shiva Sutra 2)
             f_2_pt
+            f_A_pt
          ;;
          3) 
             # This option echos out the text of function f_3 in PT (equivalent to Shiva Sutra 3)
             f_3_pt
+            f_A_pt
          ;;
          4) 
             # This option echos out the text of function f_4 in PT (equivalent to Shiva Sutra 4)
             f_4_pt
+            f_A_pt
          ;;
          5) 
             # This option echos out the text of function f_5 in PT (equivalent to Shiva Sutra 5)
             f_5_pt
+            f_A_pt
          ;;
          6) 
             # This option echos out the text of function f_6 in PT (equivalent to Shiva Sutra 6)
             f_6_pt
+            f_A_pt
          ;;
          7) 
             # This option echos out the text of function f_7 in PT (equivalent to Shiva Sutra 7)
             f_7_pt
+            f_A_pt
          ;;
          8) 
             # This option echos out the text of function f_8 in PT (equivalent to Shiva Sutra 8)
             f_8_pt
+            f_A_pt
          ;;
          9) 
             # This option echos out the text of function 9 in PT (equivalent to Shiva Sutra 9)
             f_9_pt
+            f_A_pt
          ;;
          10) 
             # This option echos out the text of function 10 in PT (equivalent to Shiva Sutra 10)
             f_10_pt
+            f_A_pt
          ;;
          11) 
             # This option echos out the text of function 11 in PT (equivalent to Shiva Sutra 11)
             f_11_pt
+            f_A_pt
          ;;
          12) 
             # This option echos out the text of function 12 in PT (equivalent to Shiva Sutra 12)
             f_12_pt
+            f_A_pt
          ;;
          13) 
             # This option echos out the text of function 13 in PT (equivalent to Shiva Sutra 13)
             f_13_pt
+            f_A_pt
          ;;
          14) 
             # This option echos out the text of function 14 in PT (equivalent to Shiva Sutra 14)
             f_14_pt
+            f_A_pt
          ;;
          15) 
             # This option echos out the text of function 15 in PT (equivalent to Shiva Sutra 15)
             f_15_pt
+            f_A_pt
          ;;
          16) 
             # This option echos out the text of function 16 in PT (equivalent to Shiva Sutra 16)
             f_16_pt
+            f_A_pt
          ;;
          17) 
             # This option echos out the text of function 17 in PT (equivalent to Shiva Sutra 17)
             f_17_pt
+            f_A_pt
          ;;
          18) 
             # This option echos out the text of function 18 in PT (equivalent to Shiva Sutra 18)
             f_18_pt
+            f_A_pt
          ;;
          19) 
             # This option echos out the text of function 19 in PT (equivalent to Shiva Sutra 19)
             f_19_pt
+            f_A_pt
          ;;
          20) 
             # This option echos out the text of function 20 in PT (equivalent to Shiva Sutra 20)
             f_20_pt
+            f_A_pt
          ;;
          21) 
             # This option echos out the text of function 21 in PT (equivalent to Shiva Sutra 21)
             f_21_pt
+            f_A_pt
          ;;
          22) 
             # This option echos out the text of function 22 in PT (equivalent to Shiva Sutra 22)
             f_22_pt
+            f_A_pt
          ;;
          23) 
             # This option echos out the text of function 23 in PT (equivalent to Shiva Sutra 23)
             f_23_pt
+            f_A_pt
          ;;
          24) 
             # This option echos out the text of function 24 in PT (equivalent to Shiva Sutra 24)
             f_24_pt
+            f_A_pt
          ;;
          25) 
             # This option echos out the text of function 25 in PT (equivalent to Shiva Sutra 25)
             f_25_pt
+            f_A_pt
          ;;
          26) 
             # This option echos out the text of function 26 in PT (equivalent to Shiva Sutra 26)
             f_26_pt
+            f_A_pt
          ;;
          27) 
             # This option echos out the text of function 27 in PT (equivalent to Shiva Sutra 27)
             f_27_pt
+            f_A_pt
          ;;
          28) 
             # This option echos out the text of function 28 in PT (equivalent to Shiva Sutra 28)
             f_28_pt
+            f_A_pt
          ;;
          29) 
             # This option echos out the text of function 29 in PT (equivalent to Shiva Sutra 29)
             f_29_pt
+            f_A_pt
          ;;
          30) 
             # This option echos out the text of function 30 in PT (equivalent to Shiva Sutra 30)
             f_30_pt
+            f_A_pt
          ;;
          31) 
             # This option echos out the text of function 31 in PT (equivalent to Shiva Sutra 31)
             f_31_pt
+            f_A_pt
          ;;
          32) 
             # This option echos out the text of function 32 in PT (equivalent to Shiva Sutra 32)
             f_32_pt
+            f_A_pt
          ;;
          33) 
             # This option echos out the text of function 33 in PT (equivalent to Shiva Sutra 33)
             f_33_pt
+            f_A_pt
          ;;
          34) 
             # This option echos out the text of function 34 in PT (equivalent to Shiva Sutra 34)
             f_34_pt
+            f_A_pt
          ;;
          35) 
             # This option echos out the text of function 35 in PT (equivalent to Shiva Sutra 35)
             f_35_pt
+            f_A_pt
          ;;
          36) 
             # This option echos out the text of function 36 in PT (equivalent to Shiva Sutra 36)
             f_36_pt
+            f_A_pt
          ;;
          37) 
             # This option echos out the text of function 37 in PT (equivalent to Shiva Sutra 37)
             f_37_pt
+            f_A_pt
          ;;
          38) 
             # This option echos out the text of function 38 in PT (equivalent to Shiva Sutra 38)
             f_38_pt
+            f_A_pt
          ;;
          39) 
             # This option echos out the text of function 39 in PT (equivalent to Shiva Sutra 39)
             f_39_pt
+            f_A_pt
          ;;
          40) 
             # This option echos out the text of function 40 in PT (equivalent to Shiva Sutra 40)
             f_40_pt
+            f_A_pt
          ;;
          41) 
             # This option echos out the text of function 41 in PT (equivalent to Shiva Sutra 41)
             f_41_pt
+            f_A_pt
          ;;
          42) 
             # This option echos out the text of function 42 in PT (equivalent to Shiva Sutra 42)
             f_42_pt
+            f_A_pt
          ;;
          43) 
             # This option echos out the text of function 43 in PT (equivalent to Shiva Sutra 43)
             f_43_pt
+            f_A_pt
          ;;
          44) 
             # This option echos out the text of function 44 in PT (equivalent to Shiva Sutra 44)
             f_44_pt
+            f_A_pt
          ;;
          45) 
             # This option echos out the text of function 45 in PT (equivalent to Shiva Sutra 45)
             f_45_pt
+            f_A_pt
          ;;
          46) 
             # This option echos out the text of function 46 in PT (equivalent to Shiva Sutra 46)
             f_46_pt
+            f_A_pt
          ;;
          47) 
             # This option echos out the text of function 47 in PT (equivalent to Shiva Sutra 47)
             f_47_pt
+            f_A_pt
          ;;
          48) 
             # This option echos out the text of function 48 in PT (equivalent to Shiva Sutra 48)
             f_48_pt
+            f_A_pt
          ;;
          49) 
             # This option echos out the text of function 49 in PT (equivalent to Shiva Sutra 49)
             f_49_pt
+            f_A_pt
          ;;
          50) 
             # This option echos out the text of function 50 in PT (equivalent to Shiva Sutra 50)
             f_50_pt
+            f_A_pt
          ;;
          51) 
             # This option echos out the text of function 51 in PT (equivalent to Shiva Sutra 51)
             f_51_pt
+            f_A_pt
          ;;
          52) 
             # This option echos out the text of function 52 in PT (equivalent to Shiva Sutra 52)
             f_52_pt
+            f_A_pt
          ;;
          53) 
             # This option echos out the text of function 53 in PT (equivalent to Shiva Sutra 53)
             f_53_pt
+            f_A_pt
          ;;
          54) 
             # This option echos out the text of function 54 in PT (equivalent to Shiva Sutra 54)
             f_54_pt
+            f_A_pt
          ;;
          55) 
             # This option echos out the text of function 55 in PT (equivalent to Shiva Sutra 55)
             f_55_pt
+            f_A_pt
          ;;
          56) 
             # This option echos out the text of function 56 in PT (equivalent to Shiva Sutra 56)
             f_56_pt
+            f_A_pt
          ;;
          57) 
             # This option echos out the text of function 57 in PT (equivalent to Shiva Sutra 57)
             f_57_pt
+            f_A_pt
          ;;
          58) 
             # This option echos out the text of function 58 in PT (equivalent to Shiva Sutra 58)
             f_58_pt
+            f_A_pt
          ;;
          59) 
             # This option echos out the text of function 59 in PT (equivalent to Shiva Sutra 59)
             f_59_pt
+            f_A_pt
          ;;
          60) 
             # This option echos out the text of function 60 in PT (equivalent to Shiva Sutra 60)
             f_60_pt
+            f_A_pt
          ;;
          61) 
             # This option echos out the text of function 61 in PT (equivalent to Shiva Sutra 61)
             f_61_pt
+            f_A_pt
          ;;
          62) 
             # This option echos out the text of function 62 in PT (equivalent to Shiva Sutra 62)
             f_62_pt
+            f_A_pt
          ;;
          63) 
             # This option echos out the text of function 63 in PT (equivalent to Shiva Sutra 63)
             f_63_pt
+            f_A_pt
          ;;
          64) 
             # This option echos out the text of function 64 in PT (equivalent to Shiva Sutra 64)
             f_64_pt
+            f_A_pt
          ;;
          65) 
             # This option echos out the text of function 65 in PT (equivalent to Shiva Sutra 65)
             f_65_pt
+            f_A_pt
          ;;
          66) 
             # This option echos out the text of function 66 in PT (equivalent to Shiva Sutra 66)
             f_66_pt
+            f_A_pt
          ;;
          67) 
             # This option echos out the text of function 67 in PT (equivalent to Shiva Sutra 67)
             f_67_pt
+            f_A_pt
          ;;
          68) 
             # This option echos out the text of function 68 in PT (equivalent to Shiva Sutra 68)
             f_68_pt
+            f_A_pt
          ;;
          69) 
             # This option echos out the text of function 69 in PT (equivalent to Shiva Sutra 69)
             f_69_pt
+            f_A_pt
          ;;
          70) 
             # This option echos out the text of function 70 in PT (equivalent to Shiva Sutra 70)
             f_70_pt
+            f_A_pt
          ;;
          71) 
             # This option echos out the text of function 71 in PT (equivalent to Shiva Sutra 71)
             f_71_pt
+            f_A_pt
          ;;
          72) 
             # This option echos out the text of function 72 in PT (equivalent to Shiva Sutra 72)
             f_72_pt
+            f_A_pt
          ;;
          73) 
             # This option echos out the text of function 73 in PT (equivalent to Shiva Sutra 73)
             f_73_pt
+            f_A_pt
          ;;
          74) 
             # This option echos out the text of function 74 in PT (equivalent to Shiva Sutra 74)
             f_74_pt
+            f_A_pt
          ;;
          75) 
             # This option echos out the text of function 75 in PT (equivalent to Shiva Sutra 75)
             f_75_pt
+            f_A_pt
          ;;
          76) 
             # This option echos out the text of function 76 in PT (equivalent to Shiva Sutra 76)
             f_76_pt
+            f_A_pt
          ;;
          77) 
             # This option echos out the text of function 77 in PT (equivalent to Shiva Sutra 77)
             f_77_pt
+            f_A_pt
          ;;
          78) 
             # This option echos out the text of function 78 in PT (equivalent to Shiva Sutra 78)
             f_78_pt
+            f_A_pt
          ;;
          79) 
             # This option echos out the text of function 79 in PT (equivalent to Shiva Sutra 79)
             f_79_pt
+            f_A_pt
          ;;
          80) 
             # This option echos out the text of function 80 in PT (equivalent to Shiva Sutra 80)
             f_80_pt
+            f_A_pt
          ;;
          81) 
             # This option echos out the text of function 81 in PT (equivalent to Shiva Sutra 81)
             f_81_pt
+            f_A_pt
          ;;
          82) 
             # This option echos out the text of function 82 in PT (equivalent to Shiva Sutra 82)
             f_82_pt
+            f_A_pt
          ;;
          83) 
             # This option echos out the text of function 83 in PT (equivalent to Shiva Sutra 83)
             f_83_pt
+            f_A_pt
          ;;
          84) 
             # This option echos out the text of function 84 in PT (equivalent to Shiva Sutra 84)
             f_84_pt
+            f_A_pt
          ;;
          85) 
             # This option echos out the text of function 85 in PT (equivalent to Shiva Sutra 85)
             f_85_pt
+            f_A_pt
          ;;
          86) 
             # This option echos out the text of function 86 in PT (equivalent to Shiva Sutra 86)
             f_86_pt
+            f_A_pt
          ;;
          86) 
             # This option echos out the text of function 86 in PT (equivalent to Shiva Sutra 86)
             f_86_pt
+            f_A_pt
          ;;
          87) 
             # This option echos out the text of function 87 in PT (equivalent to Shiva Sutra 87)
             f_87_pt
+            f_A_pt
          ;;
          88) 
             # This option echos out the text of function 88 in PT (equivalent to Shiva Sutra 88)
             f_88_pt
+            f_A_pt
          ;;
          89) 
             # This option echos out the text of function 89 in PT (equivalent to Shiva Sutra 89)
             f_89_pt
+            f_A_pt
          ;;
          90) 
             # This option echos out the text of function 90 in PT (equivalent to Shiva Sutra 90)
             f_90_pt
+            f_A_pt
          ;;
          91) 
             # This option echos out the text of function 91 in PT (equivalent to Shiva Sutra 91)
             f_91_pt
+            f_A_pt
          ;;
          92) 
             # This option echos out the text of function 92 in PT (equivalent to Shiva Sutra 92)
             f_92_pt
+            f_A_pt
          ;;
          93) 
             # This option echos out the text of function 93 in PT (equivalent to Shiva Sutra 93)
             f_93_pt
+            f_A_pt
          ;;
          94) 
             # This option echos out the text of function 94 in PT (equivalent to Shiva Sutra 94)
             f_94_pt
+            f_A_pt
          ;;
          95) 
             # This option echos out the text of function 95 in PT (equivalent to Shiva Sutra 95)
             f_95_pt
+            f_A_pt
          ;;
          96) 
             # This option echos out the text of function 96 in PT (equivalent to Shiva Sutra 96)
             f_96_pt
+            f_A_pt
          ;;
          97) 
             # This option echos out the text of function 97 in PT (equivalent to Shiva Sutra 97)
             f_97_pt
+            f_A_pt
          ;;
          98) 
             # This option echos out the text of function 98 in PT (equivalent to Shiva Sutra 98)
             f_98_pt
+            f_A_pt
          ;;
          99) 
             # This option echos out the text of function 99 in PT (equivalent to Shiva Sutra 99)
             f_99_pt
+            f_A_pt
          ;;
          100) 
             # This option echos out the text of function 100 in PT (equivalent to Shiva Sutra 100)
             f_100_pt
+            f_A_pt
          ;;
          101) 
             # This option echos out the text of function 101 in PT (equivalent to Shiva Sutra 101)
             f_101_pt
+            f_A_pt
          ;;
          102) 
             # This option echos out the text of function 102 in PT (equivalent to Shiva Sutra 102)
             f_102_pt
+            f_A_pt
          ;;
          103) 
             # This option echos out the text of function 103 in PT (equivalent to Shiva Sutra 103)
             f_103_pt
+            f_A_pt
          ;;
          104) 
             # This option echos out the text of function 104 in PT (equivalent to Shiva Sutra 104)
             f_104_pt
+            f_A_pt
          ;;
          105) 
             # This option echos out the text of function 105 in PT (equivalent to Shiva Sutra 105)
             f_105_pt
+            f_A_pt
          ;;
          106) 
             # This option echos out the text of function 106 in PT (equivalent to Shiva Sutra 106)
             f_106_pt
+            f_A_pt
          ;;
          107) 
             # This option echos out the text of function 107 in PT (equivalent to Shiva Sutra 107)
             f_107_pt
+            f_A_pt
          ;;
          108) 
             # This option echos out the text of function 108 in PT (equivalent to Shiva Sutra 108)
             f_108_pt
+            f_A_pt
          ;;
          109) 
             # This option echos out the text of function 109 in PT (equivalent to Shiva Sutra 109)
             f_109_pt
+            f_A_pt
          ;;
          110) 
             # This option echos out the text of function 110 in PT (equivalent to Shiva Sutra 110)
             f_110_pt
+            f_A_pt
          ;;
          111) 
             # This option echos out the text of function 111 in PT (equivalent to Shiva Sutra 111)
             f_111_pt
+            f_A_pt
          ;;
          112) 
             # This option echos out the text of function 112 in PT (equivalent to Shiva Sutra 112)
             f_112_pt
+            f_A_pt
          ;;
          *)
             # Display all Shiva Sutras in PT if no more args are found
@@ -4200,7 +4404,7 @@ case $1 in
          # ...
       esac
    ;;
-   --NN)
+   nn | NN | --NN)
       case $2 in 
          1)
             ;;
@@ -4213,14 +4417,20 @@ case $1 in
          7)
             f_7
             echo
-            echo "Shiva Sutra #7 (translations by Nithyananda):"
+            echo "Shiva Sutra #7 (translation by Nithyananda):"
             echo " > With prana (intangible breath) in center of forehead, as it reaches the heart at the moment of sleep, have direction over dreams and over death itself."
          ;;
          17)
             f_17
             echo
-            echo "Shiva Sutra #17: (translations by Nithyananda):"
+            echo "Shiva Sutra #17: (translation by Nithyananda):"
             echo " > Unminding mind, keep in the middle – until it drops."
+         ;;
+         28)
+            f_28
+            echo
+            echo "Shiva Sutra #28: (translation by Nithyananda):"
+            echo " > Having meditated on the gross and weak shakti in "vada sha endrias" (12 endrias) thus making it subtle, one who enters the heart space and meditates there attains mukti, becomes liberated and takes a quantum jump into ultimate consciousness"
          ;;
          *) 
             echo "ss: Nithyananda <arg>"
@@ -5091,35 +5301,80 @@ case $1 in
       echo "SS 2:  ..."
       echo "SS 3:  ..."
       echo "SS 4: https://youtu.be/hm8RcYxYQb0 (NN)"
-      echo "SS 15: https://youtu.be/wPOHk69y6FY"
-      echo "SS 20: https://www.youtube.com/watch?v=Xq9KyHXipEU (NN)"
-      echo "       https://www.youtube.com/watch?v=wbkojrVKj-s (Jessie introduces woody at toy story)"
+      echo "SS 8: https://youtu.be/3TWmteJV5mM (NN)"
+      echo "      and: https://youtu.be/TRSTJ4pld8E"
+      echo "      and: https://youtu.be/2TryVomeUJY"
+      echo "SS 12: https://youtu.be/_9Uv4eiEWyo (NN)"
+      echo "SS 15: https://youtu.be/wPOHk69y6FY (NN)"
+      echo "SS 20: https://youtu.be/CPySadn0h0k (NN *1)"
+      echo "       and https://www.youtube.com/watch?v=Xq9KyHXipEU (NN)"
+      echo "       and https://www.youtube.com/watch?v=wbkojrVKj-s (Jessie introduces woody at toy story) (NN)"
       echo "SS 25: https://www.youtube.com/watch?v=eq0V-seTR2I (NN)"
-      echo "SS 26: https://youtu.be/dQGzzkNyG_E"
-      echo "SS 39: https://youtu.be/upAHU4y0Pi0"
-      echo "SS 69: https://youtu.be/wbVZsgLVQiM"
-      echo "SS 70: https://youtu.be/R56i872WaPo"
+      echo "SS 26: https://youtu.be/dQGzzkNyG_E (NN)"
+      echo "SS 28: https://youtu.be/ouo1k3mtJRA"
+      echo "SS 33: https://youtu.be/U-VP7faHNoM (NN)"
+      echo "SS 39: https://youtu.be/upAHU4y0Pi0 (NN)"
+      echo "SS https://youtu.be/bukg6qtVtso (MN *1)"
+      echo "SS 55: https://youtu.be/WnFmqpEXRto (NN)"
+      echo "SS 59: https://youtu.be/GXfd9x0yw0E (NN *1)"
+      echo "SS 69: https://youtu.be/wbVZsgLVQiM (NN)"
+      echo "SS 70: https://youtu.be/R56i872WaPo (NN)"
       echo "SS 76 and 77: https://youtu.be/NO0oejD4vJs (NN)"
-      echo "SS 94: https://youtu.be/V9hHgEeJh7Y"
+      echo "SS 89: https://youtu.be/0iRBEgdARMo (NN)"
+      echo "SS 90: https://youtu.be/0iRBEgdARMo (NN) (1:18:30)"
+      echo "SS 91 and 92: https://youtu.be/61Qx0wpsdTA (NN)"
+      echo "SS 94: https://youtu.be/V9hHgEeJh7Y (NN)"
+      echo "Ss 96: https://youtu.be/SBbUlgb8Axk (NN *1)"
+      echo
+      echo "*1 : The video does not mention the sutra"
    ;;
    -p | --practice | practice)
       case $2 in
+         9)
+            # Run a script that speaks every 15 minuts saying how much time just passed. Like a stop watch but that never stops counting. 
+               f_practice_9
+         ;;
          25)
             # Run a script to generate a random number, then creates a countdown with it and then it plays a sound
                f_practice_25
             
             # uDev: a random time must be set and script must work
             # uDev: At any moment, if the user inputs a value, the secret timming mmust be revealed only at the screen
+            # uDev: see explaing-112: Seiva: SS #25: there is a very good idea written there about how to improve this practive
          ;;
          *)
             echo "Some scripts to practice can be produced to help you... try '$ ss -p 25' for axample"
       esac
    ;;
+   catg | --categories)
+      echo "Each sutra can call multiple scripts:"
+      echo " > Sutra itself as found online: '$ ss 12'"
+      echo " > Sutra translated by Osho"
+      echo " > Sutra translated by Nythiananda"
+      echo " > Sutra translated (to PT-PT) by Seiva D'Arve"
+      echo " > Sutra in Sanskrit"
+      echo " > Comentary by Osho for each sutra (text)"
+      echo " > Comentary by Osho for one group of sutras (text)"
+      echo " > Comentary by Osho (audio)"
+      echo " > Comentary by Nithyananda (text)"
+      echo " > Comentary by Nithyananda (audio)"
+      echo " > Comentary by Nithyananda (video)"
+      echo " > Comentary by Nithyananda (YouTube video)"
+      echo " > Youtube link for video by Nithyananda"
+      echo " > Comentary by Seiva (text)"  
+      echo " > Thumbnail image/picture of the sutra"
+      echo 
+      echo " > Practice script"
+      echo " > QR code location (find best practice locations like geocaching game)"
+      echo " > Can ask for random sutra's number and try to remember text"
+      echo " > Can search text within 112 list (the one found online)"
+      
+   ;;
    *)
       echo "Shiva Sutras: App Usage:"
       echo 
       echo "ss                         :Show this message"
-      echo "ss -g | --grep | grab      :Grab text from SS titles and sutras"
+      echo "ss t | -g | --grep | grab      :Grab text from SS titles and sutras"
       echo "ss all                     :Show main list of all SS"
       echo "ss -a                      :Show main list of all SS"
       echo "ss -v {1..112}             :Re-directs for Nithyananda's YouTube videos"
@@ -5127,7 +5382,7 @@ case $1 in
       echo "ss -F {1..112}             :Gives sutra + It's intro by Osho"
       echo "ss pic {0..112}            :Gives an example picture to remember how to do the sutra (by Seiva)"
       echo "ss -i | --intro {1..112}   :Gives introduction for each sutra (by Osho)"
-      echo "ss --NN {1..112}           :Gives each SS translated by Nithyananda"
+      echo "ss nn | NN | --NN {1..112}           :Gives each SS translated by Nithyananda"
       echo "ss --osho {1..112}         :Gives description of eaxh sutra (by Osho)"
       echo "ss PT | Pt | pT | pt {0..112}    :Gives each sutra in Portuguese (translated by Seiva)"
       echo "ss -r | --random           :Generates random numbers and asks user to remember the sutra behind that number"
