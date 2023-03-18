@@ -3312,10 +3312,19 @@ case $1 in
             f_$i >> ~/.tmp/ss.txt
          done
 
-      # Prompt the user for the text to search for:
-         read -p "Searching for text: " v_ans
-         echo
+      #################################################################
+      ##    # SEARCHING TEXT METHOD 1 OF 2
+      ##    # Prompt the user for the text to search for:
+      ##       read -p "Searching for text: " v_ans
+      ##       echo
 
+      ##    # SEARCHING TEXT METHOD 2 OF 2
+            # Using arg 2 (after -g argument) as the text to search 
+               v_ans=$2    ## Using ARGUMENT 2  to use for the text search
+      ##
+      #################################################################
+
+      
       # Grab all lines containing the pattern from user input along with one line before that line (the option -B). (The flag --color=auto will highlight our pattern when grep displays text to the screen)
          grep -B 1 -i $v_ans ~/.tmp/ss.txt --color=auto
 
