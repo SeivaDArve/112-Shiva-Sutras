@@ -34,6 +34,7 @@ function f_0 {
    echo "above space and time,"
    echo "names and descriptions?"
    echo "Let my doubts be cleared! "
+   
 }
 
 
@@ -614,6 +615,8 @@ function f_0_pt {
    echo "Que vida é esta para além da forma que permeia as formas?"
    echo "Como é que podemos entrar nisso completamente, acima do espaço e tempo, nomes e descrições?"
    echo "Deixa as minhas dúvidas serem esclarecidas!"
+   echo 
+   echo "Shiva 'inclui Parvati em Si'/'coloca-se na prespetiva de Devi com empatia'/'vibracionalmente mescla-se com Devi', e... expressa-se 'para si proprio'/'para o nada'/'como se ele fosse Devi' em 'voz alta'/'vai vivendo'/'como se ele fosse ambos' experimenta cada um dos metodos que utiliza para se iluminar"
 }
 
 function f_1_pt {
@@ -5323,7 +5326,8 @@ case $1 in
       echo "SS 28: https://youtu.be/ouo1k3mtJRA"
       echo "SS 33: https://youtu.be/U-VP7faHNoM (NN)"
       echo "SS 39: https://youtu.be/upAHU4y0Pi0 (NN)"
-      echo "SS https://youtu.be/bukg6qtVtso (MN *1)"
+      echo "SS 44: https://youtu.be/bukg6qtVtso (MN *1)"
+      echo "SS 45: https://youtu.be/wPSELw0cOXY (NN)"
       echo "SS 55: https://youtu.be/WnFmqpEXRto (NN)"
       echo "SS 59: https://youtu.be/GXfd9x0yw0E (NN *1)"
       echo "SS 69: https://youtu.be/wbVZsgLVQiM (NN)"
@@ -5332,10 +5336,20 @@ case $1 in
       echo "SS 89: https://youtu.be/0iRBEgdARMo (NN)"
       echo "SS 90: https://youtu.be/0iRBEgdARMo (NN) (1:18:30)"
       echo "SS 91 and 92: https://youtu.be/61Qx0wpsdTA (NN)"
+      echo "SS 92: https://youtu.be/UnyjwJLNzhI"
+      echo "      and https://youtu.be/RHjOBFAC4H0 (NN *1)"
+      echo "      and https://youtu.be/bZ2A6y0QBSk (NN)"
+      echo "      and https://youtu.be/OhBXNg3GzTo (NN *2)" 
       echo "SS 94: https://youtu.be/V9hHgEeJh7Y (NN)"
       echo "Ss 96: https://youtu.be/SBbUlgb8Axk (NN *1)"
       echo
+      echo "SS (sutra only in sankrit part 1) https://youtu.be/pBmlvyaCDxw "
+      echo "SS (sutra only in sankrit part 2) https://youtu.be/hiRdTAam-7s"
+      echo
+      echo "SS (no sutra) https://youtu.be/jwJYGsfcIdA (NN *1)"
+      echo
       echo "*1 : The video does not mention the sutra"
+      echo "*2 : same as previous link but with diferent title"
    ;;
    -p | --practice | practice)
       case $2 in
@@ -5350,6 +5364,12 @@ case $1 in
             # uDev: a random time must be set and script must work
             # uDev: At any moment, if the user inputs a value, the secret timming mmust be revealed only at the screen
             # uDev: see explaing-112: Seiva: SS #25: there is a very good idea written there about how to improve this practive
+         ;;
+         108)
+            # Runs a sound X times per minute for you to stop each time and watch where nature wants to guide you to, or lead you to.... If you completly stop, what will be the next urge? where will the next impulse guide you thowards?
+            # Per minute, one of the X times is a Y value.. the sound will de different like if you are learning music intervals
+            # Those 2 rithms are meant to create a small awareness and a bigger awateness of the non-stop activity that you are
+            # This is because you as a person you are not agitated, you are agitation itself. This sutra may bring intervals in between bigger agitations and smaller agitations
          ;;
          *)
             echo "Some scripts to practice can be produced to help you... try '$ ss -p 25' for axample"
