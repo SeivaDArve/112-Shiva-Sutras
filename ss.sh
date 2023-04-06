@@ -5313,6 +5313,7 @@ case $1 in
       echo "SS 2:  ..."
       echo "SS 3:  ..."
       echo "SS 4: https://youtu.be/hm8RcYxYQb0 (NN)"
+      echo "SS 6: https://youtu.be/U06sgNnFAyE (NN)"
       echo "SS 8: https://youtu.be/3TWmteJV5mM (NN)"
       echo "      and: https://youtu.be/TRSTJ4pld8E"
       echo "      and: https://youtu.be/2TryVomeUJY"
