@@ -5309,6 +5309,7 @@ case $1 in
       echo "You can even add places to the sugestions by the help of app: Qbit (QR-walking-stick) or even with GPS coordinates acess"
    ;;
    -l | links)
+      echo "Introduction by Nythiananda: https://youtu.be/5mxCV8s9Mo4"
       echo "SS 1:  ..."
       echo "SS 2:  ..."
       echo "SS 3:  ..."
