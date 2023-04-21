@@ -6,3 +6,8 @@ uDev...
 
 # Relationship between 64 Shiva Sutras and 112 Dharanas inside one of those tantras is explained in this video at minute 7:28
 https://youtu.be/OwKNVHYSDqs
+
+To add to the app later {
+   - Sources of all these contents
+   - Add to nithyananda youtube videos MY comment to mention the current sutra and a link to the remaining nithyananda shiva sutras   
+}
