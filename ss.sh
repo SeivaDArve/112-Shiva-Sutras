@@ -5346,7 +5346,7 @@ case $1 in
       echo "SS 45: https://youtu.be/wPSELw0cOXY (NN)"
       echo "SS 55: https://youtu.be/WnFmqpEXRto (NN)"
       echo "SS 59: https://youtu.be/GXfd9x0yw0E (NN *1)"
-      echo "SS 63: https://youtu.be/1XGUxEciWws (NN)"
+      echo "SS 63 and 64: https://youtu.be/1XGUxEciWws (NN)"
       echo "SS 69: https://youtu.be/wbVZsgLVQiM (NN)"
       echo "SS 70: https://youtu.be/R56i872WaPo (NN)"
       echo "SS 72: https://youtu.be/gWQyJHiT9js (NN)"
