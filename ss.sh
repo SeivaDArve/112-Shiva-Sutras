@@ -3336,7 +3336,7 @@ case $1 in
       # Remove our temporary file (not needed anymore)
          rm ~/.tmp/ss.txt 2>/dev/null
    ;;
-    -r | --random)
+    r | -r | --random)
       # Generates random numbers and asks user to remember the sutra behind that number
          # Random number ranges between 0 to 112
          v_rand=$(shuf -i 0-112 -n 1)
