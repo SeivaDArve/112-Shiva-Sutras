@@ -5314,6 +5314,7 @@ case $1 in
       echo "SS 2: https://youtu.be/8xk2kgHvWvA"
       echo "SS 3:  ..."
       echo "SS 4: https://youtu.be/hm8RcYxYQb0 (NN)"
+      echo "      > Alternative: https://youtu.be/Rpb8lxxDlSA (NN)"
       echo "SS 6: https://youtu.be/U06sgNnFAyE (NN)"
       echo "SS 8: https://youtu.be/3TWmteJV5mM (NN)"
       echo "      and: https://youtu.be/TRSTJ4pld8E"
