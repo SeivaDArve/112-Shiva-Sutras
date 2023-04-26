@@ -1,7 +1,6 @@
 # Title: Compilation of Media links
 # Description: An acumulation of media to listen to discourses, and video examples
 
-
 Shiva Sutras Introductions:
  - video 1 ------------------------------ 
    > Name: 
@@ -143,6 +142,11 @@ Shiva Sutra #40: "
    > Note: It is an example of people practicing
          : It is a Bajhan momnt from youtube
  
+ - video 2 ------------------------------ 
+   > Name: 
+   > Link: https://youtu.be/Ji0j93bAuDo 
+   > Note: by Nithyananda
+ 
 Shiva Sutras #41:
  - video 1 ------------------------------ 
    > Name:
@@ -251,6 +255,26 @@ Shiva Sutra #92: "
    > Part 4: Name: Reclaim Your Inner Space
            : Link: https://youtu.be/OhBXNg3GzTo (NN *2)"
    > Note  : by Nithyananda
+
+
+===================================================
+Example/Model
+
+Shiva Sutra #n: "
+ - video n ------------------------------ 
+   > Name: 
+   > Link: 
+   > Note: 
+         : 
+   > Note: 
+ 
+ - video n ------------------------------ 
+   > Part 1: Name: 
+           : Link: 
+   > Part 2: Name: 
+           : Link: 
+
+===================================================
  
 SS 94: https://youtu.be/V9hHgEeJh7Y (NN)
 SS 96: https://youtu.be/SBbUlgb8Axk (NN *1)
