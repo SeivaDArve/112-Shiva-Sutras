@@ -3336,7 +3336,7 @@ case $1 in
       # Remove our temporary file (not needed anymore)
          rm ~/.tmp/ss.txt 2>/dev/null
    ;;
-    r | -r | --random)
+   r | -r | --random)
       # Generates random numbers and asks user to remember the sutra behind that number
          # Random number ranges between 0 to 112
          v_rand=$(shuf -i 0-112 -n 1)
@@ -3348,6 +3348,8 @@ case $1 in
          tput sgr0
 
          echo "Random SS number is $v_rand"
+         
+         #espeak  "Random SS number is $v_rand"
 
          # Save cursor position
             tput sc
@@ -3360,6 +3362,7 @@ case $1 in
          echo " > SS $v_rand is ..."
          echo
          f_$v_rand
+      # uDev: create a while loop to keep giving random sutras beweetn 5 minutes interval to memorize, (This must use voice to be used while driving)
    ;;
    0) 
       # This option echos out the text of function f_0 (equivalent to Shiva Sutra 0)
