@@ -906,7 +906,7 @@ function f_57_pt {
 
 function f_58_pt {
    echo "Shiva Sutra #58: "
-   echo " > Este "tão falado" universo aparenta ser um malabarismo, Um espetáculo de imagens. Para ser feliz, olha para ele como tal."
+   echo " > Este tal de universo aparenta ser malabarismo, Um cinema. Para ser feliz, olha para ele como tal."
 }
 
 function f_59_pt {
@@ -962,6 +962,7 @@ function f_68_pt {
 function f_69_pt {
    echo "Shiva Sutra #69: "
    echo " > Desde que, na verdade, escravidão e liberdade são relativos, estas palavras são só para aqueles aterrorizados com o universo. Este universo é o reflexo das mentes. Assim como vês vários sois na água, vê também a escravidão e a liberdade."
+   #echo " > Visto que, na verdade, aprisionamento e liberdade são relativos, estas palavras são só para aqueles aterrorizados com o universo. Este universo é o reflexo das mentes. Assim como vês vários sois na água, vê também a aprisionamemto e a liberdade."
 }
 
 function f_70_pt {
