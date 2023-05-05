@@ -5,12 +5,12 @@
 # uDev: this must be integrated INSIDE ss.sh
 
 
-source /data/data/com.termux/files/home/Repositories/112-Shiva-Sutras/ss.sh
+source ${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh
 
 
 
 function f_loop {
-   bash /data/data/com.termux/files/home/Repositories/112-Shiva-Sutras/ss.sh -r
+   bash ${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh -r
 }
 
 while true
