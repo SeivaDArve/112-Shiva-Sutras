@@ -3184,16 +3184,46 @@ function f_practice_25 {
 
 }
 
+function f_random_nr {
+   # Generates random numbers and asks user to remember the sutra behind that number
+
+   # Random number ranges between 0 to 112
+      v_rand=$(shuf -i 0-112 -n 1)
+   
+   clear
+
+   f_cor1
+   figlet "Shiva Sutras"
+   tput sgr0
+
+   echo "Random SS number is $v_rand"
+   
+   #espeak  "Random SS number is $v_rand"
+
+   # Save cursor position
+      tput sc
+
+   read -sn 1 -p "Time to remember... (then press enter)"
+
+   # Reset cursor position to begining of line and empty entire line
+      tput rc; tput el
+
+   echo " > SS $v_rand is ..."
+   echo
+   f_$v_rand
+
+   # uDev: create a while loop to keep giving random sutras beweetn 5 minutes interval to memorize, (This must use voice to be used while driving)
+}
 
 case $1 in 
-   -a)
-      # Echo out all 112 Shiva Sutras
-      f_1
-      f_2
-      f_3
-      f_4
-      f_5
-      f_6
+-a)
+   # Echo out all 112 Shiva Sutras
+   f_1
+   f_2
+   f_3
+   f_4
+   f_5
+   f_6
       f_7
       f_8
       f_9
@@ -3339,31 +3369,34 @@ case $1 in
    ;;
    r | -r | --random)
       # Generates random numbers and asks user to remember the sutra behind that number
-         # Random number ranges between 0 to 112
-         v_rand=$(shuf -i 0-112 -n 1)
-         
-         clear
+         f_random_nr
 
-         f_cor1
-         figlet "Shiva Sutras"
-         tput sgr0
-
-         echo "Random SS number is $v_rand"
-         
-         #espeak  "Random SS number is $v_rand"
-
-         # Save cursor position
-            tput sc
-
-         read -sn 1 -p "Time to remember... (then press enter)"
-
-         # Reset cursor position to begining of line and empty entire line
-            tput rc; tput el
-
-         echo " > SS $v_rand is ..."
-         echo
-         f_$v_rand
-      # uDev: create a while loop to keep giving random sutras beweetn 5 minutes interval to memorize, (This must use voice to be used while driving)
+   ;;
+   loop)
+      # Generates for example random numbers IN A LOOP and asks user to remember the sutra behind that number
+         case $2 in 
+            r)
+               while true
+               do
+                  f_random_nr
+                  echo
+                  tput setaf 3
+                  echo -n "Info: "
+                  tput sgr0
+                  echo -n "To cancel this loop, press "
+                  tput setaf 3
+                  echo -n "Ctrl-C "
+                  tput sgr0
+                  read -s -n 1
+                  echo
+                  clear
+               done
+            ;;
+            *)
+               echo "SS:"
+               echo " > The only option at the moment is either \"loop\" or nothing"
+            ;;
+         esac
    ;;
    0) 
       # This option echos out the text of function f_0 (equivalent to Shiva Sutra 0)
@@ -5378,7 +5411,8 @@ case $1 in
       echo "ss nn | NN | --NN {1..112}           :Gives each SS translated by Nithyananda"
       echo "ss --osho {1..112}         :Gives description of eaxh sutra (by Osho)"
       echo "ss PT | Pt | pT | pt {0..112}    :Gives each sutra in Portuguese (translated by Seiva)"
-      echo "ss -r | --random           :Generates random numbers and asks user to remember the sutra behind that number"
+      echo "ss r | -r | --random           :Generates random numbers and asks user to remember the sutra behind that number"
+      echo "ss loop r                  :Generates random numbers in a loop and ask user to remember the sutra behind that number"
       echo "ss --sugestion             :Sugests a sutra based on your input"
       echo "-l | links            :Lists the youtube links for each sutra (doesn't open them)"
       echo "ss -p | --practice | practice {1..112}  :Scripts to help you practice"
