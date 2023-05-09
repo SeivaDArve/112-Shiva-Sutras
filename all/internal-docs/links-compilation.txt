@@ -456,8 +456,23 @@ Shiva Sutra #87:
          : Starting point for 'SS #87' at (1:11:20)
    > Note: satsang by Nithyananda
 
-SS 89: https://youtu.be/0iRBEgdARMo (NN)
-SS 90: https://youtu.be/0iRBEgdARMo (NN) (1:18:30)
+Shiva Sutra #89:
+ - video 1 ------------------------------ 
+   > Name: 
+   > Link: https://youtu.be/0iRBEgdARMo
+   > Note: This video includes sutra 'SS #90' at (1:18:30) 
+   > Note: satsang by Nithyananda
+
+ - video 2 ------------------------------ 
+   > Name: Wake Up! & Be Intense
+   > Link: https://youtu.be/mgHgTAZhCqg
+
+Shiva Sutra #90:
+ - video 1 ------------------------------ 
+   > Name: 
+   > Link: https://youtu.be/0iRBEgdARMo 
+   > Note: In the video, the sutra 'SS #90' starts at (1:18:30)
+   > Note: satsang by Nithyananda
  
 Shiva Sutra #91:
  - video 1 ------------------------------ 
@@ -528,11 +543,6 @@ Shiva Sutra #n:
    > Note: satsang by Nithyananda
 
 Shiva Sutra #n:
- - video 1 ------------------------------ 
-   > Name: Wake Up! & Be Intense
-   > Link: https://youtu.be/mgHgTAZhCqg
-
-Shiva Sutra #n:
  - video n ------------------------------ 
    > Name: Nithyananda Satsang with HDH Nithyananda Paramashivam
    > Link: https://www.youtube.com/live/RClOi6ucXdg?feature=share
@@ -569,16 +579,17 @@ Shiva Sutra #n:
 
 Shiva Sutra #n:
  - video n ------------------------------ 
+   duplicado:
    > Part 1: Name: 
-           : Link: 
+           : Link: https://youtu.be/9dnvfZqnF2I
    > Part 2: Name: 
-           : Link: 
+           : Link: https://youtu.be/conXY3Wgw74
    > Part 3: Name: Humans Are Unique, Not Equal! || Part 3 || Shiva Sutras || 18 April 2007
            : Link: https://youtu.be/Ikl2sWmkyFg
    > Part 4: Name: 
-           : Link: 
+           : Link: https://youtu.be/SUSuxcMh_aA
    > Part 5: Name: 
-           : Link: 
+           : Link: https://youtu.be/gN00wsiKRIE
 
 
 ===================================================
