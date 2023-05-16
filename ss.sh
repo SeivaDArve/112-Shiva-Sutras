@@ -1188,8 +1188,6 @@ function f_x_1 {
 
 function f_intro_1_2_3_4_5_6_7_8_9 {
    echo '
-> From 64 Shiva Sutras, one sutra lists 112 Meditation Techniques (112 Dharanas)
-
    Devi Asks:
       O Shiva, what is your reality?
       What is this wonder-filled universe?
@@ -1201,8 +1199,9 @@ function f_intro_1_2_3_4_5_6_7_8_9 {
       names and descriptions?
       Let my doubts be cleared!
 
-   After that, Shiva answers the questions of Devi Parvati
+   Shiva replied: ...
 
+--------------------
    Osho:
 
    Truth is always here. It is already the case. It is not something to be achieved in the future. You are the truth just here and now, so it is not something which is to be created or something which is to be devised or something which is to be sought. Understand this very clearly; then these techniques will be easy to understand and also to do.
@@ -1270,6 +1269,9 @@ function f_intro_1_2_3_4_5_6_7_8_9 {
 
 function f_intro_10_11_12 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 10, 11, 12
 
    Man has a center, but he lives off of it — off the center. That creates an inner tension, a constant turmoil, anguish. You are not where you should be; you are not at your right balance. You are off balance, and this being off balance, off center, is the base of all mental tensions. If it becomes too much, you go mad.
@@ -1327,6 +1329,9 @@ function f_intro_10_11_12 {
 
 function f_intro_13_14 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 13, 14
 
    Man is born with a center, but he remains completely oblivious of it. Man can live without knowing his center, but man cannot be without a center. The center is the link between man and existence; it is the root. You may not know it, knowledge is not essential for the center to be, but if you do not know it you will lead a life that is rootless — as if rootless.
@@ -1392,6 +1397,9 @@ function f_intro_13_14 {
 
 function f_intro_15_16_17 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 15, 16, 17
 
    Man is as if he is a circle without a center. His life is superficial; his life is only on the circumference. You live on the outside, you never live within. You cannot, unless a center is found. You cannot live within, really you have no within. You are without a center, you have only the without.
@@ -1465,6 +1473,9 @@ function f_intro_15_16_17 {
 
 function f_intro_18_19_20_21 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 18, 19, 20, 21
 
    The human body is a mysterious mechanism. Its working is two-dimensional. In order to go to the outside, your consciousness goes through the senses to meet the world, to meet matter. But this is only one dimension of your body’s functions. Your body has another dimension also: it leads you in. If consciousness goes out, then whatsoever you know is matter; if consciousness goes in, then whatsoever you know is non-matter.
@@ -1496,6 +1507,9 @@ function f_intro_18_19_20_21 {
 
 function f_intro_22_23_24 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 22, 23, 24
 
    One of the great tantrics of this age, George Gurdjieff, says that identification is the only sin. The next sutra, the tenth sutra on centering — which we are going to penetrate tonight — is concerned with identification. So first be crystal clear on what identification means.
@@ -1533,6 +1547,9 @@ function f_intro_22_23_24 {
 
 function f_intro_25_26_27 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 25, 26, 27
 
    Life has two balances: one is of being and the other of doing. Your being is your nature. It is with you always; you have not to do anything to get it. It is already the case, you are it. It is not that you possess it, not even that a distance exists between you and it — you are it. You are your being. Doing is an achievement. Whatsoever you do is not already the case. If you do it, it will happen; if you do not do it, it will not happen. All that is not already the case is not your being.
@@ -1552,6 +1569,9 @@ function f_intro_25_26_27 {
 
 function f_intro_28_29 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 28, 29
 
    For tantra, man himself is the disease. It is not that your mind is disturbed — rather, your mind is the disturbance. It is not that you are tense within, but rather, you are the tension. Understand the distinction clearly. If the mind is ill then the illness can be treated, but if the mind itself is the illness, then this illness cannot be treated. It can be transcended, but it cannot be treated. That makes the basic difference between Western psychology, and Eastern tantric and yogic psychology; that is the difference between Eastern tantra and yoga, and Western psychology.
@@ -1665,6 +1685,9 @@ function f_intro_28_29 {
 
 function f_intro_30_31_32 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 30, 31, 32
 
    Tonight’s techniques are concerned with the practice of looking. Before we enter these techniques, something has to be understood about the eyes, because all these seven techniques depend on that. The first thing: eyes are the most non-bodily part in the human body, the least bodily. If matter can become non-matter, then such is the case with eyes. Eyes are material, but simultaneously they are also non-material. Eyes are a meeting point of you and your body. Nowhere else in the body is the meeting so deep.
@@ -1708,6 +1731,9 @@ function f_intro_30_31_32 {
 
 function f_intro_33_34_35_36 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 33, 34, 35, 36
 
    We live on the surface of ourselves — just at the fringe, the boundary. The senses are just on the boundary and your consciousness is way deep down at the center. We live in the senses; that is natural. But that is not the ultimate flowering, it is just the beginning. And when we are living in the senses, we are basically concerned with objects, because senses are irrelevant unless there is concern with some object of enjoyment. For example, eyes are useless unless there is something to be seen, ears are useless unless there is something to be heard, and hands are useless unless there is something to be touched.
@@ -1807,6 +1833,9 @@ function f_intro_33_34_35_36 {
 
 function f_intro_37_38 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 37, 38
 
    Jean Paul Sartre wrote an autobiography. He has called it WORDS. The name is very meaningful. It is the autobiography of every man — words and words and words. You are filled with words, and this process of words continues the whole day, even in the mind. When you are sleeping, you are still filled with words, thoughts.
@@ -1860,6 +1889,9 @@ function f_intro_37_38 {
 
 function f_intro_39_40_41 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 39, 40, 41
 
    I wonder whether or not you have heard about the concept of anti-matter. A new concept has entered recently in the world of physics — the concept of anti-matter. It has been felt always that nothing can exist in the universe without its opposite. It is impossible to conceive of anything which exists alone without its opposite. The diametrically opposite must be there whether known or not.
@@ -1885,6 +1917,9 @@ function f_intro_39_40_41 {
 
 function f_intro_42_43_44 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 42, 43, 44
 
    Tantra divides life into two dimensions: one is the SANSAR — that which is, the world; and the other is MOKSHA — that which can be, the ultimate, the hidden which can become manifest. But there is no contradiction between these two. The hidden is just here and now, in the world — of course, unknown to you, but not non-existent. It is there. The ultimate and the immediate are not two things, but just two dimensions of one existence.
@@ -1938,6 +1973,9 @@ function f_intro_42_43_44 {
 
 function f_intro_45_46_47 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 45, 46, 47
 
    Tantra is not a philosophy. Rather, it is a science with one difference: science is objective, tantra is subjective. But still, it is a science and not a philosophy. Philosophy thinks about the truth, the unknown, the ultimate; science tries to discover what is. Science enters the immediate; philosophy thinks of the ultimate. Philosophy is always looking toward the sky; science is more down to earth.
@@ -1959,6 +1997,9 @@ function f_intro_45_46_47 {
 
 function f_intro_48_49_50_51_52 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 48, 49, 50, 51, 52
 
    Sigmund Freud has said somewhere that man is born neurotic. This is a half-truth. Man is not born neurotic, but he is born in a neurotic humanity and the society around drives everyone neurotic sooner or later. Man is born natural, real, normal, but the moment the newborn becomes part of the society neurosis starts working.
@@ -1984,6 +2025,9 @@ function f_intro_48_49_50_51_52 {
 
 function f_intro_53_54_55_56 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 53, 54, 55, 56
 
    Civilization is a training in how to become unreal. Tantra is the reverse process — how to prevent yourself from becoming unreal, and if you have already become unreal, how to touch the reality which is hidden within you, how to contact it again, how to be again real. The first thing to be understood is how we go on becoming unreal, and once this process is understood many things change immediately. The very understanding becomes mutation.
@@ -2015,6 +2059,9 @@ function f_intro_53_54_55_56 {
 
 function f_intro_57_58_59_60 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 57, 58, 59, 60
 
    The original mind is like a mirror: it is pure, and it remains pure, but dust can gather upon it. The purity is not lost, the dust cannot destroy the purity — but the purity can be covered up. This is the condition of the ordinary mind — covered with dust. Hidden behind the dust, the original mind remains pure. It cannot become impure; that is impossible. And if it was possible for it to become impure, then there would be no way to regain the purity again. In itself it remains pure, just covered by dust.
@@ -2040,6 +2087,9 @@ function f_intro_57_58_59_60 {
 
 function f_intro_61_62_63 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 61, 62, 63
 
    Sri Aurobindo says somewhere that the whole life is yoga — and it is so. Everything can become a meditation. And unless everything becomes a meditation, meditation has not happened to you. Meditation cannot be a part, a fragment. Either it is — and when it is you are wholly in it — or it is not. You cannot make a part of your life meditative. That is impossible, and that is what is being tried everywhere.
@@ -2065,6 +2115,9 @@ function f_intro_61_62_63 {
 
 function f_intro_64_65 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 64, 65
 
    Life is a paradox. To reach near you have to travel far, and that which is already achieved you have to achieve again. Nothing is lost. Man remains natural, man remains pure, man remains innocent; it is only that he forgets it. The purity is not disturbed, the innocence is not destroyed. Only a deep forgetfulness is there.
@@ -2132,6 +2185,9 @@ function f_intro_64_65 {
 
 function f_intro_66_67 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 66, 67
 
    Northrope says somewhere that the Western mind has been continuously searching for the theoretical component of existence — the causal link for how things happen, what is the cause, how the effect can be controlled, how man can manipulate nature. And the Eastern mind, says Northrope, has been on a different adventure. The search has been to find the aesthetic component of reality — not the theoretical, but the aesthetic.
@@ -2167,6 +2223,9 @@ function f_intro_66_67 {
 
 function f_intro_68_69 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 68, 69
 
    Hui-neng had asked a person, “What is the problem? What are the roots so that man can be solved and man can make some efforts to know who he is?”
@@ -2236,6 +2295,9 @@ function f_intro_68_69 {
 
 function f_intro_70_71_72 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 70, 71, 72
 
    Man can be considered in three ways: in terms of the normal, the abnormal and the supernormal. Western psychology is basically concerned with the abnormal, the pathological, with the man who has fallen down from the normal, who has fallen down from the norm.
@@ -2293,6 +2355,9 @@ function f_intro_70_71_72 {
 
 function f_intro_73_74_75 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 73, 74, 75
 
    AS I LOOK IN YOUR EYES I never see you there — as if you are absent. You exist absently, and this is the core of all suffering. You can be alive without being at all present, and if you are not present your existence will become a boredom. And this is what has happened. So when I look in your eyes I don’t find you there. You have yet to come, you have yet to be. The situation is there, and the possibility is there — you can be there any moment — but yet you are not.
@@ -2350,6 +2415,9 @@ function f_intro_73_74_75 {
 
 function f_intro_76_77_78 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 76, 77, 78
 
    Once a doctor, a very well known historian and an eminent scholar, was staying in a village. The postmaster, the old postmaster of the village, became curious about this old man, this doctor. He was curious to know what kind of doctor he is, so one day he asked, `What kind of doctor are you sir?’
@@ -2395,6 +2463,9 @@ function f_intro_76_77_78 {
 
 function f_intro_79_80_81 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 79, 80, 81
 
    All the enlightened ones, all the religions, agree on one thing only. Their disagreements are many, but there is one agreement amongst all, and that is that man, because of his ego, is closed to the reality. The ego is the only barrier; the feeling that I Am.
@@ -2462,6 +2533,9 @@ function f_intro_79_80_81 {
 
 function f_intro_82_83 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 82, 83
 
    Once a visitor asked many people in a small town about the mayor: `What type of man is your mayor?’
@@ -2533,6 +2607,9 @@ function f_intro_82_83 {
 
 function f_intro_84_85 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 84, 85
 
    I have heard a story about an old doctor. One day his assistant phoned him because he was in very great difficulty — his patient was choking himself to death. A billiard ball was stuck in his throat, and the assistant was at a loss for what to do. So he asked the old doctor, `What am I supposed to do now?’ The old doctor said, `Tickle the patient with a feather.’
@@ -2558,6 +2635,9 @@ function f_intro_84_85 {
 
 function f_intro_86_87 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 86, 87
 
    Man is Janus-Faced — animal and divine both. Animal belongs to his past, divine belongs to his future, and this creates the difficulty. The past has passed, it is no more; just a shadow of it lingers on. And the future is still the future, it has not yet come; it just a dream, just a possibility. And between these two exists man — the shadow of the past and the dream of the future. He is neither and he is both.
@@ -2609,6 +2689,9 @@ function f_intro_86_87 {
 
 function f_intro_88_89 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 88, 89
 
    I have heard one anecdote. In a conservative party rally, Lord Mancroft was invited to speak. He came right on time, reached the rostrum and said to the public — he was looking a little flustered — he said, `Forgive me for shortening my speech a little, but the fact is that my house is on fire.’ And that fact is everybody’s fact. Your house is also on fire, but you don’t even seem a little flustered.
@@ -2666,6 +2749,9 @@ function f_intro_88_89 {
 
 function f_intro_90_91 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 90, 91
 
    Once it happened in a church that after a very long dry sermon, the minister announced that there would be a meeting, a brief meeting of the board, right after the benediction. After the services a stranger approached the minister; he was the first man. The minister thought, `There has been some misunderstanding,’ because the man was absolutely a stranger. He didn’t even look like a Christian; his appearance was that of a Mohammedan, so the minister said, `It seems you have misunderstood the announcement. There is going to be a meeting of the board.’
@@ -2763,6 +2849,9 @@ function f_intro_90_91 {
 
 function f_intro_92_93 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 92, 93
 
    Life is not a problem but a mystery. For science life is a problem, but for religion it is a mystery. A problem can be solved, a mystery cannot be solved — it can be lived but it cannot be solved. Religion offers no solutions, no answers. Science offers answers; religion has none.
@@ -2800,6 +2889,9 @@ function f_intro_92_93 {
 
 function f_intro_94_95 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 94, 95
 
    Philosophers all over the world have been arguing for centuries about what basic stuff the universe is made of, what the substance is. There have been propositions, systems, that say that matter is the basic reality and mind is just an outgrowth, that matter is basic and mind is just a by-product, that mind is also material, only subtle.
@@ -2843,6 +2935,9 @@ function f_intro_94_95 {
 
 function f_intro_96_97 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 96, 97
 
    Man is born alone and dies alone, but between these two points he lives in society, he lives with others.
@@ -2878,6 +2973,9 @@ function f_intro_96_97 {
 
 function f_intro_98_99 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 98, 99
 
    Life on the outside is a cyclone — a constant conflict, turmoil, struggle. But it is only so on the surface — just as on the surface of the ocean are waves, maddening noise, constant struggle. But this is not all of life. Deep down there is also a center — soundless, silent, no conflict, no struggle. In the center, life is a noiseless flow, relaxed, a river moving with no struggle, with no fight, no violence Towards that inner center is the search.
@@ -2911,6 +3009,9 @@ function f_intro_98_99 {
 
 function f_intro_100_101 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 100, 101
 
    Many people seem to be interested in meditation, but that interest cannot be very deep because so very few are transformed through it. If the interest is really deep, it becomes a fire by itself. It transforms you. Just through intense interest you start becoming different. A new center of being arises. So many people seem to be interested but nothing new arises in them, no new center is born, no new crystallization is achieved. They remain the same.
@@ -2958,6 +3059,9 @@ function f_intro_100_101 {
 
 function f_intro_102_103_104_105 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 102, 103, 104, 105
 
    One of the greatest poets, Walt Whitman, is reported to have said, “I contradict myself because I am big, I contradict myself because I contain all the opposites, because I am all.” The same thing can be said about Shiva, about Tantra.
@@ -2987,6 +3091,9 @@ function f_intro_102_103_104_105 {
 
 function f_intro_106_107_108 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 106, 107, 108
 
    Existence as such is one. The human problem arises because of human self-consciousness. Consciousness gives everyone a feeling that they are separate, and the feeling that you are separate from existence creates all the problems. Basically this feeling is false, and whatsoever is based on a falsity will create anguish, will create problems, will create confusion. And whatsoever you do, if it is based on this false separateness, it will go wrong.
@@ -3012,6 +3119,9 @@ function f_intro_106_107_108 {
 
 function f_intro_109_110_111_112 {
    echo '
+--------------------
+   Osho:
+
 > Introduction to Meditation techniques: 109, 110, 111, 112
 
    These techniques are concerned with emptiness — they are the most delicate, the most subtle. Even to conceive of emptiness seems impossible. Buddha used all these four techniques for his disciples and BHIKKHUS, and because of these four techniques he was totally misunderstood. Buddhism got completely uprooted from Indian soil just because of these four techniques.
@@ -3218,12 +3328,12 @@ function f_random_nr {
 case $1 in 
 -a)
    # Echo out all 112 Shiva Sutras
-   f_1
-   f_2
-   f_3
-   f_4
-   f_5
-   f_6
+      f_1
+      f_2
+      f_3
+      f_4
+      f_5
+      f_6
       f_7
       f_8
       f_9
@@ -4434,7 +4544,7 @@ case $1 in
          ;;
       esac
    ;;
-   --osho)
+   osho)
       # Description of this sutra by Osho
       case $2 in 
          0) 
