@@ -94,7 +94,7 @@ Shiva Sutra #1:
          : - If one technique has to be alive. Nithyananda prescribes this one
 
  - video 4 (short)------------------------
-   > Name: 
+   > Name: Thinking and Breathing
    > Link: https://youtu.be/tJVnJd7u2JQ
 
 Shiva Sutra #2:
@@ -104,15 +104,16 @@ Shiva Sutra #2:
    > Note: All by Nithyananda
 
  - video 2 ------------------------------ 
-    https://youtu.be/iO4jLNpJvcQ
-   mentioned at: (11:07)
-   (uDev: I think this video 2 is a short clip of video 1, lets confirm)
+   > Name: Breath & Mind - Deeper Connections
+   > Link: https://youtu.be/iO4jLNpJvcQ
+   > Note: - Sutra: mentioned at: (11:07)
+         : - 
+         : (uDev: I think this video 2 is a short clip of video 1, lets confirm)
 
 Shiva Sutra #4:
  - video 1 ------------------------------ 
    > Name: Find Your Center Deep Within - Shiva Sutras from Nithyananda Videos
    > Link: https://youtu.be/hm8RcYxYQb0
-     > alt.link: https://youtu.be/Rpb8lxxDlSA
    > Note: All by Nithyananda
 
  - video 2 -------------------------------
@@ -122,8 +123,14 @@ Shiva Sutra #4:
          : - Sutra: diferent translation
          
  - video 3 (short)------------------------
-    https://youtu.be/E0GOP2E-bVA
-
+   > Name: The Technique for the Zen Zone www.LifeBliss.org
+   > Link: https://youtu.be/E0GOP2E-bVA
+   > Note: - Sutra: mentioned at: (0:09)
+         : - Sutra: diferent translation
+         : Contents: 
+         : - You don't even need to practice this technique. All you need to do is to be aware of this technique
+         : - How vedas gives 3 steps...
+         : -
 
 Shiva Sutra #5:
  - video 1 ------------------------------ 
@@ -327,27 +334,27 @@ Shiva Sutra #33:
 
 Shiva Sutra #34:
  - video n ------------------------------ 
-   > Part 1: Name: 
+   > Part 1: Name: Shiva Sutra || Part 1|| Satsang || 29 Mar 2007
            : Link: https://youtu.be/maJXebzVek0
            : Note: - Sutra:
                  : -
-   > Part 2: Name: 
+   > Part 2: Name: Shiva Sutra || Part 2 || Satsang || 29 Mar 2007
            : Link: https://youtu.be/cRbUcRVWYNw
            : Note: - Sutra:
                  : - 
-   > Part 3: Name: 
+   > Part 3: Name: Shiva Sutra || Part 3 || Satsang || 29 Mar 2007
            : Link: https://youtu.be/-QUXJi872Tc
            : Note: - Sutra:
                  : -
-   > Part 4: Name: 
+   > Part 4: Name: Shiva Sutra || Part 4 || Satsang || 29 Mar 2007
            : Link: https://youtu.be/okWiw353SVI
            : Note: - Sutra:
                  : - 
-   > Part 5: Name: 
+   > Part 5: Name: Shiva Sutra || Part 5 || Satsang || 29 Mar 2007
            : Link: https://youtu.be/Psh3L5zWFwk
            : Note: - Sutra:
                  : - 
-   > Part 6: Name: 
+   > Part 6: Name: Shiva Sutra || Part 6 || Satsang || 29 Mar 2007
            : Link: https://youtu.be/RI2Bnr8WH40
            : Note: - Sutra: 'SS #34' mentioned at (0:15)
                  : - 
@@ -623,7 +630,7 @@ Shiva Sutra #60:
 
 Shiva Sutra #61:
  - video 1 -------------------------------
-   > Name: 
+   > Name: You are Emptiness
    > Link: https://youtu.be/WSogwYCUKiQ
    > Note: - Sutra 'SS #61' mentioned at (0:28)
          : - 
@@ -678,6 +685,14 @@ Shiva Sutra #72:
    > Note: satsang by Nithyananda
    Sutra: 'SS #72' mentioned at: (1:34)
    - How nithyananda got enlightened
+
+ - video 2 -------------------------------
+   > Name: There is neither you nor me
+   > Link: https://youtu.be/BzeC7HZ740c
+   > Note: - Sutra: 'SS #72' mentioned at: (0:21)
+         : - 
+         : (uDev: I think it is a short video from video 1)
+ 
  
 Shiva Sutra #73:
  - video 1 ------------------------------ 
@@ -851,11 +866,11 @@ Shiva Sutra #n:
 
 Shiva Sutra #n:
  - video n ------------------------------ 
-   > Part 1: Name: 
+   > Part 1: Name: Present Moment - Keys to Enlightenment Part 1
            : Link: https://youtu.be/3F_nOs01peA
            : Note: - Sutra: I think it is about upanishad
                  : -
-   > Part 2: Name: 
+   > Part 2: Name: Present Moment - Key to Enlightenment - Part 2
            : Link: https://youtu.be/LJrBhAgVY6A
            : Note: - Sutra:
                  : - Does not mention the sutra
