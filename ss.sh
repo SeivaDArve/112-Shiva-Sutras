@@ -1180,10 +1180,16 @@ function f_112_pt {
    echo " > Entra no espaço, sem suporte, eterno, quieto."
 }
 
-function f_x_1 {
-   f_1
+function f_x_Os {
+   # When explanation of each sutra is asked for, this one retrieves those of OSHO
+   # The sutra number is promped to yhe user, and it is given by the variable $3 from the arguments of the terminal
+   clear
    echo
-   echo "Explanation os Shiva Sutra #1 by Osho"
+   f_${v_sutra}
+   echo
+   echo " -- Explanation of Shiva Sutra #${v_sutra} by Osho --"
+   echo
+   cat ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${v_sutra}.txt
 }
 
 function f_intro_1_2_3_4_5_6_7_8_9 {
@@ -1398,7 +1404,7 @@ function f_intro_13_14 {
 function f_intro_15_16_17 {
    echo '
 --------------------
-   Osho:
+   osho:
 
 > Introduction to Meditation techniques: 15, 16, 17
 
@@ -5181,7 +5187,7 @@ case $1 in
             # This option echos out the text of function f_1 (equivalent to Shiva Sutra 0) + it's introduction
                f_1
                f_intro_1_2_3_4_5_6_7_8_9
-               #f_x_1
+               #f_x_Os
                #f_pic
          ;;
          2) 
@@ -5750,13 +5756,26 @@ case $1 in
 
       esac
    ;;
-   -x | --explanation)
+   -x | X | --explanation)
+      # Storing sutra number (given as $3)
+         v_sutra=$3
+
       case $2 in 
-         1)
+         Os) 
+            #Abrv. for OSHO
+            # When explanation of each sutra is asked for, this one retrieves those of OSHO
+            # Use: ss -x Os <sutra>
+            #
             # Explanation of ss #1 from Osho
-            f_x_1
+            f_x_Os
          ;;
-         # uDev: Add the remaining 111 sutras here
+         Os-intros)
+            echo "uDev"
+         ;;
+         Nn) 
+            #Abrv. for Nithyananda
+            echo "uDev: only links for videos are available"
+         ;;
       esac
    ;;
    -v | -vid)
