@@ -218,4 +218,6 @@ Places to drop reminders {
 
    SS #21: My car, passenger seat
 
+   SS #58: On top of a buildind with view for the crowd
+
 }
