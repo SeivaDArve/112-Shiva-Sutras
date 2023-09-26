@@ -3331,6 +3331,32 @@ function f_random_nr {
    # uDev: create a while loop to keep giving random sutras beweetn 5 minutes interval to memorize, (This must use voice to be used while driving)
 }
 
+function f_random_nr_silent {
+   # Generates random numbers and asks user to remember the sutra behind that number
+   # This function is going to ba called by other external scripts, so, some things got changed like the absence of color when calling Figlet
+
+   # Random number ranges between 0 to 112
+      v_rand=$(shuf -i 0-112 -n 1)
+   
+   figlet "Shiva Sutras"
+
+   echo "Random SS number is $v_rand"
+   
+   #espeak  "Random SS number is $v_rand"
+
+   # Save cursor position
+      tput sc
+
+   # Reset cursor position to begining of line and empty entire line
+      tput rc; tput el
+
+   echo " > SS $v_rand is ..."
+   echo
+   f_$v_rand
+
+   # uDev: create a while loop to keep giving random sutras beweetn 5 minutes interval to memorize, (This must use voice to be used while driving)
+}
+
 case $1 in 
 -a)
    # Echo out all 112 Shiva Sutras
@@ -3487,6 +3513,10 @@ case $1 in
       # Generates random numbers and asks user to remember the sutra behind that number
          f_random_nr
 
+   ;;
+   R | -R | --RANDOM)
+      # Generates random numbers without asking user to remember the sutra behind that number
+         f_random_nr_silent
    ;;
    loop)
       # Generates for example random numbers IN A LOOP and asks user to remember the sutra behind that number
