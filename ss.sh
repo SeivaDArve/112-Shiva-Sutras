@@ -5859,6 +5859,10 @@ case $1 in
             # Those 2 rithms are meant to create a small awareness and a bigger awateness of the non-stop activity that you are
             # This is because you as a person you are not agitated, you are agitation itself. This sutra may bring intervals in between bigger agitations and smaller agitations
          ;;
+         memory)
+            # With a while loop, keep Telling random numbers followed by a pause followed by the sutra verse. Repeat this infinitly until Ctrl-C is found
+            echo "uDev: Test your memory while on other activities (like driving)"
+         ;;
          *)
             echo "Some scripts to practice can be produced to help you... try '$ ss -p 25' for axample"
       esac
