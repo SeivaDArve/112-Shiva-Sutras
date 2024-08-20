@@ -1,0 +1,13 @@
+Aqui sera descrita a minha rotina normal do dia, mas informando qual o SS que pode estar a ser aplicado nesse momento
+
+Aqui seram descritos todos os SS mas no meio de um texto desceitivo de uma t
+rotina
+
+se mais do que 1 Shiva Sutra poder ser aplicado a uma determinasa hora do dia, entao podemos escrever 3 rotinas: uma no formato menu em que da à escolha qual SS usar. Outras duas, em que cada uma rotina tem 1 Shiva Sutra (por exemplo para dois dias sa semana)
+
+
+exemplo:
+1. Ao Acordar: Shiva Sutra X: ao acordar, fazer Y
+2. Ao levantar: Shiva Sutra X: ao levantar, fazer Y
+2. Ao comer: Shiva Sutra X: ao comer, fazer Y
+2. Ao viajar de comboio: Shiva Sutra X: ao viajar, fazer Y
