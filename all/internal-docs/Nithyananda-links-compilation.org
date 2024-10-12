@@ -1,4 +1,4 @@
-# Title: Compilation of Media links
+# Title: Compilation of Media links about the Shiva Sutras
 # Description: An acumulation of media to listen to discourses, and video examples
 #+STARTUP: overview
 #+STARTUP: hidestars
@@ -20,43 +20,46 @@ Shiva Sutras Introductions:
 
 uDev: There is a video where Nithyananda says "Do not go to the highest peak only, go throw the valey also, go throw it sincerely" It is good comparisson with the Android game "Dragon Fly". we should find such video and link both togheter
 
-* Shiva Sutras: Devi Questions
-** video 1
+* Devi Questions
+** video A
 
 Satsang by Nithyananda
 These 3 parts of the video 1 talk about Anandeshwari attitude (Parvati Vs. Arjuna) The 2 kinds of seekers
 Sutra not mentioned
 
 *** Part 1
-- Name: Are You Listening? || Part 1 || Shiva Sutras || 25 Jan 2005
-- Link: https://youtu.be/WvzGLbKiSoc
-- Note: 
+**** Name: Are You Listening? || Part 1 || Shiva Sutras || 25 Jan 2005
+**** Link: https://youtu.be/WvzGLbKiSoc
+**** Notes
+-
 *** Part 2
-- Name: Are You Listening? || Part 2 || Shiva Sutras || 25 Jan 2005
-- Link: https://youtu.be/1A7nWPXIe48
-- Note: 
+**** Name: Are You Listening? || Part 2 || Shiva Sutras || 25 Jan 2005
+**** Link: https://youtu.be/1A7nWPXIe48
+**** Notes
+-
 *** Part 3
-- Name: Are You Listening? || Part 3 || Shiva Sutras || 25 Jan 2005
-- Link: https://youtu.be/HK0OLuOeKns
-- Note: 
+**** Name: Are You Listening? || Part 3 || Shiva Sutras || 25 Jan 2005
+**** Link: https://youtu.be/HK0OLuOeKns
+**** Notes
+-
 *** Notes
-- Content:
+**** Contents:
 
-** video 2
+** video B
 
 Satsang by Nithyananda
 Sutra: uDev
 
-- Name: What is This Wonder-Filled Universe? || Shiva Sutras || 26 Jan 2005 
-- Link: https://youtu.be/jVGEp239yjE
+**** Name: What is This Wonder-Filled Universe? || Shiva Sutras || 26 Jan 2005 
+**** Link: https://youtu.be/jVGEp239yjE
 
-** video 3
+** video C
 
 Youtube Video with visuals.
 Chosen by Seiva D'Arve, when anybody asks "what is this wonderfilled universe" Seiva always remember this Kaleidoscope effect due to his personal experience with it in his satory experience
 
-- Name: The Splendor of Color Kaleidoscope Video v1.1 Colorful Psychedelic Fractal Flame Visuals to Trip On
-- Link: https://youtu.be/q2fIWB8o-bs
+**** Name: The Splendor of Color Kaleidoscope Video v1.1 Colorful Psychedelic Fractal Flame Visuals to Trip On
+**** Link: https://youtu.be/q2fIWB8o-bs
           
 * Shiva Sutra #1:
 ** videos A
@@ -421,8 +424,6 @@ Chosen by Seiva D'Arve, when anybody asks "what is this wonderfilled universe" S
 **** Notes
 - This video happens after de diacourse to practice. The sutra em partially mentioned at different timestamps because of that
 - Sutra 'SS #37' mentioned partially at: (13:37) and (18:01) and (26:01)
-
-  
 * Shiva Sutra #38:
 SS#38:
  > Bathe in the center of sound, As in the continuous sound of a waterfall. Or, by putting the fingers in the ears, Hear the sound of sounds.
