@@ -399,6 +399,30 @@ Chosen by Seiva D'Arve, when anybody asks "what is this wonderfilled universe" S
    > Link: https://youtu.be/xcwC_f2JUw8 
    > Note: satsang by Nithyananda
  
+* Shiva Sutra #37
+** Video A
+- All by Nithyananda
+
+*** Part 1
+**** Name: Truths about Inner Chattering
+**** Link: https://youtu.be/lXzaWgSKLEA
+**** Notes
+- The video does not mention the sutra, but in the next video (Part 2) we understand it is the continuation of this one
+
+*** Part 2
+**** Name: Going from Words to Wordlessness
+**** Link: https://youtu.be/dPko9iXUjqQ?si=sCn7_S7t26yv_J5_
+**** Notes
+- Sutra mentioned at 19:35
+  
+*** Part 3
+**** From Sounds to Silence - Technique & Meditation
+**** link: https://youtu.be/rJk-gJ_YIs0
+**** Notes
+- This video happens after de diacourse to practice. The sutra em partially mentioned at different timestamps because of that
+- Sutra 'SS #37' mentioned partially at: (13:37) and (18:01) and (26:01)
+
+  
 * Shiva Sutra #38:
 SS#38:
  > Bathe in the center of sound, As in the continuous sound of a waterfall. Or, by putting the fingers in the ears, Hear the sound of sounds.
@@ -819,7 +843,6 @@ If these videos are beeing watched to study, then they should follow an order (t
    > Link: https://youtu.be/NMHcak07pmE?si=mebY3rfhD3QMHQcJ
    > Note: satsang by Papaji
 
-
 * Shiva Sutra #86:
 ** video 1
    > Name: Perception Beyond Perception - Shiva Sutras in Nithyananda Videos
@@ -939,22 +962,11 @@ Content: - "Maturity means: The hability to face the reality as it is without an
          : that escaped the rope of yama
          : by Sadhguru
 
-* Shiva Sutra #n?:
-** video 1
-   > Name: Truths about Inner Chattering
-   > Link: https://youtu.be/lXzaWgSKLEA
-   > Note: The video does not mention the sutra
-   > Note: satsang by Nithyananda
-      part 1 or 2: From Sounds to Silence - Technique & Meditation
-                 : link: https://youtu.be/rJk-gJ_YIs0
-    : same description: 'In this clip taken from discourse titled "From Sounds to Silence"'
-    : most probably 'SS #37' at: (13:37) and (18:01) and (26:01)
-
-* Shiva Sutra #n:
+* Upanishad
 ** video n
    > Part 1: Name: Present Moment - Keys to Enlightenment Part 1
            : Link: https://youtu.be/3F_nOs01peA
-           : Note: - Sutra: I think it is about upanishad
+           : Note: - Video is about upanishad
                  : -
    > Part 2: Name: Present Moment - Key to Enlightenment - Part 2
            : Link: https://youtu.be/LJrBhAgVY6A
@@ -962,9 +974,11 @@ Content: - "Maturity means: The hability to face the reality as it is without an
                  : - Does not mention the sutra
                  : - About TPS (Thoughts per second)
 
+* Default text 
 
-===================================================
-Example/Model
+uDev: atender tambem ao modelo usado no 'SS #37'
+
+** Version 1
 
 Shiva Sutra #n:
  - video n -------------------------------
@@ -972,7 +986,8 @@ Shiva Sutra #n:
    > Link: 
    > Note: - Sutra: 
          : - 
- 
+
+** Version 2
 Shiva Sutra #n:
  - video n ------------------------------ 
    > Part 1: Name: 
