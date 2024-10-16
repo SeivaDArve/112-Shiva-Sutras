@@ -305,21 +305,34 @@ papaji: link: https://youtu.be/eDJmMaQMYPc?si=zqLa_s7fEGWA5_jg
    > Note: satsang by Nithyananda
 
 ** Shiva Sutra #24:
-*** video 1
-   > Part 1: Name: Sophistication Causes Depression! || Part 1 || Shiva Sutras || 21 March 2007
-           : Link: https://youtu.be/F86USewvA88
-   > Part 2: Name: Do Not Miss The Master! || Part 2 || Shiva Sutras || 21 March 2007
-           : Link: https://youtu.be/ciGAXLTF46k
-   > Part 3: Name: Solve Your Problems || Part 3 || Shiva Sutras || 21 March 2007
-           : Link: https://youtu.be/Knm1JOjwSqE
-   > Part 4: Name: Honest Anger, Not Pseudo Anger! || Part 4 || Shiva Sutras || 21 March 2007
-           : Link: https://youtu.be/jA649kAaCz4
-   > Part 5: Name: Are You Empty Or Fulfilled || Part 5 || Shiva Sutras || 21 March 2007
-           : Link: https://youtu.be/MzTWamVCvOQ
-   > Part 6: Name: Automatic Visualisations! || Part 6 || Shiva Sutras || 21 March 2007
-           : Link: https://youtu.be/dXHnkmkq2Ok
-   > Part 7: Name: Powerful Meditation To Relieve Anger || Part 7 || Shiva Sutras || 21 May 2007
-           : Link: https://youtu.be/h54hNRpu1qE
+*** Video 1
+**** Part 1:
+Name: Sophistication Causes Depression! || Part 1 || Shiva Sutras || 21 March 2007
+Link: https://youtu.be/F86USewvA88
+
+**** Part 2:
+Name: Do Not Miss The Master! || Part 2 || Shiva Sutras || 21 March 2007
+Link: https://youtu.be/ciGAXLTF46k
+
+**** Part 3:
+Name: Solve Your Problems || Part 3 || Shiva Sutras || 21 March 2007
+Link: https://youtu.be/Knm1JOjwSqE
+
+**** Part 4:
+Name: Honest Anger, Not Pseudo Anger! || Part 4 || Shiva Sutras || 21 March 2007
+Link: https://youtu.be/jA649kAaCz4
+
+**** Part 5:
+Name: Are You Empty Or Fulfilled || Part 5 || Shiva Sutras || 21 March 2007
+Link: https://youtu.be/MzTWamVCvOQ
+
+**** Part 6:
+Name: Automatic Visualisations! || Part 6 || Shiva Sutras || 21 March 2007
+Link: https://youtu.be/dXHnkmkq2Ok
+
+**** Part 7:
+Name: Powerful Meditation To Relieve Anger || Part 7 || Shiva Sutras || 21 May 2007
+Link: https://youtu.be/h54hNRpu1qE
  
 ** Shiva Sutra #25:
 *** video 1
@@ -350,7 +363,7 @@ Link: https://youtu.be/ToTs3B8xk1I?si=Z-i2fec2yWtea73K
 :END:
 
 **** Parte 2 
-Name:
+Name: 
 Link: https://youtu.be/z3uZk4HvwUs?si=N3FL8xDxHIvpuGov
 :Notes:
    - Sutra mentioned at: 2:48
@@ -359,6 +372,9 @@ Link: https://youtu.be/z3uZk4HvwUs?si=N3FL8xDxHIvpuGov
 **** parte 3
 Name: Live Without Samskaras (engraved memories) and Be Liberated
 Link: https://youtu.be/xQc1HvNL--I?si=3qYnCF29T53Nyqa_
+:Notes:
+   - Sutra: 
+:END:
 
 **** Parte 4
 Name: Add Life to your years
