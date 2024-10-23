@@ -3174,6 +3174,7 @@ function f_practice_9 {
 
    # This app will hide the blinking cursor. (In case you want it back, enter the command '$ tput cnorm')
       tput civis
+
    function f_greet15 {
          clear
          figlet "Practice SS #9"
@@ -3474,7 +3475,7 @@ case $1 in
       f_111
       f_112
    ;;
-   t | -g | --grep | grab)
+   t | -g | --grep | grab | filter)
       # Searches for text inside the 'vigyan bhairav tantra' document
 
       # Create a place to save and manipulate our temporary file
@@ -5891,7 +5892,7 @@ case $1 in
       echo " > Can search text within 112 list (the one found online)"
       
    ;;
-   *)
+   help)
       echo "Shiva Sutras: App Usage:"
       echo 
       echo "ss                            :Show this message"
@@ -5927,6 +5928,15 @@ case $1 in
       echo "(absolute path + name + .sh)"
       echo "it is sugested to set an alias to make it easier to access the script"
       echo "alias ss=\"bash .../ss.sh\""
+   ;;
+   
+   *)
+      # Verificar se o programa `fzf`está instalado porque é uma dependencia
+         if command -v fzf >/dev/null 2>&1; then
+           echo "fzf está instalado"  ## debug
+         else
+           echo "SS: Para usar esta fx, tem de instalar \`fzf\`"
+         fi
 
    ;;
 esac
