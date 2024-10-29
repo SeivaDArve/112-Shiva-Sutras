@@ -5929,14 +5929,34 @@ case $1 in
       echo "it is sugested to set an alias to make it easier to access the script"
       echo "alias ss=\"bash .../ss.sh\""
    ;;
-   
    *)
+
+     # Definir Menu principal dos Shiva Sutras com `fzf`
+        function f_ss_main_menu {
+           # fzf menu exemplo
+
+           # Lista de opcoes para o menu `fzf`
+              v_list=$(echo -e "1. Opc \n2. Opc \n3. Opc " | fzf --prompt="fzf Example Menu: ")
+
+           # Perceber qual foi a escolha da lista
+              [[ $v_list =~ "1" ]] && echo "Detetado 1 (debug)" && sleep 1
+              [[ $v_list =~ "2" ]] && echo "Detetado 2 (debug)" && sleep 1
+              [[ $v_list =~ "3" ]] && echo "Detetado 3 (debug)" && sleep 1
+              unset v_list
+        }
+
       # Verificar se o programa `fzf`está instalado porque é uma dependencia
-         if command -v fzf >/dev/null 2>&1; then
-           echo "fzf está instalado"  ## debug
+         if command -v fzf >/dev/null 2>&1; 
+         then
+            # Confirmar que nao ha conflitos de software
+            echo "fzf está instalado"  ## debug
+            f_ss_main_menu
+
          else
-           echo "SS: Para usar esta fx, tem de instalar \`fzf\`"
+            # Se o software nao estiver instalado, dar mensagem de erro
+            echo "SS: Para usar esta fx, tem de instalar \`fzf\`"
          fi
 
+          
    ;;
 esac
