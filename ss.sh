@@ -1117,7 +1117,7 @@ function f_99_pt {
 
 function f_100_pt {
    echo "Shiva Sutra #100: "
-   echo " > A apreciação tanto de objetos como subjetos é a mesma para um Ser iluminado tanto como para um Ser não-Iluminado. Aquele que se forma tem uma vantagem: Ele mantém-se num humor subjetivo, não perdido em coisas."
+   echo " > A apreciação tanto de objetos como subjetos é a mesma para um Ser iluminado tanto quanto para um Ser não iluminado. O primeiro tem uma vantagem: Ele mantém-se num humor subjetivo, não perdido em coisas."
 }
 
 function f_101_pt {
