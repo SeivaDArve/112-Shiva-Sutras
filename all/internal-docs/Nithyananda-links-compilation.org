@@ -1,9 +1,10 @@
-# Title: Compilation of Media links about the Shiva Sutras
-# Description: An acumulation of media to listen to discourses, and video examples
+#+TITLE: Compilation of Media links about the Shiva Sutras
+#+DESCRIPTION: An acumulation of media to listen to discourses, and video examples
 #+STARTUP: overview
 #+STARTUP: hidestars
 #+STARTUP: indent
-# Use
+
+# What is this file used for:
   - Acumulation of links
   - Acumulation of titles
   - Mentioning to what sutra the videos belong to
@@ -15,9 +16,6 @@
 video: Cosmological principle: https://www.instagram.com/reel/CrnKLu2p5QK/?igshid=NTc4MTIwNjQ2YQ==
                                https://www.youtube.com/watch?v=xS_VL-J4pN8
 
-Shiva Sutras Introductions:
-   > Note: The video 1 of 'SS #31' (Part 1, 2 and 3) introduces the book
-
 uDev: There is a video where Nithyananda says "Do not go to the highest peak only, go throw the valey also, go throw it sincerely" It is good comparisson with the Android game "Dragon Fly". we should find such video and link both togheter
 
 uDev: About objects: link: https://youtu.be/ts7Utrn_9Ug?si=lnz3aeTDqyXfHcKT
@@ -25,6 +23,9 @@ uDev: About objects: link: https://youtu.be/ts7Utrn_9Ug?si=lnz3aeTDqyXfHcKT
 * Vigyan Bhairav Tantra
 
 ** Devi Questions
+
+Note: The video 1 of 'SS #31' (Part 1, 2 and 3) also introduces the book
+
 **** video A
 
 Satsang by Nithyananda
@@ -1047,6 +1048,10 @@ If these videos are beeing watched to study, then they should follow an order (t
            : Link: https://youtu.be/OhBXNg3GzTo (NN *2)"
    > Note: satsang by Nithyananda
 
+** Shiva Sutra #108
+Papaji video:
+ - This video has several enlightened devotees speaking, the last 2 in the video (the taxi driver and the mother) both speak on how, before their enlightenment, their minds were doung the action, and for such action, 2 was needed. Now after enlightenment, the '2' disapeared and actions simply get done by themselves. Life gets done itself.
+ - link: https://youtu.be/dBIK-VFvDhA?feature=shared
 ** Shiva Sutra #109
 *** Vide 1
    > Name: PAPAJI - You are Emptyness Itself
