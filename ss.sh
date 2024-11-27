@@ -751,7 +751,7 @@ function f_26_pt {
 
 function f_27_pt {
    echo "Shiva Sutra #27: "
-   echo " > Vagueia por aí até à exaustão e depois, ao cair no chão, nessa queda sê inteiro."
+   echo " > Vagueia por aí até à exaustão e depois, ao cair no chão, nessa queda cai como um só."
 }
 
 function f_28_pt {
