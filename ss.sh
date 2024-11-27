@@ -598,6 +598,15 @@ function f_112 {
    echo " > Enter space, support less, eternal, still."
 }
 
+function f_display_all_ss {
+   # Display all Shiva Sutras if no arg is found
+
+   clear
+   echo
+   figlet "Shiva Sutras"
+   for i in {0..112}; do f_$i; echo; done 
+}
+
 function f_A_pt {
    echo
    echo " > Tradução em Portugues (PT-PT) por: Seiva D'Arve"
@@ -5827,10 +5836,8 @@ case $1 in
    ;;
    all)
       # Display all Shiva Sutras if no arg is found
-         clear
-         echo
-         figlet "Shiva Sutras"
-         for i in {0..112}; do f_$i; echo; done 
+         f_display_all_ss
+
    ;;
    --sugestion)
       echo "If you input date, work schedule, lunch time, weather (to detect rain) etc, shiva sutras app will be able to sugest a sutra for that hour"
@@ -5936,10 +5943,10 @@ case $1 in
            # fzf menu exemplo
 
            # Lista de opcoes para o menu `fzf`
-              v_list=$(echo -e "1. Opc \n2. Opc \n3. Opc " | fzf --prompt="fzf Example Menu: ")
+              v_list=$(echo -e "1. Print: Vigyan Bhairav Tantra: less \n2. Print: Vigyan Bhairav Tantra: partes \n3. Palestras de Yogis \n4. Jogos/Praticar " | fzf --prompt="fzf Example Menu: ")
 
            # Perceber qual foi a escolha da lista
-              [[ $v_list =~ "1" ]] && echo "Detetado 1 (debug)" && sleep 1
+              [[ $v_list =~ "1" ]] && f_display_all_ss | less
               [[ $v_list =~ "2" ]] && echo "Detetado 2 (debug)" && sleep 1
               [[ $v_list =~ "3" ]] && echo "Detetado 3 (debug)" && sleep 1
               unset v_list
