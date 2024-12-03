@@ -900,7 +900,7 @@ function f_54_pt {
 
 function f_55_pt {
    echo "Shiva Sutra #55: "
-   echo " > No momento de adormecer, quando ainda não adormeceste e a atenção externa desaparece, neste momento o Ser é revelado."
+   echo " > No momento de adormecer, quando ainda não adormeceste e a atenção externa desaparece, neste momento Ser é revelado."
 }
 
 function f_56_pt {
