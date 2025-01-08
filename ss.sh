@@ -607,10 +607,13 @@ function f_display_all_ss {
    for i in {0..112}; do f_$i; echo; done 
 }
 
-function f_A_pt {
-   echo
-   echo " > Tradução em Portugues (PT-PT) por: Seiva D'Arve"
-}
+
+
+
+
+
+
+
 
 function f_0_pt {
    echo "Vigyan Bhairav Tantra"
@@ -1189,7 +1192,19 @@ function f_112_pt {
    echo " > Entra no espaço, sem suporte, eterno, quieto."
 }
 
-function f_x_Os {
+function f_A_pt {
+   echo
+   echo " > (Tradução PT-PT) por Seiva D'Arve"
+}
+
+
+
+
+
+
+
+
+function f_explanation_Osho {
    # When explanation of each sutra is asked for, this one retrieves those of OSHO
    # The sutra number is promped to yhe user, and it is given by the variable $3 from the arguments of the terminal
    clear
@@ -5227,7 +5242,7 @@ case $1 in
             # This option echos out the text of function f_1 (equivalent to Shiva Sutra 0) + it's introduction
                f_1
                f_intro_1_2_3_4_5_6_7_8_9
-               #f_x_Os
+               #f_explanation_Osho
                #f_pic
          ;;
          2) 
@@ -5809,7 +5824,7 @@ case $1 in
             # Explanation of ss #1 from Osho
 
             v_sutra=$3
-            f_x_Os
+            f_explanation_Osho
          ;;
          Os-intros)
             echo "uDev"
