@@ -1198,7 +1198,7 @@ function f_x_Os {
    echo
    echo " -- Explanation of Shiva Sutra #${v_sutra} by Osho --"
    echo
-   cat ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${v_sutra}.txt
+   less --wordwrap ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${v_sutra}.txt
 }
 
 function f_intro_1_2_3_4_5_6_7_8_9 {
@@ -5807,6 +5807,8 @@ case $1 in
             # Use: ss -x Os <sutra>
             #
             # Explanation of ss #1 from Osho
+
+            v_sutra=$3
             f_x_Os
          ;;
          Os-intros)
