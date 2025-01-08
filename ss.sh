@@ -21,8 +21,8 @@ function f_resetCor {
    alias ss="${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
 
 function f_0 {
-   echo "Vigyan Bhairav Tantra "
-   echo "- (112 Shiva Sutras) -"
+   echo "[ Vigyan Bhairav Tantra ]"
+   echo "[   112 Shiva Sutras    ]"
    echo
    echo "Devi Asks:"
    echo "O Shiva, what is your reality?"
@@ -614,10 +614,9 @@ function f_display_all_ss {
 
 
 
-
 function f_0_pt {
-   echo "Vigyan Bhairav Tantra"
-   echo "- (112 Shiva Sutras) -"
+   echo "[ Vigyan Bhairav Tantra ]"
+   echo "[   112 Shiva Sutras    ]"
    echo
    echo "A Deusa Pergunta:"
    echo "Oh Shiva, qual é a tua realidade?"
@@ -628,6 +627,7 @@ function f_0_pt {
    echo "Como é que podemos entrar nisso completamente, acima do espaço e tempo, nomes e descrições?"
    echo "Deixa as minhas dúvidas serem esclarecidas!"
    echo 
+   echo "Comentario: "
    echo "Shiva 'inclui Parvati em Si'/'coloca-se na prespetiva de Devi com empatia'/'vibracionalmente mescla-se com Devi', e... expressa-se 'para si proprio'/'para o nada'/'como se ele fosse Devi' em 'voz alta'/'vai vivendo'/'como se ele fosse ambos' experimenta cada um dos metodos que utiliza para se iluminar"
 }
 
@@ -1196,7 +1196,6 @@ function f_A_pt {
    echo
    echo " > (Tradução PT-PT) por Seiva D'Arve"
 }
-
 
 
 
@@ -5960,12 +5959,24 @@ case $1 in
            # fzf menu exemplo
 
            # Lista de opcoes para o menu `fzf`
-              v_list=$(echo -e "1. Print: Vigyan Bhairav Tantra: less \n2. Print: Vigyan Bhairav Tantra: partes \n3. Palestras de Yogis \n4. Jogos/Praticar " | fzf --prompt="fzf Example Menu: ")
+             L5='5. Play  | Jogos/Praticar'
+             L4='4. Read  | Palestras de Yogis'
+             L3='3. Print | #VBT: partes'
+             L2='2. Print | #VBT: less'
+
+             L1='1. Cancel'
+
+             L0='Menu #VBT (ou SS): '
+
+             v_list=$(echo -e "$L1 \n\n$L2 \n$L3 \n$L4 \n$L5" | fzf --prompt="$L0")
+
 
            # Perceber qual foi a escolha da lista
-              [[ $v_list =~ "1" ]] && f_display_all_ss | less
-              [[ $v_list =~ "2" ]] && echo "Detetado 2 (debug)" && sleep 1
-              [[ $v_list =~ "3" ]] && echo "Detetado 3 (debug)" && sleep 1
+              [[ $v_list =~ "5" ]] && echo "Detetado 4 (debug)" && sleep 1
+              [[ $v_list =~ "4" ]] && echo "Detetado 3 (debug)" && sleep 1
+              [[ $v_list =~ "3" ]] && echo "Detetado 2 (debug)" && sleep 1
+              [[ $v_list =~ "2" ]] && f_display_all_ss | less --wordwrap
+              [[ $v_list =~ "1" ]] && echo 'Canceled: `ss`'
               unset v_list
         }
 
