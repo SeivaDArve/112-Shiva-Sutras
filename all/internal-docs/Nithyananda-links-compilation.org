@@ -161,13 +161,6 @@ Name: Thinking and Breathing
 Link: https://youtu.be/tJVnJd7u2JQ
 Sync: (This video: 0:13)==(Main video: 12:32)
 
-*** Video B
-Name: PAPAJI - You are the Emptyness which is here
-Link: https://youtu.be/JVhrEhiH60w?si=56RhsRWh2OKUueGV
-:Note:
-   - Satsang by Papaji
-   - According to Seiva, papaji talks about the same Point that happens in our breath, but gives an example not of the breath
-:END:
 
 ** Shiva Sutra #2
 *** video 1
@@ -187,18 +180,18 @@ Link: https://youtu.be/JVhrEhiH60w?si=56RhsRWh2OKUueGV
 **** link: https://youtu.be/eDJmMaQMYPc?si=zqLa_s7fEGWA5_jg
 
 ** Shiva Sutra #4
-*** video 1
+*** video A
    > Name: Find Your Center Deep Within - Shiva Sutras from Nithyananda Videos
    > Link: https://youtu.be/hm8RcYxYQb0
    > Note: All by Nithyananda
 
-*** video 2
+*** video B
    > Name: Shiva Sutras Integrate & Evolve ww.LifeBliss.org
    > Link: https://youtu.be/CugnvrUaWac 
    > Note: - Sutra: 'SS #4' mentioned at: (1:20)
          : - Sutra: diferent translation
          
-*** video 3 (short)
+*** video C (short)
    > Name: The Technique for the Zen Zone www.LifeBliss.org
    > Link: https://youtu.be/E0GOP2E-bVA
    > Note: - Sutra: mentioned at: (0:09)
@@ -207,6 +200,13 @@ Link: https://youtu.be/JVhrEhiH60w?si=56RhsRWh2OKUueGV
          : - You don't even need to practice this technique. All you need to do is to be aware of this technique
          : - How vedas gives 3 steps...
          : -
+*** Video D
+Name: PAPAJI - You are the Emptyness which is here
+Link: https://youtu.be/JVhrEhiH60w?si=56RhsRWh2OKUueGV
+:Note:
+   - Satsang by Papaji
+   - According to Seiva, papaji talks about the same Point that happens in our breath, but gives an example not of the breath
+:END:
 
 ** Shiva Sutra #5:
 *** video 1
