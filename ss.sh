@@ -8,6 +8,12 @@
    # And at 'source-all-drya-files' there is a line of code like:
       # alias ss="bash ${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
 
+# This script was intended to be called at the terminal by the alias 'ss'. 
+   # If the package manager that installes this script does not set this alias, lets set this alias here (from within)
+   alias ss="${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
+
+
+
 function f_cor1 {
    tput setaf 4
 }
@@ -16,9 +22,25 @@ function f_resetCor {
    tput sgr0
 }
 
-# This script was intended to be called at the terminal by the alias 'ss'. 
-   # If the package manager that installes this script does not set this alias, lets set this alias here (from within)
-   alias ss="${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
+
+
+function f_test_dependencies {
+   # Verificar se o programa `fzf`está instalado porque é uma dependencia
+      if command -v fzf >/dev/null 2>&1; 
+      then
+         # Confirmar que nao ha conflitos de software
+         echo "fzf está instalado"  ## debug
+         f_ss_main_menu
+
+      else
+         # Se o software nao estiver instalado, dar mensagem de erro
+         echo "SS: Para usar esta fx, tem de instalar \`fzf\`"
+      fi
+}
+
+
+
+
 
 function f_0 {
    echo "[ Vigyan Bhairav Tantra ]"
@@ -4604,7 +4626,7 @@ case $1 in
          ;;
       esac
    ;;
-   osho)
+   osho | o)
       # Description of this sutra by Osho
       case $2 in 
          0) 
@@ -5863,7 +5885,7 @@ case $1 in
    -l | links)
       less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/internal-docs/links-compilation.txt
    ;;
-   -p | --practice | practice)
+   -p | p | --practice | practice)
       case $2 in
          9)
             # Run a script that speaks every 15 minuts saying how much time just passed. Like a stop watch but that never stops counting. 
@@ -5953,45 +5975,34 @@ case $1 in
       echo "alias ss=\"bash .../ss.sh\""
    ;;
    *)
+     function f_ss_main_menu {
+        # Definir Menu principal dos Shiva Sutras com `fzf`
 
-     # Definir Menu principal dos Shiva Sutras com `fzf`
-        function f_ss_main_menu {
-           # fzf menu exemplo
+        # fzf menu exemplo
 
-           # Lista de opcoes para o menu `fzf`
-             L5='5. Play  | Jogos/Praticar'
-             L4='4. Read  | Palestras de Yogis'
-             L3='3. Print | #VBT: partes'
-             L2='2. Print | #VBT: less'
+        # Lista de opcoes para o menu `fzf`
+          L5='5. Play  | Jogos/Praticar'
+          L4='4. Read  | Palestras de Yogis'
+          L3='3. Print | #VBT: partes'
+          L2='2. Print | #VBT: less'
 
-             L1='1. Cancel'
+          L1='1. Cancel'
 
-             L0='Menu #VBT (ou SS): '
+          L0='Menu #VBT (ou SS): '
 
-             v_list=$(echo -e "$L1 \n\n$L2 \n$L3 \n$L4 \n$L5" | fzf --prompt="$L0")
+          v_list=$(echo -e "$L1 \n\n$L2 \n$L3 \n$L4 \n$L5" | fzf --prompt="$L0")
 
 
-           # Perceber qual foi a escolha da lista
-              [[ $v_list =~ "5" ]] && echo "Detetado 4 (debug)" && sleep 1
-              [[ $v_list =~ "4" ]] && echo "Detetado 3 (debug)" && sleep 1
-              [[ $v_list =~ "3" ]] && echo "Detetado 2 (debug)" && sleep 1
-              [[ $v_list =~ "2" ]] && f_display_all_ss | less --wordwrap
-              [[ $v_list =~ "1" ]] && echo 'Canceled: `ss`'
-              unset v_list
-        }
+        # Perceber qual foi a escolha da lista
+           [[ $v_list =~ "5" ]] && echo "Detetado 4 (debug)" 
+           [[ $v_list =~ "4" ]] && echo "Detetado 3 (debug)"
+           [[ $v_list =~ "3" ]] && echo "Detetado 2 (debug)"
+           [[ $v_list =~ "2" ]] && f_display_all_ss | less --wordwrap
+           [[ $v_list =~ "1" ]] && echo 'Canceled: `ss`'
+           unset v_list
+     }
 
-      # Verificar se o programa `fzf`está instalado porque é uma dependencia
-         if command -v fzf >/dev/null 2>&1; 
-         then
-            # Confirmar que nao ha conflitos de software
-            echo "fzf está instalado"  ## debug
-            f_ss_main_menu
-
-         else
-            # Se o software nao estiver instalado, dar mensagem de erro
-            echo "SS: Para usar esta fx, tem de instalar \`fzf\`"
-         fi
-
+     f_test_dependencies
           
    ;;
 esac
