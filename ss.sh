@@ -56,13 +56,14 @@ function f_0 {
    echo "above space and time,"
    echo "names and descriptions?"
    echo "Let my doubts be cleared! "
+   echo
    
 }
 
 
 function f_1 {
    echo "Shiva Sutra #1: "
-   echo " > Radiant One, this experience may dawn between two breaths. After breath comes in (down) and just before turning up (out) – the beneficence."
+   echo " > Radiant One, this experience may dawn between two breaths. After breath comes in (down) and just before turning up (out) – the beneficence. "
 }
 
 function f_2 {
@@ -132,7 +133,9 @@ function f_14 {
 
 function f_15 {
    echo "Shiva Sutra #15:"
-   echo " > Closing the seven openings of the head with your hands, a space between your eyes becomes all-inclusive. (by Nithyananda: By closing the opening of the senses by hands, and by piercing the center between eyebrows, when the bindu is perceived, and there is a gradual merging, then the supreme state is found in the center)"
+   echo " > Closing the seven openings of the head with your hands, a space between your eyes becomes all-inclusive. "
+
+   f_15_NN_transl
 }
 
 function f_16 {
@@ -232,7 +235,9 @@ function f_34 {
 
 function f_35 {
    echo "Shiva Sutra #35:"
-   echo " > At the edge of a deep well look steadily into its depths until – the wondrousness. (... until the wonderessness happens to you. by nithyananda) "
+   echo " > At the edge of a deep well look steadily into its depths until – the wondrousness. "
+
+   f_35_NN_transl
 }
 
 function f_36 {
@@ -337,7 +342,8 @@ function f_55 {
 
 function f_56 {
    echo "Shiva Sutra #56:"
-   echo " > Illusions deceive, Colors circumscribe, Even divisibles are indivisible (- Look and become Shiva - nithyananda's translation) "
+   echo " > Illusions deceive, Colors circumscribe, even divisibles are indivisible. "
+   f_56_NN_transl
 }
 
 function f_57 {
@@ -620,6 +626,23 @@ function f_112 {
    echo " > Enter space, support less, eternal, still."
 }
 
+
+
+function f_15_NN_transl {
+   echo
+   echo " > By closing the opening of the senses by hands, and by piercing the center between eyebrows, when the bindu is perceived, and there is a gradual merging, then the supreme state is found in the center. by Nithyananda"
+}
+   
+function f_35_NN_transl {
+   echo
+   echo " > At the edge of a deep well look steadily into its depths until – the wondrousness. (... until the wonderessness happens to you. by Nithyananda) "
+}
+
+function f_56_NN_transl {
+   echo
+   echo " > Illusions deceive, Colors circumscribe, even divisibles are indivisible. (... Look and become Shiva. by Nithyananda) "
+}
+
 function f_display_all_ss {
    # Display all Shiva Sutras if no arg is found
 
@@ -628,6 +651,8 @@ function f_display_all_ss {
    figlet "Shiva Sutras"
    for i in {0..112}; do f_$i; echo; done 
 }
+
+
 
 
 
@@ -649,8 +674,8 @@ function f_0_pt {
    echo "Como é que podemos entrar nisso completamente, acima do espaço e tempo, nomes e descrições?"
    echo "Deixa as minhas dúvidas serem esclarecidas!"
    echo 
-   echo "Comentario: "
-   echo "Shiva 'inclui Parvati em Si'/'coloca-se na prespetiva de Devi com empatia'/'vibracionalmente mescla-se com Devi', e... expressa-se 'para si proprio'/'para o nada'/'como se ele fosse Devi' em 'voz alta'/'vai vivendo'/'como se ele fosse ambos' experimenta cada um dos metodos que utiliza para se iluminar"
+
+   f_0_pt_coment 
 }
 
 function f_1_pt {
@@ -970,7 +995,7 @@ function f_63_pt {
 
 function f_64_pt {
    echo "Shiva Sutra #64: "
-   echo " > No início de um espirro, durante um susto, em ansiedade, acima de um abismo, voando em batalha, em extrema curiosidade, no início da fome, no final da fome, mantém-te continuamente atenta."
+   echo " > No início de um espirro, durante um susto, em ansiedade, acima de um abismo, fugir do perigo, em extrema curiosidade, no início da fome, no final da fome, mantém-te continuamente atenta."
 }
 
 function f_65_pt {
@@ -1217,6 +1242,22 @@ function f_112_pt {
 function f_A_pt {
    echo
    echo " > (Tradução PT-PT) por Seiva D'Arve"
+}
+
+function f_0_pt_coment {
+   echo "Comentario: "
+   echo " - Shiva 'inclui Parvati em Si'"
+   echo "         'colocando-se com empatia na prespetiva de Devi Parvati'"
+   echo "         'vibracionalmente mescla-se com Devi'"
+   echo "         'expressa-se para si proprio'"
+   echo "         'expressa-se para o nada'"
+   echo "         'como se ele fosse Devi'"
+   echo "         'em voz alta vai vivendo'"
+   echo "         'como se ele fosse ambos'"
+   echo "         'experimenta os seus metodos para se iluminar"
+   echo
+   echo "         (Prespetivas dadas por Nithyananda"
+   echo "          e resumidas por Seiva)"
 }
 
 
