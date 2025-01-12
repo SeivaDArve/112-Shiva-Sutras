@@ -22,6 +22,19 @@ function f_resetCor {
    tput sgr0
 }
 
+function f_greet {
+
+   UP3='\033[3A'  # Mover o cursor 3 linhas para cima
+   CORDN='\033[0;0H'
+
+   clear
+   echo
+
+   #echo -e "${CORDN}AAAAAAAA"
+
+   figlet "Shiva Sutras"
+}
+
 
 
 function f_test_dependencies {
@@ -635,20 +648,19 @@ function f_15_NN_transl {
    
 function f_35_NN_transl {
    echo
-   echo " > At the edge of a deep well look steadily into its depths until – the wondrousness. (... until the wonderessness happens to you. by Nithyananda) "
+   echo " > At the edge of a deep well look steadily into its depths until the wonderessness happens to you. by Nithyananda"
 }
 
 function f_56_NN_transl {
    echo
-   echo " > Illusions deceive, Colors circumscribe, even divisibles are indivisible. (... Look and become Shiva. by Nithyananda) "
+   echo " > Illusions deceive, Colors circumscribe, even divisibles are indivisible. Look and become Shiva. by Nithyananda"
 }
 
 function f_display_all_ss {
    # Display all Shiva Sutras if no arg is found
 
-   clear
-   echo
-   figlet "Shiva Sutras"
+   f_greet
+
    for i in {0..112}; do f_$i; echo; done 
 }
 
