@@ -5308,7 +5308,7 @@ case $1 in
          ;;
       esac
    ;;
-   -F)
+   F)
       # Displays FULL sutra material: The one you ask and it's introduction (same as running the 2 functions f_sutra_n + f_intro_sutra_n)
 
       case $2 in 
@@ -5890,7 +5890,7 @@ case $1 in
          v_sutra=$3
 
       case $2 in 
-         Os) 
+         O | o) 
             #Abrv. for OSHO
             # When explanation of each sutra is asked for, this one retrieves those of OSHO
             # Use: ss -x Os <sutra>
@@ -5900,7 +5900,7 @@ case $1 in
             v_sutra=$3
             f_explanation_Osho
          ;;
-         Os-intros)
+         O-intros | o-i)
             echo "uDev"
          ;;
          Nn) 
