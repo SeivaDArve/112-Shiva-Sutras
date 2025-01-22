@@ -3426,8 +3426,6 @@ function f_random_nr {
    echo " > SS $v_rand is ..."
    echo
    f_$v_rand
-
-   # uDev: create a while loop to keep giving random sutras beweetn 5 minutes interval to memorize, (This must use voice to be used while driving)
 }
 
 function f_random_nr_silent {
