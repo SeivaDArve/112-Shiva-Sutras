@@ -3623,6 +3623,7 @@ case $1 in
                do
                   f_random_nr
                   echo
+                  echo 
                   tput setaf 3
                   echo -n "Info: "
                   tput sgr0
@@ -3636,8 +3637,7 @@ case $1 in
                done
             ;;
             *)
-               echo "SS:"
-               echo " > The only option at the moment is either \"loop\" or nothing"
+               echo "SS: The only option at the moment is \"loop r\" "
             ;;
          esac
    ;;
