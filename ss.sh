@@ -73,7 +73,6 @@ function f_0 {
    
 }
 
-
 function f_1 {
    echo "Shiva Sutra #1: "
    echo " > Radiant One, this experience may dawn between two breaths. After breath comes in (down) and just before turning up (out) – the beneficence. "
@@ -3455,123 +3454,23 @@ function f_random_nr_silent {
 }
 
 case $1 in 
--a)
+a)
    # Echo out all 112 Shiva Sutras
-      f_1
-      f_2
-      f_3
-      f_4
-      f_5
-      f_6
-      f_7
-      f_8
-      f_9
-      f_10
-      f_11
-      f_12
-      f_13
-      f_14
-      f_15
-      f_16
-      f_17
-      f_18
-      f_19
-      f_20
-      f_21
-      f_22
-      f_23
-      f_24
-      f_25
-      f_26
-      f_27
-      f_28
-      f_29
-      f_30
-      f_31
-      f_32
-      f_33
-      f_34
-      f_35
-      f_36
-      f_37
-      f_38
-      f_39
-      f_40
-      f_41
-      f_42
-      f_43
-      f_44
-      f_45
-      f_46
-      f_47
-      f_48
-      f_49
-      f_50
-      f_51
-      f_52
-      f_53
-      f_54
-      f_55
-      f_56
-      f_57
-      f_58
-      f_59
-      f_60
-      f_61
-      f_62
-      f_63
-      f_64
-      f_65
-      f_66
-      f_67
-      f_68
-      f_69
-      f_70
-      f_71
-      f_72
-      f_73
-      f_74
-      f_75
-      f_76
-      f_77
-      f_78
-      f_79
-      f_80
-      f_81
-      f_82
-      f_83
-      f_84
-      f_85
-      f_86
-      f_86
-      f_87
-      f_88
-      f_89
-      f_90
-      f_91
-      f_92
-      f_93
-      f_94
-      f_95
-      f_96
-      f_97
-      f_98
-      f_99
-      f_100
-      f_101
-      f_102
-      f_103
-      f_104
-      f_105
-      f_106
-      f_107
-      f_108
-      f_109
-      f_110
-      f_111
-      f_112
+      f_0
+      f_1   ; f_2   ; f_3   ; f_4   ; f_5   ; f_6   ; f_7   ; f_8   ; f_9   ; f_10
+      f_11  ; f_12  ; f_13  ; f_14  ; f_15  ; f_16  ; f_17  ; f_18  ; f_19  ; f_20
+      f_21  ; f_22  ; f_23  ; f_24  ; f_25  ; f_26  ; f_27  ; f_28  ; f_29  ; f_30
+      f_31  ; f_32  ; f_33  ; f_34  ; f_35  ; f_36  ; f_37  ; f_38  ; f_39  ; f_40
+      f_41  ; f_42  ; f_43  ; f_44  ; f_45  ; f_46  ; f_47  ; f_48  ; f_49  ; f_50
+      f_51  ; f_52  ; f_53  ; f_54  ; f_55  ; f_56  ; f_57  ; f_58  ; f_59  ; f_60
+      f_61  ; f_62  ; f_63  ; f_64  ; f_65  ; f_66  ; f_67  ; f_68  ; f_69  ; f_70
+      f_71  ; f_72  ; f_73  ; f_74  ; f_75  ; f_76  ; f_77  ; f_78  ; f_79  ; f_80
+      f_81  ; f_82  ; f_83  ; f_84  ; f_85  ; f_86  ; f_87  ; f_88  ; f_89  ; f_90
+      f_91  ; f_92  ; f_93  ; f_94  ; f_95  ; f_96  ; f_97  ; f_98  ; f_99  ; f_100
+      f_101 ; f_102 ; f_103 ; f_104 ; f_105 ; f_106 ; f_107 ; f_108 ; f_109 ; f_110
+      f_111 ; f_112
    ;;
-   t | -g | --grep | grab | filter)
+   t | g | -g | --grep | grab | filter)
       # Searches for text inside the 'vigyan bhairav tantra' document
 
       # Create a place to save and manipulate our temporary file
@@ -5076,37 +4975,30 @@ case $1 in
             # If user asks for intro of the numbers: 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9, run this same function that introduces to them all
                f_intro_1_2_3_4_5_6_7_8_9
          ;;
-
          10 | 11 | 12)
             # If user asks for intro of the numbers: 10 or 11 or 12, run this same function that introduces to them all
                f_intro_10_11_12
          ;;
-
          13 | 14)
             # If user asks for intro of the numbers: 13 or 14, run this same function that introduces to them all
                f_intro_13_14
          ;;
-
          15 | 16 | 17)
             # If user asks for intro of the numbers: 15 or 16 or 17, run this same function that introduces to them all
                f_intro_15_16_17
          ;;
-
          18 | 19 | 20 | 21)
             # If user asks for intro of the numbers: 18 or 19 or 20 or 21, run this same function that introduces to them all
                f_intro_18_19_20_21
          ;;
-
          22 | 23 | 24)
             # If user asks for intro of the numbers: 22 or 23 or 24, run this same function that introduces to them all
                f_intro_22_23_24
          ;;
-
          25 | 26 | 27)
             # If user asks for intro of the numbers: 25 or 26 or 27, run this same function that introduces to them all
                f_intro_25_26_27
          ;;
-
          28 | 29)
             # If user asks for intro of the numbers: 28 or 29, run this same function that introduces to them all
                f_intro_28_29
@@ -5131,137 +5023,110 @@ case $1 in
             # If user asks for intro of the numbers: 39 or 40 or 41, run this same function that introduces to them all
                f_intro_39_40_41
          ;;
-
          42 | 43 | 44)
             # If user asks for intro of the numbers: 42 or 43 or 44, run this same function that introduces to them all
                f_intro_42_43_44
          ;;
-
          45 | 46 | 47)
             # If user asks for intro of the numbers: 45 or 46 or 47, run this same function that introduces to them all
                f_intro_45_46_47
          ;;
-
          48 | 49 | 50 | 51 | 52)
             # If user asks for intro of the numbers: 48 or 49 or 50 or 51 or 52, run this same function that introduces to them all
                f_intro_48_49_50_51_52
          ;;
-
          53 | 54 | 55 | 56)
             # If user asks for intro of the numbers: 53 or 54 or 55 or 56, run this same function that introduces to them all
                f_intro_53_54_55_56
          ;;
-
          57 | 58 | 59 | 60)
             # If user asks for intro of the numbers: 57 or 58 or 59 or 60, run this same function that introduces to them all
                f_intro_57_58_59_60
          ;;
-
          61 | 62 | 63)
             # If user asks for intro of the numbers: 61 or 62 or 63, run this same function that introduces to them all
                f_intro_61_62_63
          ;;
-
          64 | 65)
             # If user asks for intro of the numbers: 64 or 65, run this same function that introduces to them all
                f_intro_64_65
          ;;
-
          66 | 67)
             # If user asks for intro of the numbers: 66 or 67, run this same function that introduces to them all
                f_intro_66_67
          ;;
-
          68 | 69)
             # If user asks for intro of the numbers: 68 or 69, run this same function that introduces to them all
                f_intro_68_69
          ;;
-
          70 | 71 | 72)
             # If user asks for intro of the numbers: 70 or 71 or 72, run this same function that introduces to them all
                f_intro_70_71_72
          ;;
-
          73 | 74 | 75)
             # If user asks for intro of the numbers: 73 or 74 or 75, run this same function that introduces to them all
                f_intro_73_74_75
          ;;
-
          76 | 77 | 78)
             # If user asks for intro of the numbers: 76 or 77 or 78, run this same function that introduces to them all
                f_intro_76_77_78
          ;;
-
          79 | 80 | 81)
             # If user asks for intro of the numbers: 79 or 80 or 81, run this same function that introduces to them all
                f_intro_79_80_81
          ;;
-
          82 | 83)
             # If user asks for intro of the numbers: 82 or 83, run this same function that introduces to them all
                f_intro_82_83
          ;;
-
          84 | 85)
             # If user asks for intro of the numbers: 84 or 85, run this same function that introduces to them all
                f_intro_84_85
          ;;
-
          86 | 87)
             # If user asks for intro of the numbers: 86 or 87, run this same function that introduces to them all
                f_intro_86_87
          ;;
-
          88 | 89)
             # If user asks for intro of the numbers: 88 or 89, run this same function that introduces to them all
                f_intro_88_89
          ;;
-
          90 | 91)
             # If user asks for intro of the numbers: 90 or 91, run this same function that introduces to them all
                f_intro_90_91
          ;;
-
          92 | 93)
             # If user asks for intro of the numbers: 92 or 93, run this same function that introduces to them all
                f_intro_92_93
          ;;
-
          94 | 95)
             # If user asks for intro of the numbers: 94 or 95, run this same function that introduces to them all
                f_intro_94_95
          ;;
-
          96 | 97)
             # If user asks for intro of the numbers: 96 or 97, run this same function that introduces to them all
                f_intro_96_97
          ;;
-
          98 | 99)
             # If user asks for intro of the numbers: 98 or 99, run this same function that introduces to them all
                f_intro_98_99
          ;;
-
          100 | 101)
             # If user asks for intro of the numbers: 100 or 101, run this same function that introduces to them all
                f_intro_100_101
          ;;
-
          102 | 103 | 104 | 105)
             # If user asks for intro of the numbers: 102 or 103 or 104 or 105, run this same function that introduces to them all
                f_intro_102_103_104_105
          ;;
-
          106 | 107 | 108)
             # If user asks for intro of the numbers: 106 or 107 or 108, run this same function that introduces to them all
                f_intro_106_107_108
          ;;
-
          109 | 110 | 111 | 112)
             # If user asks for intro of the numbers: 109 or 110 or 111 or 112, run this same function that introduces to them all
                f_intro_109_110_111_112
          ;;
-         
 
          *)
             echo " > Please choose a number of a sutra so that it's introduction is shown"
@@ -5269,37 +5134,41 @@ case $1 in
       esac
    ;;
    pic)
+      
+      # variable to use below
+         v_pictures="${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics"
+
       case $2 in 
             # Shows the imgs that ilustrates and reminds how the sutra are made
          7)
-            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-7-tired-child.jpg
-            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-7-tired-child.jpg
+            termux-open $v_pictures/Pic-SS-7-tired-child.jpg
+            termimage   $v_pictures/Pic-SS-7-tired-child.jpg
          ;;
          17)
-            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
-            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-17-cow-tied.jpg
+            termux-open $v_pictures/Pic-SS-17-cow-tied.jpg
+            termimage   $v_pictures/Pic-SS-17-cow-tied.jpg
          ;;
          20)
-            # uDev: There is an in«mage to pic here, needs photoshop too
+            # uDev: There is an image to pic here, needs photoshop too
          ;;
          35)
-            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-35-deep-well.jpg
-            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-35-deep-well.jpg
+            termux-open $v_pictures/Pic-SS-35-deep-well.jpg
+            termimage   $v_pictures/Pic-SS-35-deep-well.jpg
          ;;
          69)
             # Needs photoshop to make 5 images into one: The monkey who is trapped only because he does not let go
             echo "Shiva Sutra #69 (uDev: Few pictures not yet merged into one)"
-            cd ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/SS-69
+            cd $v_pictures/SS-69
             ls
             echo " > There are several pictures for this sutra, you are free to open each one"
          ;;
          76)
-            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
-            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
+            termux-open $v_pictures/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
+            termimage   $v_pictures/Pic-SS-76-rainy-night-at-Rua-de-Goa-rooftop.jpg
          ;;
          sutra)
-            termux-open ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-Sutra-NeedleAndThread.jpg
-            termimage ${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics/Pic-Sutra-NeedleAndThread.jpg
+            termux-open $v_pictures/Pic-Sutra-NeedleAndThread.jpg
+            termimage   $v_pictures/Pic-Sutra-NeedleAndThread.jpg
          ;;
          *) 
             echo "Few pics available: 7, 17, 20, 35, 76, sutra"
@@ -5916,7 +5785,8 @@ case $1 in
                # Title: "Just Fall In - Shiva Sutras in Nithyananda Videos"
                # URL: "https://youtu.be/Gkp2p7JVLB"
 
-            termux-url-open https://youtu.be/Gkp2p7JVLB 2>/dev/null || echo "This command is ready for Termux, are you on Termux?"
+            v_link="https://youtu.be/Gkp2p7JVLB" 
+            termux-url-open $v_link 2>/dev/null || echo "This command is ready for Termux, are you on Termux?"
          ;;
          *)
             echo " > Please chose a sutra. Then I will open an external link that talks about it"
