@@ -1,8 +1,10 @@
 #+TITLE: Compilation of Media links about the Shiva Sutras
+:PROPERTIES:
 #+DESCRIPTION: An acumulation of media to listen to discourses, and video examples
 #+STARTUP: overview
 #+STARTUP: hidestars
 #+STARTUP: indent
+
 
 # What is this file used for:
   - Acumulation of links
@@ -19,6 +21,7 @@ video: Cosmological principle: https://www.instagram.com/reel/CrnKLu2p5QK/?igshi
 uDev: There is a video where Nithyananda says "Do not go to the highest peak only, go throw the valey also, go throw it sincerely" It is good comparisson with the Android game "Dragon Fly". we should find such video and link both togheter
 
 uDev: About objects: link: https://youtu.be/ts7Utrn_9Ug?si=lnz3aeTDqyXfHcKT
+:END:
 
 * Vigyan Bhairav Tantra
 
@@ -676,7 +679,11 @@ Mantras don't have any meaning
            : Link: https://youtu.be/SUSuxcMh_aA
    > Part 5: Name: Sound Meditation || Part 5 || Shiva Sutras || 18 April 2007
            : Link: https://youtu.be/gN00wsiKRIE
- 
+
+*** video 4
+(more as practice, as well as learning sanscrit)
+https://youtu.be/KKllignWiS8?si=movJuMpF0kVEa5Ae ...
+
 ** Shiva Sutra #41:
 *** video 1
    > Name: Music Avenue to Awareness - Shiva Sutras in Nithyananda Videos
