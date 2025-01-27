@@ -13,6 +13,8 @@
    alias ss="${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
 
 
+# Load DRYa lib 2
+   source $v_REPOS_CENTER/DRYa/all/lib/drya-lib-2-tmp-n-config-files.sh
 
 function f_cor1 {
    tput setaf 4
@@ -5904,8 +5906,8 @@ a)
         # Lista de opcoes para o menu `fzf`
           L5='5. Play  | Jogos/Praticar'
           L4='4. Read  | Palestras de Yogis'
-          L3='3. Print | #VBT: partes'
-          L2='2. Print | #VBT: less'
+          L3='3. Print | VBT | partes'
+          L2='2. Print | VBT | vim (read-only)'
 
           L1='1. Cancel'
 
@@ -5918,7 +5920,7 @@ a)
            [[ $v_list =~ "5" ]] && echo "Detetado 4 (debug)" 
            [[ $v_list =~ "4" ]] && echo "Detetado 3 (debug)"
            [[ $v_list =~ "3" ]] && echo "Detetado 2 (debug)"
-           [[ $v_list =~ "2" ]] && f_display_all_ss | less --wordwrap
+           [[ $v_list =~ "2" ]] && f_tmp_file && f_display_all_ss > $v_tmp_file && sed -i '1d' $v_tmp_file && vim -R $v_tmp_file
            [[ $v_list =~ "1" ]] && echo 'Canceled: `ss`'
            unset v_list
      }
