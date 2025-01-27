@@ -44,7 +44,7 @@ function f_test_dependencies {
       if command -v fzf >/dev/null 2>&1; 
       then
          # Confirmar que nao ha conflitos de software
-         echo "fzf está instalado"  ## debug
+         #echo "fzf está instalado"  ## debug
          f_ss_main_menu
 
       else
