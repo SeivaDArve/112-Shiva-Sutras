@@ -3414,6 +3414,8 @@ function f_random_nr {
 
    echo "Random SS number is $v_rand"
    
+   figlet "SS # $v_rand"
+
    #espeak  "Random SS number is $v_rand"
 
    # Save cursor position
