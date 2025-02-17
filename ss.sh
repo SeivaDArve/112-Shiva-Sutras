@@ -1288,7 +1288,7 @@ function f_explanation_Osho {
    echo
    echo " -- Explanation of Shiva Sutra #${v_sutra} by Osho --"
    echo
-   less --wordwrap ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${v_sutra}.txt
+   less --wordwrap ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/description-${v_sutra}.txt
 }
 
 function f_intro_1_2_3_4_5_6_7_8_9 {
@@ -4973,163 +4973,160 @@ a)
          # ...
       esac
    ;;
-   -i | --intro)
+
+   intro | i)
       case $2 in 
          1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9)
             # If user asks for intro of the numbers: 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9, run this same function that introduces to them all
-               f_intro_1_2_3_4_5_6_7_8_9
+            f_intro_1_2_3_4_5_6_7_8_9
          ;;
          10 | 11 | 12)
             # If user asks for intro of the numbers: 10 or 11 or 12, run this same function that introduces to them all
-               f_intro_10_11_12
+            f_intro_10_11_12
          ;;
          13 | 14)
             # If user asks for intro of the numbers: 13 or 14, run this same function that introduces to them all
-               f_intro_13_14
+            f_intro_13_14
          ;;
          15 | 16 | 17)
             # If user asks for intro of the numbers: 15 or 16 or 17, run this same function that introduces to them all
-               f_intro_15_16_17
+            f_intro_15_16_17
          ;;
          18 | 19 | 20 | 21)
             # If user asks for intro of the numbers: 18 or 19 or 20 or 21, run this same function that introduces to them all
-               f_intro_18_19_20_21
+            f_intro_18_19_20_21
          ;;
          22 | 23 | 24)
             # If user asks for intro of the numbers: 22 or 23 or 24, run this same function that introduces to them all
-               f_intro_22_23_24
+            f_intro_22_23_24
          ;;
          25 | 26 | 27)
             # If user asks for intro of the numbers: 25 or 26 or 27, run this same function that introduces to them all
-               f_intro_25_26_27
+            f_intro_25_26_27
          ;;
          28 | 29)
             # If user asks for intro of the numbers: 28 or 29, run this same function that introduces to them all
-               f_intro_28_29
+            f_intro_28_29
          ;;
-
          30 | 31 | 32)
             # If user asks for intro of the numbers: 30 or 31 or 32, run this same function that introduces to them all
-               f_intro_30_31_32
+            f_intro_30_31_32
          ;;
-
          33 | 34 | 35 | 36)
             # If user asks for intro of the numbers: 33 or 34 or 35 or 36, run this same function that introduces to them all
-               f_intro_33_34_35_36
+            f_intro_33_34_35_36
          ;;
-
          37 | 38)
             # If user asks for intro of the numbers: 37 or 38, run this same function that introduces to them all
-               f_intro_37_38
+            f_intro_37_38
          ;;
-
          39 | 40 | 41)
             # If user asks for intro of the numbers: 39 or 40 or 41, run this same function that introduces to them all
-               f_intro_39_40_41
+            f_intro_39_40_41
          ;;
          42 | 43 | 44)
             # If user asks for intro of the numbers: 42 or 43 or 44, run this same function that introduces to them all
-               f_intro_42_43_44
+            f_intro_42_43_44
          ;;
          45 | 46 | 47)
             # If user asks for intro of the numbers: 45 or 46 or 47, run this same function that introduces to them all
-               f_intro_45_46_47
+            f_intro_45_46_47
          ;;
          48 | 49 | 50 | 51 | 52)
             # If user asks for intro of the numbers: 48 or 49 or 50 or 51 or 52, run this same function that introduces to them all
-               f_intro_48_49_50_51_52
+            f_intro_48_49_50_51_52
          ;;
          53 | 54 | 55 | 56)
             # If user asks for intro of the numbers: 53 or 54 or 55 or 56, run this same function that introduces to them all
-               f_intro_53_54_55_56
+            f_intro_53_54_55_56
          ;;
          57 | 58 | 59 | 60)
             # If user asks for intro of the numbers: 57 or 58 or 59 or 60, run this same function that introduces to them all
-               f_intro_57_58_59_60
+            f_intro_57_58_59_60
          ;;
          61 | 62 | 63)
             # If user asks for intro of the numbers: 61 or 62 or 63, run this same function that introduces to them all
-               f_intro_61_62_63
+            f_intro_61_62_63
          ;;
          64 | 65)
             # If user asks for intro of the numbers: 64 or 65, run this same function that introduces to them all
-               f_intro_64_65
+            f_intro_64_65
          ;;
          66 | 67)
             # If user asks for intro of the numbers: 66 or 67, run this same function that introduces to them all
-               f_intro_66_67
+            f_intro_66_67
          ;;
          68 | 69)
             # If user asks for intro of the numbers: 68 or 69, run this same function that introduces to them all
-               f_intro_68_69
+            f_intro_68_69
          ;;
          70 | 71 | 72)
             # If user asks for intro of the numbers: 70 or 71 or 72, run this same function that introduces to them all
-               f_intro_70_71_72
+            f_intro_70_71_72
          ;;
          73 | 74 | 75)
             # If user asks for intro of the numbers: 73 or 74 or 75, run this same function that introduces to them all
-               f_intro_73_74_75
+            f_intro_73_74_75
          ;;
          76 | 77 | 78)
             # If user asks for intro of the numbers: 76 or 77 or 78, run this same function that introduces to them all
-               f_intro_76_77_78
+            f_intro_76_77_78
          ;;
          79 | 80 | 81)
             # If user asks for intro of the numbers: 79 or 80 or 81, run this same function that introduces to them all
-               f_intro_79_80_81
+            f_intro_79_80_81
          ;;
          82 | 83)
             # If user asks for intro of the numbers: 82 or 83, run this same function that introduces to them all
-               f_intro_82_83
+            f_intro_82_83
          ;;
          84 | 85)
             # If user asks for intro of the numbers: 84 or 85, run this same function that introduces to them all
-               f_intro_84_85
+            f_intro_84_85
          ;;
          86 | 87)
             # If user asks for intro of the numbers: 86 or 87, run this same function that introduces to them all
-               f_intro_86_87
+            f_intro_86_87
          ;;
          88 | 89)
             # If user asks for intro of the numbers: 88 or 89, run this same function that introduces to them all
-               f_intro_88_89
+            f_intro_88_89
          ;;
          90 | 91)
             # If user asks for intro of the numbers: 90 or 91, run this same function that introduces to them all
-               f_intro_90_91
+            f_intro_90_91
          ;;
          92 | 93)
             # If user asks for intro of the numbers: 92 or 93, run this same function that introduces to them all
-               f_intro_92_93
+            f_intro_92_93
          ;;
          94 | 95)
             # If user asks for intro of the numbers: 94 or 95, run this same function that introduces to them all
-               f_intro_94_95
+            f_intro_94_95
          ;;
          96 | 97)
             # If user asks for intro of the numbers: 96 or 97, run this same function that introduces to them all
-               f_intro_96_97
+            f_intro_96_97
          ;;
          98 | 99)
             # If user asks for intro of the numbers: 98 or 99, run this same function that introduces to them all
-               f_intro_98_99
+            f_intro_98_99
          ;;
          100 | 101)
             # If user asks for intro of the numbers: 100 or 101, run this same function that introduces to them all
-               f_intro_100_101
+            f_intro_100_101
          ;;
          102 | 103 | 104 | 105)
             # If user asks for intro of the numbers: 102 or 103 or 104 or 105, run this same function that introduces to them all
-               f_intro_102_103_104_105
+            f_intro_102_103_104_105
          ;;
          106 | 107 | 108)
             # If user asks for intro of the numbers: 106 or 107 or 108, run this same function that introduces to them all
-               f_intro_106_107_108
+            f_intro_106_107_108
          ;;
          109 | 110 | 111 | 112)
             # If user asks for intro of the numbers: 109 or 110 or 111 or 112, run this same function that introduces to them all
-               f_intro_109_110_111_112
+            f_intro_109_110_111_112
          ;;
 
          *)
@@ -5137,7 +5134,7 @@ a)
          ;;
       esac
    ;;
-   pic)
+   pic | p)
       
       # variable to use below
          v_pictures="${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics"
@@ -5179,602 +5176,483 @@ a)
          ;;
       esac
    ;;
-   F)
+   full | f)
       # Displays FULL sutra material: The one you ask and it's introduction (same as running the 2 functions f_sutra_n + f_intro_sutra_n)
 
       case $2 in 
-         1) 
-            # This option echos out the text of function f_1 (equivalent to Shiva Sutra 0) + it's introduction
+         1) # This option echos out the text of function f_1 (equivalent to Shiva Sutra 0) + it's introduction
                f_1
                f_intro_1_2_3_4_5_6_7_8_9
                #f_explanation_Osho
                #f_pic
          ;;
-         2) 
-            # This option echos out the text of function f_2 (equivalent to Shiva Sutra 2) + it's introduction
+         2) # This option echos out the text of function f_2 (equivalent to Shiva Sutra 2) + it's introduction
                f_2
                f_intro_1_2_3_4_5_6_7_8_9
          ;;
-         3) 
-            # This option echos out the text of function f_3 (equivalent to Shiva Sutra 3) + it's introduction
+         3) # This option echos out the text of function f_3 (equivalent to Shiva Sutra 3) + it's introduction
                f_3
                f_intro_1_2_3_4_5_6_7_8_9
          ;;
-         4) 
-            # This option echos out the text of function f_4 (equivalent to Shiva Sutra 4) + it's introduction
+         4) # This option echos out the text of function f_4 (equivalent to Shiva Sutra 4) + it's introduction
                f_4
                f_intro_1_2_3_4_5_6_7_8_9
          ;;
-         5) 
-            # This option echos out the text of function f_5 (equivalent to Shiva Sutra 5) + it's introduction
+         5) # This option echos out the text of function f_5 (equivalent to Shiva Sutra 5) + it's introduction
                f_5
                f_intro_1_2_3_4_5_6_7_8_9
          ;;
-         6) 
-            # This option echos out the text of function f_6 (equivalent to Shiva Sutra 6) + it's introduction
+         6) # This option echos out the text of function f_6 (equivalent to Shiva Sutra 6) + it's introduction
                f_6
                f_intro_1_2_3_4_5_6_7_8_9
          ;;
-         7) 
-            # This option echos out the text of function f_7 (equivalent to Shiva Sutra 7) + it's introduction
+         7) # This option echos out the text of function f_7 (equivalent to Shiva Sutra 7) + it's introduction
                f_7
                f_intro_1_2_3_4_5_6_7_8_9
          ;;
-         8) 
-            # This option echos out the text of function f_8 (equivalent to Shiva Sutra 8) + it's introduction
+         8) # This option echos out the text of function f_8 (equivalent to Shiva Sutra 8) + it's introduction
                f_8
                f_intro_1_2_3_4_5_6_7_8_9
          ;;
-         9) 
-            # This option echos out the text of function 9 (equivalent to Shiva Sutra 9) + it's introduction
+         9) # This option echos out the text of function 9 (equivalent to Shiva Sutra 9) + it's introduction
                f_9
                f_intro_1_2_3_4_5_6_7_8_9
          ;;
-         10) 
-            # This option echos out the text of function 10 (equivalent to Shiva Sutra 10) + it's introduction
+         10) # This option echos out the text of function 10 (equivalent to Shiva Sutra 10) + it's introduction
                f_10
                f_intro_10_11_12
          ;;
-         11) 
-            # This option echos out the text of function 11 (equivalent to Shiva Sutra 11) + it's introduction
+         11) # This option echos out the text of function 11 (equivalent to Shiva Sutra 11) + it's introduction
                f_11
                f_intro_10_11_12
          ;;
-         12) 
-            # This option echos out the text of function 12 (equivalent to Shiva Sutra 12) + it's introduction
+         12) # This option echos out the text of function 12 (equivalent to Shiva Sutra 12) + it's introduction
                f_12
                f_intro_10_11_12
          ;;
-         13) 
-            # This option echos out the text of function 13 (equivalent to Shiva Sutra 13) + it's introduction
+         13) # This option echos out the text of function 13 (equivalent to Shiva Sutra 13) + it's introduction
                f_13
                f_intro_13_14
          ;;
-         14) 
-            # This option echos out the text of function 14 (equivalent to Shiva Sutra 14) + it's introduction
+         14) # This option echos out the text of function 14 (equivalent to Shiva Sutra 14) + it's introduction
                f_14
                f_intro_13_14
          ;;
-         15) 
-            # This option echos out the text of function 15 (equivalent to Shiva Sutra 15) + it's introduction
+         15) # This option echos out the text of function 15 (equivalent to Shiva Sutra 15) + it's introduction
                f_15
                f_intro_15_16_17
          ;;
-         16) 
-            # This option echos out the text of function 16 (equivalent to Shiva Sutra 16) + it's introduction
+         16) # This option echos out the text of function 16 (equivalent to Shiva Sutra 16) + it's introduction
                f_16
                f_intro_15_16_17
          ;;
-         17) 
-            # This option echos out the text of function 17 (equivalent to Shiva Sutra 17) + it's introduction
+         17) # This option echos out the text of function 17 (equivalent to Shiva Sutra 17) + it's introduction
                f_17
                f_intro_15_16_17
          ;;
-         18) 
-            # This option echos out the text of function 18 (equivalent to Shiva Sutra 18) + it's introduction
+         18) # This option echos out the text of function 18 (equivalent to Shiva Sutra 18) + it's introduction
                f_18
                f_intro_18_19_20_21
          ;;
-         19) 
-            # This option echos out the text of function 19 (equivalent to Shiva Sutra 19) + it's introduction
+         19) # This option echos out the text of function 19 (equivalent to Shiva Sutra 19) + it's introduction
                f_19
                f_intro_18_19_20_21
          ;;
-         20) 
-            # This option echos out the text of function 20 (equivalent to Shiva Sutra 20) + it's introduction
+         20) # This option echos out the text of function 20 (equivalent to Shiva Sutra 20) + it's introduction
                f_20
                f_intro_18_19_20_21
          ;;
-         21) 
-            # This option echos out the text of function 21 (equivalent to Shiva Sutra 21) + it's introduction
+         21) # This option echos out the text of function 21 (equivalent to Shiva Sutra 21) + it's introduction
                f_21
                f_intro_18_19_20_21
          ;;
-         22) 
-            # This option echos out the text of function 22 (equivalent to Shiva Sutra 22) + it's introduction
+         22) # This option echos out the text of function 22 (equivalent to Shiva Sutra 22) + it's introduction
                f_22
                f_intro_22_23_24
          ;;
-         23) 
-            # This option echos out the text of function 23 (equivalent to Shiva Sutra 23) + it's introduction
+         23) # This option echos out the text of function 23 (equivalent to Shiva Sutra 23) + it's introduction
                f_23
                f_intro_22_23_24
          ;;
-         24) 
-            # This option echos out the text of function 24 (equivalent to Shiva Sutra 24) + it's introduction
+         24) # This option echos out the text of function 24 (equivalent to Shiva Sutra 24) + it's introduction
                f_24
                f_intro_22_23_24
          ;;
-         25) 
-            # This option echos out the text of function 25 (equivalent to Shiva Sutra 25) + it's introduction
+         25) # This option echos out the text of function 25 (equivalent to Shiva Sutra 25) + it's introduction
                f_25
                f_intro_25_26_27
          ;;
-         26) 
-            # This option echos out the text of function 26 (equivalent to Shiva Sutra 26) + it's introduction
+         26) # This option echos out the text of function 26 (equivalent to Shiva Sutra 26) + it's introduction
                f_26
                f_intro_25_26_27
          ;;
-         27) 
-            # This option echos out the text of function 27 (equivalent to Shiva Sutra 27) + it's introduction
+         27) # This option echos out the text of function 27 (equivalent to Shiva Sutra 27) + it's introduction
                f_27
                f_intro_25_26_27
          ;;
-         28) 
-            # This option echos out the text of function 28 (equivalent to Shiva Sutra 28) + it's introduction
+         28) # This option echos out the text of function 28 (equivalent to Shiva Sutra 28) + it's introduction
                f_28
                f_intro_28_29
          ;;
-         29) 
-            # This option echos out the text of function 29 (equivalent to Shiva Sutra 29) + it's introduction
+         29) # This option echos out the text of function 29 (equivalent to Shiva Sutra 29) + it's introduction
                f_29
                f_intro_28_29
          ;;
-         30) 
-            # This option echos out the text of function 30 (equivalent to Shiva Sutra 30) + it's introduction
+         30) # This option echos out the text of function 30 (equivalent to Shiva Sutra 30) + it's introduction
                f_30
                f_intro_30_31_32
          ;;
-         31) 
-            # This option echos out the text of function 31 (equivalent to Shiva Sutra 31) + it's introduction
+         31) # This option echos out the text of function 31 (equivalent to Shiva Sutra 31) + it's introduction
                f_31
                f_intro_30_31_32
          ;;
-         32) 
-            # This option echos out the text of function 32 (equivalent to Shiva Sutra 32) + it's introduction
+         32) # This option echos out the text of function 32 (equivalent to Shiva Sutra 32) + it's introduction
                f_32
                f_intro_30_31_32
          ;;
-         33) 
-            # This option echos out the text of function 33 (equivalent to Shiva Sutra 33) + it's introduction
+         33) # This option echos out the text of function 33 (equivalent to Shiva Sutra 33) + it's introduction
                f_33
                f_intro_33_34_35_36
          ;;
-         34) 
-            # This option echos out the text of function 34 (equivalent to Shiva Sutra 34) + it's introduction
+         34) # This option echos out the text of function 34 (equivalent to Shiva Sutra 34) + it's introduction
                f_34
                f_intro_33_34_35_36
          ;;
-         35) 
-            # This option echos out the text of function 35 (equivalent to Shiva Sutra 35) + it's introduction
+         35) # This option echos out the text of function 35 (equivalent to Shiva Sutra 35) + it's introduction
                f_35
                f_intro_33_34_35_36
          ;;
-         36) 
-            # This option echos out the text of function 36 (equivalent to Shiva Sutra 36) + it's introduction
+         36) # This option echos out the text of function 36 (equivalent to Shiva Sutra 36) + it's introduction
                f_36
                f_intro_33_34_35_36
          ;;
-         37) 
-            # This option echos out the text of function 37 (equivalent to Shiva Sutra 37) + it's introduction
+         37) # This option echos out the text of function 37 (equivalent to Shiva Sutra 37) + it's introduction
                f_37
                f_intro_37_38
          ;;
-         38) 
-            # This option echos out the text of function 38 (equivalent to Shiva Sutra 38) + it's introduction
+         38) # This option echos out the text of function 38 (equivalent to Shiva Sutra 38) + it's introduction
                f_38
                f_intro_37_38
          ;;
-         39) 
-            # This option echos out the text of function 39 (equivalent to Shiva Sutra 39) + it's introduction
+         39) # This option echos out the text of function 39 (equivalent to Shiva Sutra 39) + it's introduction
                f_39
                f_intro_39_40_41
          ;;
-         40) 
-            # This option echos out the text of function 40 (equivalent to Shiva Sutra 40) + it's introduction
+         40) # This option echos out the text of function 40 (equivalent to Shiva Sutra 40) + it's introduction
                f_40
                f_intro_39_40_41
          ;;
-         41) 
-            # This option echos out the text of function 41 (equivalent to Shiva Sutra 41) + it's introduction
+         41) # This option echos out the text of function 41 (equivalent to Shiva Sutra 41) + it's introduction f_41
                f_41
                f_intro_39_40_41
          ;;
-         42) 
-            # This option echos out the text of function 42 (equivalent to Shiva Sutra 42) + it's introduction
+         42) # This option echos out the text of function 42 (equivalent to Shiva Sutra 42) + it's introduction
                f_42
                f_intro_42_43_44
          ;;
-         43) 
-            # This option echos out the text of function 43 (equivalent to Shiva Sutra 43) + it's introduction
+         43) # This option echos out the text of function 43 (equivalent to Shiva Sutra 43) + it's introduction
                f_43
                f_intro_42_43_44
          ;;
-         44) 
-            # This option echos out the text of function 44 (equivalent to Shiva Sutra 44) + it's introduction
+         44) # This option echos out the text of function 44 (equivalent to Shiva Sutra 44) + it's introduction
                f_44
                f_intro_42_43_44
          ;;
-         45) 
-            # This option echos out the text of function 45 (equivalent to Shiva Sutra 45) + it's introduction
+         45) # This option echos out the text of function 45 (equivalent to Shiva Sutra 45) + it's introduction
                f_45
                f_intro_45_46_47
          ;;
-         46) 
-            # This option echos out the text of function 46 (equivalent to Shiva Sutra 46) + it's introduction
+         46) # This option echos out the text of function 46 (equivalent to Shiva Sutra 46) + it's introduction
                f_46
                f_intro_45_46_47
          ;;
-         47) 
-            # This option echos out the text of function 47 (equivalent to Shiva Sutra 47) + it's introduction
+         47) # This option echos out the text of function 47 (equivalent to Shiva Sutra 47) + it's introduction
                f_47
                f_intro_45_46_47
          ;;
-         48) 
-            # This option echos out the text of function 48 (equivalent to Shiva Sutra 48) + it's introduction
+         48) # This option echos out the text of function 48 (equivalent to Shiva Sutra 48) + it's introduction
                f_48
                f_intro_48_49_50_51_52
          ;;
-         49) 
-            # This option echos out the text of function 49 (equivalent to Shiva Sutra 49) + it's introduction
+         49) # This option echos out the text of function 49 (equivalent to Shiva Sutra 49) + it's introduction
                f_49
                f_intro_48_49_50_51_52
          ;;
-         50) 
-            # This option echos out the text of function 50 (equivalent to Shiva Sutra 50) + it's introduction
+         50) # This option echos out the text of function 50 (equivalent to Shiva Sutra 50) + it's introduction
                f_50
                f_intro_48_49_50_51_52
          ;;
-         51) 
-            # This option echos out the text of function 51 (equivalent to Shiva Sutra 51) + it's introduction
+         51) # This option echos out the text of function 51 (equivalent to Shiva Sutra 51) + it's introduction
                f_51
                f_intro_48_49_50_51_52
          ;;
-         52) 
-            # This option echos out the text of function 52 (equivalent to Shiva Sutra 52) + it's introduction
+         52) # This option echos out the text of function 52 (equivalent to Shiva Sutra 52) + it's introduction
                f_52
                f_intro_48_49_50_51_52
          ;;
-         53) 
-            # This option echos out the text of function 53 (equivalent to Shiva Sutra 53) + it's introduction
+         53) # This option echos out the text of function 53 (equivalent to Shiva Sutra 53) + it's introduction
                f_53
                f_intro_53_54_55_56
          ;;
-         54) 
-            # This option echos out the text of function 54 (equivalent to Shiva Sutra 54) + it's introduction
+         54) # This option echos out the text of function 54 (equivalent to Shiva Sutra 54) + it's introduction
                f_54
                f_intro_53_54_55_56
          ;;
-         55) 
-            # This option echos out the text of function 55 (equivalent to Shiva Sutra 55) + it's introduction
+         55) # This option echos out the text of function 55 (equivalent to Shiva Sutra 55) + it's introduction
                f_55
                f_intro_53_54_55_56
          ;;
-         56) 
-            # This option echos out the text of function 56 (equivalent to Shiva Sutra 56) + it's introduction
+         56) # This option echos out the text of function 56 (equivalent to Shiva Sutra 56) + it's introduction
                f_56
                f_intro_53_54_55_56
          ;;
-         57) 
-            # This option echos out the text of function 57 (equivalent to Shiva Sutra 57) + it's introduction
+         57) # This option echos out the text of function 57 (equivalent to Shiva Sutra 57) + it's introduction
                f_57
                f_intro_57_58_59_60
          ;;
-         58) 
-            # This option echos out the text of function 58 (equivalent to Shiva Sutra 58) + it's introduction
+         58) # This option echos out the text of function 58 (equivalent to Shiva Sutra 58) + it's introduction
                f_58
                f_intro_57_58_59_60
          ;;
-         59) 
-            # This option echos out the text of function 59 (equivalent to Shiva Sutra 59) + it's introduction
+         59) # This option echos out the text of function 59 (equivalent to Shiva Sutra 59) + it's introduction
                f_59
                f_intro_57_58_59_60
          ;;
-         60) 
-            # This option echos out the text of function 60 (equivalent to Shiva Sutra 60) + it's introduction
+         60) # This option echos out the text of function 60 (equivalent to Shiva Sutra 60) + it's introduction
                f_60
                f_intro_57_58_59_60
          ;;
-         61) 
-            # This option echos out the text of function 61 (equivalent to Shiva Sutra 61) + it's introduction
+         61) # This option echos out the text of function 61 (equivalent to Shiva Sutra 61) + it's introduction
                f_61
                f_intro_61_62_63
          ;;
-         62) 
-            # This option echos out the text of function 62 (equivalent to Shiva Sutra 62) + it's introduction
+         62) # This option echos out the text of function 62 (equivalent to Shiva Sutra 62) + it's introduction
                f_62
                f_intro_61_62_63
          ;;
-         63) 
-            # This option echos out the text of function 63 (equivalent to Shiva Sutra 63) + it's introduction
+         63) # This option echos out the text of function 63 (equivalent to Shiva Sutra 63) + it's introduction
                f_63
                f_intro_61_62_63
          ;;
-         64) 
-            # This option echos out the text of function 64 (equivalent to Shiva Sutra 64) + it's introduction
+         64) # This option echos out the text of function 64 (equivalent to Shiva Sutra 64) + it's introduction
                f_64
                f_intro_64_65
          ;;
-         65) 
-            # This option echos out the text of function 65 (equivalent to Shiva Sutra 65) + it's introduction
+         65) # This option echos out the text of function 65 (equivalent to Shiva Sutra 65) + it's introduction
                f_65
                f_intro_64_65
          ;;
-         66) 
-            # This option echos out the text of function 66 (equivalent to Shiva Sutra 66) + it's introduction
+         66) # This option echos out the text of function 66 (equivalent to Shiva Sutra 66) + it's introduction
                f_66
                f_intro_66_67
          ;;
-         67) 
-            # This option echos out the text of function 67 (equivalent to Shiva Sutra 67) + it's introduction
+         67) # This option echos out the text of function 67 (equivalent to Shiva Sutra 67) + it's introduction
                f_67
                f_intro_66_67
          ;;
-         68) 
-            # This option echos out the text of function 68 (equivalent to Shiva Sutra 68) + it's introduction
+         68) # This option echos out the text of function 68 (equivalent to Shiva Sutra 68) + it's introduction
                f_68
                f_intro_68_69
          ;;
-         69) 
-            # This option echos out the text of function 69 (equivalent to Shiva Sutra 69) + it's introduction
+         69) # This option echos out the text of function 69 (equivalent to Shiva Sutra 69) + it's introduction
                f_69
                f_intro_68_69
          ;;
-         70) 
-            # This option echos out the text of function 70 (equivalent to Shiva Sutra 70) + it's introduction
+         70) # This option echos out the text of function 70 (equivalent to Shiva Sutra 70) + it's introduction
                f_70
                f_intro_70_71_72
          ;;
-         71) 
-            # This option echos out the text of function 71 (equivalent to Shiva Sutra 71) + it's introduction
+         71) # This option echos out the text of function 71 (equivalent to Shiva Sutra 71) + it's introduction
                f_71
                f_intro_70_71_72
          ;;
-         72) 
-            # This option echos out the text of function 72 (equivalent to Shiva Sutra 72) + it's introduction
+         72) # This option echos out the text of function 72 (equivalent to Shiva Sutra 72) + it's introduction
                f_72
                f_intro_70_71_72
          ;;
-         73) 
-            # This option echos out the text of function 73 (equivalent to Shiva Sutra 73) + it's introduction
+         73) # This option echos out the text of function 73 (equivalent to Shiva Sutra 73) + it's introduction
                f_73
                f_intro_73_74_75
          ;;
-         74) 
-            # This option echos out the text of function 74 (equivalent to Shiva Sutra 74) + it's introduction
+         74) # This option echos out the text of function 74 (equivalent to Shiva Sutra 74) + it's introduction
                f_74
                f_intro_73_74_75
          ;;
-         75) 
-            # This option echos out the text of function 75 (equivalent to Shiva Sutra 75) + it's introduction
+         75) # This option echos out the text of function 75 (equivalent to Shiva Sutra 75) + it's introduction
                f_75
                f_intro_73_74_75
          ;;
-         76) 
-            # This option echos out the text of function 76 (equivalent to Shiva Sutra 76) + it's introduction
+         76) # This option echos out the text of function 76 (equivalent to Shiva Sutra 76) + it's introduction
                f_76
                f_intro_76_77_78
          ;;
-         77) 
-            # This option echos out the text of function 77 (equivalent to Shiva Sutra 77) + it's introduction
+         77) # This option echos out the text of function 77 (equivalent to Shiva Sutra 77) + it's introduction
                f_77
                f_intro_76_77_78
          ;;
-         78) 
-            # This option echos out the text of function 78 (equivalent to Shiva Sutra 78) + it's introduction
+         78) # This option echos out the text of function 78 (equivalent to Shiva Sutra 78) + it's introduction
                f_78
                f_intro_76_77_78
          ;;
-         79) 
-            # This option echos out the text of function 79 (equivalent to Shiva Sutra 79) + it's introduction
+         79) # This option echos out the text of function 79 (equivalent to Shiva Sutra 79) + it's introduction
                f_79
                f_intro_79_80_81
          ;;
-         80) 
-            # This option echos out the text of function 80 (equivalent to Shiva Sutra 80) + it's introduction
+         80) # This option echos out the text of function 80 (equivalent to Shiva Sutra 80) + it's introduction
                f_80
                f_intro_79_80_81
          ;;
-         81) 
-            # This option echos out the text of function 81 (equivalent to Shiva Sutra 81) + it's introduction
+         81) # This option echos out the text of function 81 (equivalent to Shiva Sutra 81) + it's introduction
                f_81
                f_intro_79_80_81
          ;;
-         82) 
-            # This option echos out the text of function 82 (equivalent to Shiva Sutra 82) + it's introduction
+         82) # This option echos out the text of function 82 (equivalent to Shiva Sutra 82) + it's introduction
                f_82
                f_intro_82_83
          ;;
-         83) 
-            # This option echos out the text of function 83 (equivalent to Shiva Sutra 83) + it's introduction
+         83) # This option echos out the text of function 83 (equivalent to Shiva Sutra 83) + it's introduction
                f_83
                f_intro_82_83
          ;;
-         84) 
-            # This option echos out the text of function 84 (equivalent to Shiva Sutra 84) + it's introduction
+         84) # This option echos out the text of function 84 (equivalent to Shiva Sutra 84) + it's introduction
                f_84
                f_intro_84_85
          ;;
-         85) 
-            # This option echos out the text of function 85 (equivalent to Shiva Sutra 85) + it's introduction
+         85) # This option echos out the text of function 85 (equivalent to Shiva Sutra 85) + it's introduction
                f_85
                f_intro_84_85
          ;;
-         86) 
-            # This option echos out the text of function 86 (equivalent to Shiva Sutra 86) + it's introduction
+         86) # This option echos out the text of function 86 (equivalent to Shiva Sutra 86) + it's introduction
                f_86
                f_intro_86_87
          ;;
-         86) 
-            # This option echos out the text of function 86 (equivalent to Shiva Sutra 86) + it's introduction
+         86) # This option echos out the text of function 86 (equivalent to Shiva Sutra 86) + it's introduction
                f_86
                f_intro_86_87
          ;;
-         87) 
-            # This option echos out the text of function 87 (equivalent to Shiva Sutra 87) + it's introduction
+         87) # This option echos out the text of function 87 (equivalent to Shiva Sutra 87) + it's introduction
                f_87
                f_intro_86_87
          ;;
-         88) 
-            # This option echos out the text of function 88 (equivalent to Shiva Sutra 88) + it's introduction
+         88) # This option echos out the text of function 88 (equivalent to Shiva Sutra 88) + it's introduction
                f_88
                f_intro_88_89
          ;;
-         89) 
-            # This option echos out the text of function 89 (equivalent to Shiva Sutra 89) + it's introduction
+         89) # This option echos out the text of function 89 (equivalent to Shiva Sutra 89) + it's introduction
                f_89
                f_intro_88_89
          ;;
-         90) 
-            # This option echos out the text of function 90 (equivalent to Shiva Sutra 90) + it's introduction
+         90) # This option echos out the text of function 90 (equivalent to Shiva Sutra 90) + it's introduction
                f_90
                f_intro_90_91
          ;;
-         91) 
-            # This option echos out the text of function 91 (equivalent to Shiva Sutra 91) + it's introduction
+         91) # This option echos out the text of function 91 (equivalent to Shiva Sutra 91) + it's introduction
                f_91
                f_intro_90_91
          ;;
-         92) 
-            # This option echos out the text of function 92 (equivalent to Shiva Sutra 92) + it's introduction
+         92) # This option echos out the text of function 92 (equivalent to Shiva Sutra 92) + it's introduction
                f_92
                f_intro_92_93
          ;;
-         93) 
-            # This option echos out the text of function 93 (equivalent to Shiva Sutra 93) + it's introduction
+         93) # This option echos out the text of function 93 (equivalent to Shiva Sutra 93) + it's introduction
                f_93
                f_intro_92_93
          ;;
-         94) 
-            # This option echos out the text of function 94 (equivalent to Shiva Sutra 94) + it's introduction
+         94) # This option echos out the text of function 94 (equivalent to Shiva Sutra 94) + it's introduction
                f_94
                f_intro_94_95
          ;;
-         95) 
-            # This option echos out the text of function 95 (equivalent to Shiva Sutra 95) + it's introduction
+         95) # This option echos out the text of function 95 (equivalent to Shiva Sutra 95) + it's introduction
                f_95
                f_intro_94_95
          ;;
-         96) 
-            # This option echos out the text of function 96 (equivalent to Shiva Sutra 96) + it's introduction
+         96) # This option echos out the text of function 96 (equivalent to Shiva Sutra 96) + it's introduction
                f_96
                f_intro_96_97
          ;;
-         97) 
-            # This option echos out the text of function 97 (equivalent to Shiva Sutra 97) + it's introduction
+         97) # This option echos out the text of function 97 (equivalent to Shiva Sutra 97) + it's introduction
                f_97
                f_intro_96_97
          ;;
-         98) 
-            # This option echos out the text of function 98 (equivalent to Shiva Sutra 98) + it's introduction
+         98) # This option echos out the text of function 98 (equivalent to Shiva Sutra 98) + it's introduction
                f_98
                f_intro_98_99
          ;;
-         99) 
-            # This option echos out the text of function 99 (equivalent to Shiva Sutra 99) + it's introduction
+         99) # This option echos out the text of function 99 (equivalent to Shiva Sutra 99) + it's introduction
                f_99
                f_intro_98_99
          ;;
-         100) 
-            # This option echos out the text of function 100 (equivalent to Shiva Sutra 100) + it's introduction
+         100) # This option echos out the text of function 100 (equivalent to Shiva Sutra 100) + it's introduction
                f_100
                f_intro_100_101
          ;;
-         101) 
-            # This option echos out the text of function 101 (equivalent to Shiva Sutra 101) + it's introduction
+         101) # This option echos out the text of function 101 (equivalent to Shiva Sutra 101) + it's introduction
                f_101
                f_intro_100_101
          ;;
-         102) 
-            # This option echos out the text of function 102 (equivalent to Shiva Sutra 102) + it's introduction
+         102) # This option echos out the text of function 102 (equivalent to Shiva Sutra 102) + it's introduction
                f_102
                f_intro_102_103_104_105
          ;;
-         103) 
-            # This option echos out the text of function 103 (equivalent to Shiva Sutra 103) + it's introduction
+         103) # This option echos out the text of function 103 (equivalent to Shiva Sutra 103) + it's introduction
                f_103
                f_intro_102_103_104_105
          ;;
-         104) 
-            # This option echos out the text of function 104 (equivalent to Shiva Sutra 104) + it's introduction
+         104) # This option echos out the text of function 104 (equivalent to Shiva Sutra 104) + it's introduction
                f_104
                f_intro_102_103_104_105
          ;;
-         105) 
-            # This option echos out the text of function 105 (equivalent to Shiva Sutra 105) + it's introduction
+         105) # This option echos out the text of function 105 (equivalent to Shiva Sutra 105) + it's introduction
                f_105
                f_intro_102_103_104_105
          ;;
-         106) 
-            # This option echos out the text of function 106 (equivalent to Shiva Sutra 106) + it's introduction
+         106) # This option echos out the text of function 106 (equivalent to Shiva Sutra 106) + it's introduction
                f_106
                f_intro_106_107_108
          ;;
-         107) 
-            # This option echos out the text of function 107 (equivalent to Shiva Sutra 107) + it's introduction
+         107) # This option echos out the text of function 107 (equivalent to Shiva Sutra 107) + it's introduction
                f_107
                f_intro_106_107_108
          ;;
-         108) 
-            # This option echos out the text of function 108 (equivalent to Shiva Sutra 108) + it's introduction
+         108) # This option echos out the text of function 108 (equivalent to Shiva Sutra 108) + it's introduction
                f_108
                f_intro_106_107_108
          ;;
-         109) 
-            # This option echos out the text of function 109 (equivalent to Shiva Sutra 109) + it's introduction
+         109) # This option echos out the text of function 109 (equivalent to Shiva Sutra 109) + it's introduction
                f_109
                f_intro_109_110_111_112
          ;;
-         110) 
-            # This option echos out the text of function 110 (equivalent to Shiva Sutra 110) + it's introduction
+         110) # This option echos out the text of function 110 (equivalent to Shiva Sutra 110) + it's introduction
                f_110
                f_intro_109_110_111_112
          ;;
-         111) 
-            # This option echos out the text of function 111 (equivalent to Shiva Sutra 111) + it's introduction
+         111) # This option echos out the text of function 111 (equivalent to Shiva Sutra 111) + it's introduction
                f_111
                f_intro_109_110_111_112
          ;;
-         112) 
-            # This option echos out the text of function 112 (equivalent to Shiva Sutra 112) + it's introduction
+         112) # This option echos out the text of function 112 (equivalent to Shiva Sutra 112) + it's introduction
                f_112
                f_intro_109_110_111_112
          ;;
          *)
-            echo " > The flag -F gives you the full sutra + intoduction, please choose a number between 1 and 112"
+            echo " > The flag f gives you the full sutra + intoduction, please choose a number between 1 and 112"
          ;;
 
       esac
    ;;
-   -x | X | --explanation)
+   -x | x | -X | X | --explanation)
       # Storing sutra number (given as $3)
          v_sutra=$3
 
       case $2 in 
-         O | o) 
-            #Abrv. for OSHO
+         O | o | o-i | osho-intros) 
             # When explanation of each sutra is asked for, this one retrieves those of OSHO
-            # Use: ss -x Os <sutra>
-            #
-            # Explanation of ss #1 from Osho
+            # Use: ss x o <sutra>
 
             v_sutra=$3
             f_explanation_Osho
          ;;
-         O-intros | o-i)
-            echo "uDev"
-         ;;
-         Nn) 
+         Nn | nn) 
             #Abrv. for Nithyananda
             echo "uDev: only links for videos are available"
          ;;
