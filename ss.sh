@@ -5784,6 +5784,7 @@ a)
         # fzf menu exemplo
 
         # Lista de opcoes para o menu `fzf`
+          L6='6. Play  | Letras e seus sons: Sanskrit'
           L5='5. Play  | Jogos/Praticar'
           L4='4. Read  | Palestras de Yogis'
           L3='3. Print | VBT | partes'
@@ -5793,13 +5794,14 @@ a)
 
           L0='Menu #VBT (ou SS): '
 
-          v_list=$(echo -e "$L1 \n\n$L2 \n$L3 \n$L4 \n$L5" | fzf --prompt="$L0")
+          v_list=$(echo -e "$L1 \n\n$L2 \n$L3 \n$L4 \n$L5 \n$L6" | fzf --prompt="$L0")
 
 
         # Perceber qual foi a escolha da lista
-           [[ $v_list =~ "5" ]] && echo "Detetado 4 (debug)" 
-           [[ $v_list =~ "4" ]] && echo "Detetado 3 (debug)"
-           [[ $v_list =~ "3" ]] && echo "Detetado 2 (debug)"
+           [[ $v_list =~ "6" ]] && echo "Detetado 5 (debug)" 
+           [[ $v_list =~ "5" ]] && echo "Detetado 5 (debug)" 
+           [[ $v_list =~ "4" ]] && echo "Detetado 4 (debug)"
+           [[ $v_list =~ "3" ]] && echo "Detetado 3 (debug)"
            [[ $v_list =~ "2" ]] && f_tmp_file && f_display_all_ss > $v_tmp_file && sed -i '1d' $v_tmp_file && vim -R $v_tmp_file
            [[ $v_list =~ "1" ]] && echo 'Canceled: `ss`'
            unset v_list
