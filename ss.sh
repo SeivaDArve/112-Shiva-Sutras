@@ -768,7 +768,7 @@ function f_15_pt {
 
 function f_16_pt {
    echo "Shiva Sutra #16: "
-   echo " > Oh Abençoada, assim que os sentido são absorvidos pelo coração, chega ao centro da Flor-de-Lotus."
+   echo " > Abençoada, assim que os sentido são absorvidos pelo coração, chega ao centro da Flor-de-Lotus."
 }
 
 function f_17_pt {
