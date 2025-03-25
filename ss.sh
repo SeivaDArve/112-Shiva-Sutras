@@ -768,7 +768,7 @@ function f_15_pt {
 
 function f_16_pt {
    echo "Shiva Sutra #16: "
-   echo " > Abençoada, como os sentidos que são absorvidos no coração, alcansa o centro da lotus."
+   echo " > Abençoada, como os sentidos são absorvidos no coração, alcansa o centro da lotus."
 }
 
 function f_17_pt {

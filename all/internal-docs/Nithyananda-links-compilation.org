@@ -25,7 +25,7 @@ uDev: About objects: link: https://youtu.be/ts7Utrn_9Ug?si=lnz3aeTDqyXfHcKT
 
 sutra: https://www.instagram.com/reel/DFLS191xzl1/?igsh=a3poYXZrbGNjdWpp
 
-* Vigyan Bhairav Tantra
+* Vigyan Bhairav Tantra [[(elisp: org-cycle)][open]]
 
 ** Devi Questions
 
