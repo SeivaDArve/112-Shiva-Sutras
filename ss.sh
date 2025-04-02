@@ -695,7 +695,7 @@ function f_0_pt {
 
 function f_1_pt {
    echo "Shiva Sutra #1:"
-   echo " > Oh Radiante, esta experiência pode alvorecer entre dois fôlegos. Depois entrar (para baixo) e precisamente antes de voltar para cima (para fora) - a beneficência (a boa ação)."
+   echo " > Oh Radiante, esta experiência pode alvorecer entre dois fôlegos. Depois de entrar entrar (para baixo) e precisamente antes de voltar para cima (para fora) - o beneficio."
 }
 
 function f_2_pt {
