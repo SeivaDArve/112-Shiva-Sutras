@@ -1101,7 +1101,7 @@ function f_81_pt {
 
 function f_82_pt {
    echo "Shiva Sutra #82: "
-   echo " > Sente: O meu pensamento, o Eu, órgãos internos – Eu."
+   echo " > Sente: O meu pensamento, Ser, órgãos internos – Eu."
 }
 
 function f_83_pt {
