@@ -53,6 +53,32 @@ function f_test_dependencies {
       fi
 }
 
+function f_menu_praticar {
+
+   # Lista de opcoes para o menu `fzf`
+      Lz1='Save '; Lz2='<menu-terminal-command-here>'; Lz3="$Lz1\`$Lz2\`"; Lz4=$v_drya_fzf_menu_hist
+
+      L4='4. Opcao simples'                                      
+      L3='3. Opcao simples'                                      
+      L2='2. uDev: Menemonicas de cada 1 dos 112'  # Decorar so as pontas das frades. Exemplo:    SS#1: Radient One...       SS#2: Turns from down to up, and again...     SS#3: Out-breath fuse...     SS#4: One small self vanishes...                               
+      L1='1. Cancel'
+
+      L0="SELECT 1: Menu X: "
+      
+      v_list=$(echo -e "$L1 \n$L2 \n$L3 \n$L4 \n\n$Lz3" | fzf --cycle --prompt="$L0")
+
+      #echo "comando" >> ~/.bash_history && history -n
+      #history -s "echo 'Olá, mundo!'"
+
+   # Perceber qual foi a escolha da lista
+      [[ $v_list =~ $Lz3  ]] && echo "$Lz2" && history -s "$Lz2"
+      [[ $v_list =~ "4. " ]] && echo "uDev: $L4" && sleep 0.1 
+      [[ $v_list =~ "3. " ]] && echo "uDev: $L3" && sleep 0.1 
+      [[ $v_list =~ "2. " ]] && echo "uDev: $L2" && sleep 0.1 
+      [[ $v_list =~ "1. " ]] && echo "Canceled: $Lz2" && history -s "$Lz2"
+      unset v_list
+    
+}
 
 
 
@@ -5801,7 +5827,7 @@ a)
 
         # Perceber qual foi a escolha da lista
            [[ $v_list =~ "6" ]] && echo "Detetado 5 (debug)" 
-           [[ $v_list =~ "5" ]] && echo "Detetado 5 (debug)" 
+           [[ $v_list =~ "5" ]] && f_menu_praticar
            [[ $v_list =~ "4" ]] && echo "Detetado 4 (debug)"
            [[ $v_list =~ "3" ]] && echo "Detetado 3 (debug)"
            [[ $v_list =~ "2" ]] && f_tmp_file && f_display_all_ss > $v_tmp_file && sed -i '1d' $v_tmp_file && vim -R $v_tmp_file
