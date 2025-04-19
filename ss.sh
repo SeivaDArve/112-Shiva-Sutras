@@ -5221,7 +5221,7 @@ a)
            [[ $v_list =~ "5" ]] && f_menu_praticar
            [[ $v_list =~ "4" ]] && echo "Detetado 4 (debug)"
            [[ $v_list =~ "3" ]] && echo "Detetado 3 (debug)"
-           [[ $v_list =~ "2" ]] && f_tmp_file && f_display_all_ss > $v_tmp_file && sed -i '1d' $v_tmp_file && vim -R $v_tmp_file
+           [[ $v_list =~ "2" ]] && f_create_tmp_file && f_display_all_ss > $v_tmp && sed -i '1d' $v_tmp && vim -R $v_tmp
            [[ $v_list =~ "1" ]] && echo 'Canceled: `ss`'
            unset v_list
      }
