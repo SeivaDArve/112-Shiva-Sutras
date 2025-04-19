@@ -15,6 +15,7 @@
 
 # Load DRYa lib 2
    source $v_REPOS_CENTER/DRYa/all/lib/drya-lib-2-tmp-n-config-files.sh
+   # for: f_create_tmp_file + $v_tmp
 
 function f_cor1 {
    tput setaf 4
