@@ -153,7 +153,7 @@ function f_8_pt {
 
 function f_9_pt {
    echo "Shiva Sutra #9: "
-   echo " > Deita-te como morto. Enfurecido em raiva, mantém-te assim. Ou olha fixamente sem mexer nem uma pestana. Ou chupa algo e torna-te O Chupar."
+   echo " > Deita-te como morto. Enfurecido em raiva, mantém-te assim. Ou olha fixamente sem mexer nem uma pestana. Ou suga algo e torna-te a sucção."
 }
 
 function f_10_pt {
