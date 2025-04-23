@@ -38,7 +38,7 @@ function f_4 {
    echo "Shiva Sutra #4: "
    echo " > Or, when breath is all out (up) and stopped of itself, or all in (down) and stopped – in such universal pause, one’s small self vanishes. This is difficult only for the impure. "
    echo
-   echo " > The energy of breath should neither move out not enter, when the center unfolds by the dissolution of thoughts be unclutched, then one attains the nature of bhairava - Nithyananda"
+   echo " > The energy of breath should neither move out nor enter, when the center unfolds by the dissolution of thoughts be unclutched, then one attains the nature of bhairava - Nithyananda"
 }
 
 function f_5 {
