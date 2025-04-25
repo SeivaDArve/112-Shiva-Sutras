@@ -54,40 +54,12 @@ function f_test_dependencies {
       fi
 }
 
-function f_menu_praticar {
-
-   # Lista de opcoes para o menu `fzf`
-      Lz1='Save '; Lz2='<menu-terminal-command-here>'; Lz3="$Lz1\`$Lz2\`"; Lz4=$v_drya_fzf_menu_hist
-
-      L4='4. Opcao simples'                                      
-      L3='3. Opcao simples'                                      
-      L2='2. uDev: Menemonicas de cada 1 dos 112'  # Decorar so as pontas das frades. Exemplo:    SS#1: Radient One...       SS#2: Turns from down to up, and again...     SS#3: Out-breath fuse...     SS#4: One small self vanishes...                               
-      L1='1. Cancel'
-
-      L0="SELECT 1: Menu X: "
-      
-      v_list=$(echo -e "$L1 \n$L2 \n$L3 \n$L4 \n\n$Lz3" | fzf --cycle --prompt="$L0")
-
-      #echo "comando" >> ~/.bash_history && history -n
-      #history -s "echo 'Olá, mundo!'"
-
-   # Perceber qual foi a escolha da lista
-      [[ $v_list =~ $Lz3  ]] && echo "$Lz2" && history -s "$Lz2"
-      [[ $v_list =~ "4. " ]] && echo "uDev: $L4" && sleep 0.1 
-      [[ $v_list =~ "3. " ]] && echo "uDev: $L3" && sleep 0.1 
-      [[ $v_list =~ "2. " ]] && echo "uDev: $L2" && sleep 0.1 
-      [[ $v_list =~ "1. " ]] && echo "Canceled: $Lz2" && history -s "$Lz2"
-      unset v_list
-    
-}
 
 
 
 # Source: Original/English 112 shiva sutras 
    # Functions included: f_0; ... f_112; f_15_NN_transl; f_35_NN_transl; f_56_NN_transl; f_display_all_ss
    source ${v_REPOS_CENTER}/112-Shiva-Sutras/all/bin/1-original-english-f_112.sh
-
-
 
 
 
@@ -2674,6 +2646,33 @@ function f_intro_109_110_111_112 {
    Buddha has analyzed the human mind in a simpler way: he is one of the greatest scientists possible. He says your ego is nothing but desires, atomic desires. There are millions of desires; they make you. If you go on pulling out desires one by one, a moment will come when there is no desire left, you have disappeared… just space, just vacant space remains. And this, Buddha says, is nirvana. This is the cessation of your being completely; you are no more. And Buddha says this is silence: unless you are completely gone, silence cannot descend on you. Buddha says you cannot be silent because you are the problem; you cannot be peaceful because you are the disease; and you can never be blissful because you are the only barrier. The bliss can come at any moment but you are the barrier. When you are not, bliss will be there; when you are not, peace will be there; when you are not, silence will be there, when you are not, ecstasy will be there. When your inner being is totally empty, this emptiness itself is bliss. That’s why Buddha’s teachings are called SUNYAWAD, the philosophy of emptiness, or the philosophy of zero.
 
    These four techniques are to attain this state of being, or you can call it this state of no-being — there is no difference. You can give it a positive term, as Hindus and Jains have called it, soul, or you can give it a more appropriate but negative term, as Buddha has called it, ANATTA, no-selfness or no-soulness. It depends on you. But whatsoever you call it, there is no one to be named and called, there is just infinite space. That’s why I say that these are the ultimate techniques, the most delicate, the most difficult — but the most wonderful. And if you can work with any of these four techniques, you will gain the unattainable.  '
+}
+
+function f_menu_praticar {
+
+   # Lista de opcoes para o menu `fzf`
+      Lz1='Save '; Lz2='<menu-terminal-command-here>'; Lz3="$Lz1\`$Lz2\`"; Lz4=$v_drya_fzf_menu_hist
+
+      L4='4. Opcao simples'                                      
+      L3='3. Opcao simples'                                      
+      L2='2. uDev: Menemonicas de cada 1 dos 112'  # Decorar so as pontas das frades. Exemplo:    SS#1: Radient One...       SS#2: Turns from down to up, and again...     SS#3: Out-breath fuse...     SS#4: One small self vanishes...                               
+      L1='1. Cancel'
+
+      L0="SELECT 1: Menu X: "
+      
+      v_list=$(echo -e "$L1 \n$L2 \n$L3 \n$L4 \n\n$Lz3" | fzf --cycle --prompt="$L0")
+
+      #echo "comando" >> ~/.bash_history && history -n
+      #history -s "echo 'Olá, mundo!'"
+
+   # Perceber qual foi a escolha da lista
+      [[ $v_list =~ $Lz3  ]] && echo "$Lz2" && history -s "$Lz2"
+      [[ $v_list =~ "4. " ]] && echo "uDev: $L4" && sleep 0.1 
+      [[ $v_list =~ "3. " ]] && echo "uDev: $L3" && sleep 0.1 
+      [[ $v_list =~ "2. " ]] && echo "uDev: $L2" && sleep 0.1 
+      [[ $v_list =~ "1. " ]] && echo "Canceled: $Lz2" && history -s "$Lz2"
+      unset v_list
+    
 }
 
 function f_practice_9 {
