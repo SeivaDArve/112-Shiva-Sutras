@@ -3999,350 +3999,464 @@ a)
          ;;
       esac
    ;;
-   osho | o)
+   osho | o | O)
       # Description of this sutra by Osho
       case $2 in 
          0) 
-            echo "No description for this yet"
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          1) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          2) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          3) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          4) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          5) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          6) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          7) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          8) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          9) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=00
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          10) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          11) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          12) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          13) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          14) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          15) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          16) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          17) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          18) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          19) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          20) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          21) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          22) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          23) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          24) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          25) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          26) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          27) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          28) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          29) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          30) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          31) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          32) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          33) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          34) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          35) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          36) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          37) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          38) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          39) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          40) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          41) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          42) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          43) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          44) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          45) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          46) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          47) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          48) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          49) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          50) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          51) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          52) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          53) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          54) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          55) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          56) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          57) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          58) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          59) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          60) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          61) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          62) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          63) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          64) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          65) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          66) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          67) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          68) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          69) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          70) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          71) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          72) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          73) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          74) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          75) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          76) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          77) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          78) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          79) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          80) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          81) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          82) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          83) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          84) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          85) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          86) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          86) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          87) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          88) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          89) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          90) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          91) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          92) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          93) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          94) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          95) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          96) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          97) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          98) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          99) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            v_zeros=0
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          100) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          101) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          102) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          103) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          104) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          105) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          106) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          107) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          108) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          109) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          110) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          111) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          112) 
-            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-byOsho/description-${2}.txt
+            unset v_zeros
+            less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/descriptions-by-Osho/sutras/description-${v_zeros}${2}.txt
          ;;
          *) 
             echo "ss: --osho <number>"
