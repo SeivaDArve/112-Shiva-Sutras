@@ -2427,7 +2427,8 @@ function f_intro_94_95 {
 
    In the West they now have another technique they call psychodrama. That too is one of the oldest Buddhist methods — to become a part of a drama, to act it so totally that you forget that you are simply acting. The acting becomes action, and you are not the actor, you become a real doer in it. It changes you.
 
-   Tantra says that if you can change dreaming, imagination, if you can change your mind and the pattern of it, the reality behind will be different. Because it is deeply rooted in reality, you can move through the mind. These techniques are just to change the way and the style in which your mind has been behaving up to now.  '
+   Tantra says that if you can change dreaming, imagination, if you can change your mind and the pattern of it, the reality behind will be different. Because it is deeply rooted in reality, you can move through the mind. These techniques are just to change the way and the style in which your mind has been behaving up to now.  
+   '
 }
 
 function f_intro_96_97 {
@@ -2501,7 +2502,8 @@ function f_intro_98_99 {
 
    If you know how to relax then nothing can disturb you. If you don’t know how to relax then everything will disturb you. I say everything. It is not really something else that disturbs you, everything else is just an excuse. You are almost always ready to be disturbed. If one thing doesn’t disturb you, then something else will; you will get disturbed. You are ready, you have a tendency to get disturbed. If all the causes are withdrawn from you even then you will get disturbed. You will find some cause, you will create some cause. If nothing comes from without, you will create something from within — some thought, some idea — and you will get disturbed. You need excuses. Once you know how to relax nothing can disturb you. Not that the world will change, not that things will be different. The world will be the same. But you don’t have the tendency, you don’t have the madness; you are not constantly ready to be disturbed. Then all that happens around you is soothing — even the traffic noise becomes soothing if you are relaxed. Even the market-place becomes soothing. It depends on you. It is an inner quality. The more you go towards the center the more the quality arises and the more you move towards the periphery the more you will be disturbed. If you are too disturbed or if you are prone to be disturbed that shows only one thing: that you are existing near the periphery — nothing else. It is an indication that you have made your abode near the surface. And this is a false abode because your real home is at the center, the very center of your being.
 
-   Now we will enter the techniques.  '
+   Now we will enter the techniques.  
+   '
 }
 
 function f_intro_100_101 {
@@ -2551,7 +2553,8 @@ function f_intro_100_101 {
 
    Every moment you are different because you are not — and unless you are, the Divine cannot happen to you. To whom can it happen? You are not there. People come to me and they say, “We would like to see God.” I ask them, “Who will see? You are not there. God is always there, but you are not there to see. It is just a passing thought that you want to see God.” The next moment they are not interested; the next moment they have forgotten all about it. A persistent, intense effort and longing is needed. Then any method will do.
 
-   Now, we should enter the methods.  '
+   Now, we should enter the methods.  
+   '
 }
 
 function f_intro_102_103_104_105 {
@@ -2583,7 +2586,8 @@ function f_intro_102_103_104_105 {
 
    So remember, don’t start thinking about these techniques: that this technique is against that. Shiva is not trying to create a system, he is not a system-maker. Shiva is giving all the techniques without any systematizing. They cannot be systematized, because a system means that the contradictory, the opposite, must be denied. And here the opposite is included. It is both Apollo and Dionysius; it is both serious and laughing; it is both immanent and transcendent; it is both earthly and unearthly — because it is all.
 
-   Now we should enter the techniques:  '
+   Now we should enter the techniques:  
+   '
 }
 
 function f_intro_106_107_108 {
@@ -2611,7 +2615,8 @@ function f_intro_106_107_108 {
 
    The seed must die. Every man is born as a seed. The ego is the outer covering; it protects the child. If a child is born without the ego, without the feeling that “I exist”, he cannot survive. He will to be able to protect himself, he will not be able to struggle, he will not be able in any way to exist. He needs a strong center. Even if it is false, it is needed. But a moment comes when this help becomes a hindrance. It protects you from outside, but it become so strong that it will not allow you, the inner being, to spread, to go beyond it, to sprout. So ego is needed — and then ego-transcendence is needed.
 
-   If someone dies with the ego, he has died as a seed. He has died without really attaining the destiny that was possible, without attaining existence consciously These techniques are for how to destroy this seed.  '
+   If someone dies with the ego, he has died as a seed. He has died without really attaining the destiny that was possible, without attaining existence consciously These techniques are for how to destroy this seed.  
+   '
 }
 
 function f_intro_109_110_111_112 {
@@ -2645,7 +2650,9 @@ function f_intro_109_110_111_112 {
 
    Buddha has analyzed the human mind in a simpler way: he is one of the greatest scientists possible. He says your ego is nothing but desires, atomic desires. There are millions of desires; they make you. If you go on pulling out desires one by one, a moment will come when there is no desire left, you have disappeared… just space, just vacant space remains. And this, Buddha says, is nirvana. This is the cessation of your being completely; you are no more. And Buddha says this is silence: unless you are completely gone, silence cannot descend on you. Buddha says you cannot be silent because you are the problem; you cannot be peaceful because you are the disease; and you can never be blissful because you are the only barrier. The bliss can come at any moment but you are the barrier. When you are not, bliss will be there; when you are not, peace will be there; when you are not, silence will be there, when you are not, ecstasy will be there. When your inner being is totally empty, this emptiness itself is bliss. That’s why Buddha’s teachings are called SUNYAWAD, the philosophy of emptiness, or the philosophy of zero.
 
-   These four techniques are to attain this state of being, or you can call it this state of no-being — there is no difference. You can give it a positive term, as Hindus and Jains have called it, soul, or you can give it a more appropriate but negative term, as Buddha has called it, ANATTA, no-selfness or no-soulness. It depends on you. But whatsoever you call it, there is no one to be named and called, there is just infinite space. That’s why I say that these are the ultimate techniques, the most delicate, the most difficult — but the most wonderful. And if you can work with any of these four techniques, you will gain the unattainable.  '
+   These four techniques are to attain this state of being, or you can call it this state of no-being — there is no difference. You can give it a positive term, as Hindus and Jains have called it, soul, or you can give it a more appropriate but negative term, as Buddha has called it, ANATTA, no-selfness or no-soulness. It depends on you. But whatsoever you call it, there is no one to be named and called, there is just infinite space. That’s why I say that these are the ultimate techniques, the most delicate, the most difficult — but the most wonderful. And if you can work with any of these four techniques, you will gain the unattainable.  
+
+   '
 }
 
 function f_menu_praticar {
@@ -4667,7 +4674,7 @@ a)
          ;;
       esac
    ;;
-   pic | p)
+   pic | P)
       
       # variable to use below
          v_pictures="${v_REPOS_CENTER}/112-Shiva-Sutras/all/ss-pics"
@@ -5221,8 +5228,32 @@ a)
    -l | links)
       less ${v_REPOS_CENTER}/112-Shiva-Sutras/all/internal-docs/links-compilation.txt
    ;;
-   -p | p | --practice | practice)
+   p | -p | --practice | practice)
       case $2 in
+         6)
+            v_min=1
+            v_sec=$(($v_min*60))
+            v_sec=60
+            v_vib=3000
+
+            clear 
+            figlet Shiva Sutras
+            echo "Pracrice: 6: Making a sound every $v_min minuts ($v_sec seconds)"
+            termux-wake-lock
+
+            while true
+            do
+               date
+               v_snd_6=${v_REPOS_CENTER}/112-Shiva-Sutras/all/sounds/dog-breathing-4-fx-308612.mp3
+
+               # Usar 1 destas opcoes (Som ou Vibracao):
+                  mpv --really-quiet $v_snd_6 & disown
+                  termux-vibrate -d $v_vib
+
+               read -p " > Type 'C' to cancel: " -t $v_sec v_ans
+               [[ $v_ans == "C" ]] && termux-wake-unlock && exit
+            done
+         ;;
          9)
             # Run a script that speaks every 15 minuts saying how much time just passed. Like a stop watch but that never stops counting. 
                f_practice_9
