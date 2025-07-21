@@ -2832,12 +2832,6 @@ function f_random_nr {
    # Random number ranges between 0 to 112
       v_rand=$(shuf -i 0-112 -n 1)
    
-   clear
-
-   f_cor1
-   figlet "Shiva Sutras"
-   tput sgr0
-
    echo "Random SS number is $v_rand"
    
    figlet "SS # $v_rand"
@@ -2936,6 +2930,14 @@ a)
          rm ~/.tmp/ss.txt 2>/dev/null
    ;;
    r | -r | --random)
+      # Clears screen and Generates random numbers and asks user to remember the sutra behind that number
+         clear
+         f_cor1; figlet "Shiva Sutras"
+         tput sgr0
+         f_random_nr
+
+   ;;
+   r2 | -r2 | --random2)
       # Generates random numbers and asks user to remember the sutra behind that number
          f_random_nr
 
@@ -2950,6 +2952,9 @@ a)
             r)
                while true
                do
+                  clear
+                  f_cor1; figlet "Shiva Sutras"
+                  tput sgr0
                   f_random_nr
                   echo
                   echo 
