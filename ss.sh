@@ -14,7 +14,8 @@
 
 
 # Load DRYa lib 2
-   source $v_REPOS_CENTER/DRYa/all/lib/drya-lib-2-tmp-n-config-files.sh
+   v_lib2=${v_REPOS_CENTER}/DRYa/all/lib/libs/drya-lib-2-tmp-n-config-files.sh
+   [[ -f $v_lib2 ]] && (source $v_lib2 || read -s -n 1 -p "Error: drya-lib-2 does not exist" && echo)
    # for: f_create_tmp_file + $v_tmp
 
 function f_cor1 {
