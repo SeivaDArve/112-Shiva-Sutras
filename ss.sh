@@ -6,8 +6,8 @@ __name__="ss.sh"
 
 # Usage
    # This script is suposed to be called by DRYa repo
-   # From inside the file 'source-all-drya-files'
-   # And at 'source-all-drya-files' there is a line of code like:
+   # From inside the file 'dryaSRC'
+   # And at 'dryaSRC' there is a line of code like:
       # alias ss="bash ${v_REPOS_CENTER}/112-Shiva-Sutras/ss.sh"
 
 # This script was intended to be called at the terminal by the alias 'ss'. 
