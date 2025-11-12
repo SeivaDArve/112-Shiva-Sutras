@@ -2839,6 +2839,14 @@ function f_practice_25 {
 
 }
 
+function f_random_nr_3 {
+   f_hzl
+   # Random number ranges between 0 to 112
+      v_rand=$(shuf -i 0-112 -n 1)
+
+   f_$v_rand
+}
+
 function f_random_nr {
    # Generates random numbers and asks user to remember the sutra behind that number
 
@@ -2953,7 +2961,9 @@ a)
    r2 | -r2 | --random2)
       # Generates random numbers and asks user to remember the sutra behind that number
          f_random_nr
-
+   ;;
+   r3 | -r3 | --random3)
+         f_random_nr_3
    ;;
    R | -R | --RANDOM)
       # Generates random numbers without asking user to remember the sutra behind that number
